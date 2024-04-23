@@ -1,5 +1,9 @@
 title:Spencer's God Roll Wish List
 
+// Buzzard (Adept) ()
+dimwishlist:item=927835311&perks=1354429876,3891536761
+
+
 // Long Arm ()
 dimwishlist:item=8293111&perks=1820235745,2848615171
 
@@ -92,7 +96,7 @@ dimwishlist:item=250721843&perks=1749209109,4293542123
 dimwishlist:item=250721843&perks=1749209109,1685431615
 
 
-// Warden's Law (Adept) - Lucky Pants DPS Swap ()
+// Warden's Law (Adept) ()
 dimwishlist:item=267089201&perks=1354429876,1546637391
 
 
