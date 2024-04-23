@@ -1,5 +1,11 @@
 title:Spencer's God Roll Wish List
 
+// Cry Mutiny ()
+dimwishlist:item=616582330&perks=4293542123,4082225868
+dimwishlist:item=616582330&perks=3523296417,4082225868
+dimwishlist:item=616582330&perks=4293542123,1546637391
+dimwishlist:item=616582330&perks=3523296417,1546637391
+
 // Salvager's Salvo ()
 dimwishlist:item=2060863616&perks=2010801679,2396489472
 
