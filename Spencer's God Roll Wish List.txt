@@ -956,6 +956,9 @@ dimwishlist:item=4050645223&perks=3300816228,1546637391
 // Seventh Seraph Carbine ()
 dimwishlist:item=4070357005&perks=1354429876,365154968
 dimwishlist:item=4070357005&perks=1523832109,365154968
+dimwishlist:item=4070357005&perks=1354429876
+dimwishlist:item=4070357005&perks=365154968
+dimwishlist:item=4070357005&perks=1523832109
 
 
 // Accrued Redemption ()
