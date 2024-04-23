@@ -1,5 +1,11 @@
 title:Spencer's God Roll Wish List
 
+// Tears of Contrition
+dimwishlist:item=1366394399&perks=3400784728,3038247973
+dimwishlist:item=1366394399&perks=3400784728,64866129
+dimwishlist:item=1366394399&perks=573122728,3038247973
+dimwishlist:item=1366394399&perks=573122728,64866129
+
 
 // Buzzard (Adept) ()
 dimwishlist:item=927835311&perks=1354429876,3891536761
