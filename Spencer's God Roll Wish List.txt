@@ -1,5 +1,9 @@
 title:Spencer's God Roll Wish List
 
+// The Hothead ()
+dimwishlist:item=4255171531&perks=3300816228,2284787283
+dimwishlist:item=4255171531&perks=3300816228,1546637391
+
 // Cry Mutiny ()
 dimwishlist:item=616582330&perks=4293542123,4082225868
 dimwishlist:item=616582330&perks=3523296417,4082225868
