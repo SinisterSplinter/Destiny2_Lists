@@ -51,7 +51,6 @@ dimwishlist:item=3652506829&perks=3300816228,1546637391
 
 // Heliocentric QSC ()
 dimwishlist:item=3998080529&perks=3017780555,4293542123
-dimwishlist:item=3998080529&perks=3017780555,555281244
 
 // Hand in Hand ()
 dimwishlist:item=664109750&perks=3161816588,2679249093
