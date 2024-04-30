@@ -1,5 +1,8 @@
 title:Spencer's God Rolls
 
+// Acosmic ()
+dimwishlist:item=413901114&perks=2284787283,3194351027
+
 // Battle Scar ()
 dimwishlist:item=2099894368&perks=3700496672,3891536761
 
