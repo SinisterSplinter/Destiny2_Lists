@@ -652,17 +652,6 @@ dimwishlist:item=1757202961&perks=1966281507,2224838837
 // New Purpose ()
 dimwishlist:item=1780464822&perks=2779035018,3047969693
 
-// Falling Guillotine ()
-dimwishlist:item=1815105249&perks=2396489472,2048641572
-
-// Falling Guillotine ()
-dimwishlist:item=1815105249&perks=1749209109,3708227201
-dimwishlist:item=1815105249&perks=1749209109,3078487919
-
-// Falling Guillotine ()
-dimwishlist:item=1815105249&perks=1546637391,2077819806
-dimwishlist:item=1815105249&perks=4104185692,2077819806
-
 // The Summoner ()
 dimwishlist:item=1820994983&perks=1820235745,95528736
 
