@@ -1,5 +1,8 @@
 title:Spencer's God Rolls
 
+// Battle Scar ()
+dimwishlist:item=2099894368&perks=3700496672,3891536761
+
 // Cartesian Coordinate ()
 dimwishlist:item=2481881293&perks=1631667848,1546637391
 
