@@ -1,5 +1,8 @@
 title:Spencer's God Rolls
 
+// Cartesian Coordinate ()
+dimwishlist:item=2481881293&perks=1631667848,1546637391
+
 // Eleatic Principle ()
 dimwishlist:item=105306149&perks=2387244414,365154968
 dimwishlist:item=105306149&perks=2387244414,2939589096
