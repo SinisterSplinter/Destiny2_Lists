@@ -1,5 +1,8 @@
 title:Spencer's God Rolls
 
+// Pre Astyanax IV (Adept) ()
+dimwishlist:item=496556698&perks=201365942,4293542123
+
 // Acosmic ()
 dimwishlist:item=413901114&perks=2284787283,3194351027
 
