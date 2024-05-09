@@ -54,31 +54,18 @@ dimwishlist:item=407511664&perks=1523832109,365154968
 
 
     #notes:root of nightmares
-
 // Mykel's Reverence ()
-
 // Rufus's Fury ()
-
 // Acasia's Dejection ()
-
 // Nessa's Oblation ()
-
 // Koraxis's Distress ()
-
 // Briar's Contempt ()
-
 // Mykel's Reverence (Adept) ()
-
 // Rufus's Fury (Adept) ()
-
 // Acasia's Dejection (Adept) ()
-
 // Nessa's Oblation (Adept) ()
-
 // Koraxis's Distress (Adept) ()
-
 // Briar's Contempt (Adept) ()
-
 
     #notes:king's fall
 
@@ -198,23 +185,18 @@ dimwishlist:item=3248429089&perks=1359896290,557221067
 ~~~~~~~~~~~~~~~~~~~~
 
     #notes:warlord's ruin
-
 // Naeem's Lance ()
-dimwishlist:item=2806569825&perks=1523832109,555281244
-
 // Vengeful Whisper ()
 // Indebted Kindness ()
-// 	Dragoncult Sickle ()
+// Dragoncult Sickle ()
 
     #notes:ghost of the deep
-
 // New Pacific Epitaph ()
 // Greasy Luck ()
 // No Survivors ()
 // Cold Comfort ()
 
     #notes:duality
-
 // Lingering Dread ()
 // New Purpose ()
 // The Epicurean ()
@@ -223,7 +205,6 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 // Stormchaser ()
 
     #notes:prophecy
-
 // Judgment ()
 // The Last Breath ()
 // Relentless ()
@@ -270,12 +251,59 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 // Sleepless ()
 // Abide the Return ()
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+> > > EXOTIC MISSION < < <
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	#notes:presage
+// Firefright ()
+// Tears of Contrition ()
+// Austringer ()
+// Nezarec's Whisper ()
+// Without Remorse ()
+// Hollow Denial ()
+// Beloved ()
+// CALUS Mini-Tool ()
+// Drang (Baroque) ()
+// Bump in the Night ()
+
+	#notes:vox obscura
+// Piece of Mind ()
+// Thoughtless ()
+// Explosive Personality ()
+// Under Your Skin ()
+// Sweet Sorrow	()
+// Recurrent Impact ()
+
+	#notes:seraph shield
+// Disparity ()
+// IKELOS_HC_v1.0.3 ()
+// IKELOS_SG_v1.0.3 ()
+// IKELOS_SR_v1.0.3 ()
+// IKELOS_SMG_v1.0.3 ()
+// Tripwire Canary ()
+// Judgment of Kelgorath ()
+// Fire and Forget ()
+// Retrofit Escapade ()
+// Path of Least Resistance ()
+
 ~~~~~~~~~~~~~~~~~~~
 > > > SEASONS < < <
 ~~~~~~~~~~~~~~~~~~~
 
-		#notes:into the light
-
+	#notes:into the light
+// The Recluse ()
+// Hung Jury ()
+// Succession ()
+// Edge Transit ()
+// Elsie's Rifle ()
+// Falling Guillotine ()
+// Mountaintop ()
+// Midnight Coup ()
+// Hammerhead ()
+// Forbearance ()
+// Blast Furnace ()
+// Luna's Howl ()
 
     #notes:wish
 // Lethophobia ()
@@ -339,15 +367,79 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 // Luna Regolith III
 // Double-Edged Answer ()
 
-    #notes:gambit
+	#notes:nightfall
+// Loaded Question ()
+// Braytech Osprey ()
+// Warden's Law ()
+// Pre Astyanax IV ()
+// Undercurrent ()
+// Uzume RR4 ()
+// The Slammer ()
+// Wild Style ()
+// Loaded Question (Adept) ()
+// Braytech Osprey (Adept) ()
+// Warden's Law (Adept) ()
+// Pre Astyanax IV (Adept) ()
+// Undercurrent (Adept) ()
+// Uzume RR4 (Adept) ()
+// The Slammer (Adept) ()
+// Wild Style (Adept) ()
+
+	#notes:gambit
+// Borrowed Time ()
+// Servant Leader ()
+// Herod-C ()
+// Dead Weight ()
+// Yesteryear ()
+// Albruna-D ()
+// Trust ()
+// Laser Painter ()
+// Qua Xaphan V ()
+// Breakneck ()
 
     #notes:crucible
+// Survivor's Epitaph ()
+// Sorrow's Verse ()
+// Crisis Averted ()
+// Riptide ()
+// Out of Bounds ()
+// Blowout ()
+// Autumn Wind ()
+// Randy's Throwing Knife ()
+// Unending Tempest ()
+// Retrofuturist ()
 
     #notes:iron banner
+// Tusk of the Boar ()
+// Multimach CCX ()
+// Bite Of The Fox ()
+// The Guiding Sight ()
+// Jorum's Claw ()
+// Lethal Abundance ()
+// Point Of The Stag ()
+// Pressurized Precision ()
+// Riiswalker ()
+// Swarm Of The Raven ()
 
     #notes:trials
+// The Messenger ()
+// Unexpected Resurgence ()
+// Cataphract GL3 ()
+// Igneous Hammer ()
+// Incisor ()
+// Eye of Sol ()
+// The Summoner ()
+// The Prophet ()
+// The Messenger (Adept) ()
+// Unexpected Resurgence (Adept) ()
+// Cataphract GL3 (Adept) ()
+// Igneous Hammer (Adept) ()
+// Incisor (Adept) ()
+// Eye of Sol (Adept) ()
+// The Summoner (Adept) ()
+// The Prophet (Adept) ()
 
-		#notes:gunsmith
+	#notes:gunsmith
 // Cantata-57 ()
 // Syncopation-53 ()
 // Fugue-55 ()
@@ -372,16 +464,38 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 // Aurvandil FR6 ()
 
 ~~~~~~~~~~~~~~~~~~~~~
-> > > ACTIVITIES < < <
+> > > LOCATIONS < < <
 ~~~~~~~~~~~~~~~~~~~~~
 
-		#notes:terminal overload
-// Circular Logic ()
-// Basso Ostinato ()
-// Synchronic Roulette ()
+	#notes:neomuna
+// Round Robin ()
+// Volta Bracket ()
+// Iterative Loop ()
+// Phyllotactic Spiral ()
+// Dimensional Hypotrochoid ()
 
-		#notes:wellspring
+	#notes:throne world
+// Come to Pass ()
+// Pointed Inquiry ()
+// Empirical Evidence ()
+// Forensic Nightmare ()
+// Fel Taradiddle ()
+// Likely Suspect ()
+// Father's Sins ()
+// Tarnation ()
+// Red Herring ()
 
+	#notes:europa
+// Arctic Haze ()
+// Hailing Confusion ()
+// High Albedo ()
+// Bonechiller ()
+// Subzero Salvo ()
+// Thermal Erosion ()
+// Biting Winds ()
+// Coriolis Force ()
+
+__________________________________________________
 
 // Pre Astyanax IV (Adept) ()
 dimwishlist:item=496556698&perks=201365942,4293542123
