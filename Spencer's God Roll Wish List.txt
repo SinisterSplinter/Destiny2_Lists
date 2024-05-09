@@ -274,6 +274,9 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 > > > SEASONS < < <
 ~~~~~~~~~~~~~~~~~~~
 
+		#notes:into the light
+
+
     #notes:wish
 // Lethophobia ()
 // Scatter Signal ()
@@ -287,25 +290,98 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 // Subjunctive ()
 
     #notes:witch
+// Kept Confidence ()
+// Brya's Love ()
+// Locus Locutus ()
+// The Eremite ()
+// Eleatic Principle ()
+// Semiotician ()
+// The Showrunner ()
+// Nightshade ()
+// Persuader ()
+// Deadpan Delivery ()
 
     #notes:deep
+// Targeted Redaction ()
+// Different Times ()
+// Until Its Return ()
+// A Distant Pull ()
+// Rapacious Appetite ()
+// Thin Precipice ()
+// Spare Rations ()
+// Outlast ()
+// Last Man Standing ()
+// Sole Survivor ()
+// Bug-Out Bag ()
+// Just in Case ()
+
     #notes:defiance
-    #notes:seraph
+// Perpetualis ()
+// Prodigal Return ()
+// Regnant ()
+// Caretaker ()
+// Raconteur ()
+// Royal Executioner ()
 
 ~~~~~~~~~~~~~~~~~~~~~~
-> > > ACTIVITIES < < <
+> > > PLAYLIST < < <
 ~~~~~~~~~~~~~~~~~~~~~~
 
     #notes:vanguard
+// Empty Vessel ()
+// Punching Out ()
+// Fortissimo-11 ()
+// Strident Whistle ()
+// Pure Poetry ()
+// Prolonged Engagement ()
+// Nameless Midnight ()
+// Positive Outlook ()
+// Luna Regolith III
+// Double-Edged Answer ()
+
     #notes:gambit
+
     #notes:crucible
+
     #notes:iron banner
+
     #notes:trials
-    #notes:terminal overload
+
+		#notes:gunsmith
+// Cantata-57 ()
+// Syncopation-53 ()
+// Fugue-55 ()
+// Staccato-46 ()
+// Pizzicato-22 ()
+// Fioriture-59 ()
+// Palmyra-B ()
+// Perses-D ()
+// Ragnhild-D ()
+// Enyo-D ()
+// Boudica-C ()
+// Lodbrok-C ()
+// Krait ()
+// Redback-5si ()
+// Funnelweb ()
+// Lunulata-4B ()
+// Snorri FR5 ()
+// Typhon GL5 ()
+// Ogma PR6 ()
+// Gallu RR3 ()
+// Ammit AR2 ()
+// Aurvandil FR6 ()
 
 ~~~~~~~~~~~~~~~~~~~~~
-> > > LOCATIONS < < <
+> > > ACTIVITIES < < <
 ~~~~~~~~~~~~~~~~~~~~~
+
+		#notes:terminal overload
+// Circular Logic ()
+// Basso Ostinato ()
+// Synchronic Roulette ()
+
+		#notes:wellspring
+
 
 // Pre Astyanax IV (Adept) ()
 dimwishlist:item=496556698&perks=201365942,4293542123
