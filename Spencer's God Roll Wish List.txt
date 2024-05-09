@@ -124,120 +124,73 @@ dimwishlist:item=3904516037&perks=1799762209,3708227201
 dimwishlist:item=3248429089&perks=1359896290,3824105627
 dimwishlist:item=3248429089&perks=1359896290,557221067
 
-
     #notes:vow of the disciple
 
 // Submission ()
-
 // Deliverance ()
-
 // Insidious ()
-
 // Lubrae's Ruin ()
-
 // Forbearance ()
-
 // Cataclysmic (Adept) ()
-
 // Submission (Adept) ()
-
 // Deliverance (Adept) ()
-
 // Insidious (Adept) ()
-
 // Lubrae's Ruin (Adept) ()
-
 // Forbearance (Adept) ()
-
 // Cataclysmic (Adept) ()
 
 
     #notes:vault of glass
 
 // Fatebringer ()
-
 // Praedyth's Revenge ()
-
 // Vision of Confluence ()
-
 // Found Verdict ()
-
 // Corrective Measure ()
-
 // Hezen Vengeance ()
-
 // Fatebringer (Adept) ()
-
 // Praedyth's Revenge (Adept) ()
-
 // Vision of Confluence (Adept) ()
-
 // Found Verdict (Adept) ()
-
 // Corrective Measure (Adept) ()
-
 // Hezen Vengeance (Adept) ()
 
 
     #notes:deep stone crypt
 
 // Bequest (()
-
 // Trustee ()
-
 // Posterity ()
-
 // Commemoration ()
-
 // Succession ()
-
 // Heritage ()
-
 // Bequest (Adept) ()
-
 // Trustee (Adept) ()
-
 // Posterity (Adept) ()
-
 // Commemoration (Adept) ()
-
 // Succession (Adept) ()
-
 // Heritage (Adept) ()
 
 
     #notes:garden of salvation
 
 // Sacred Provenance ()
-
 // Accrued Redemption ()
-
 // Omniscient Eye ()
-
 // Prophet of Doom ()
-
 // Ancient Gospel ()
-
 // Reckless Oracle ()
-
 // Zealot's Reward ()
 
     notes:last wish
 
 // The Supremacy ()
-
 // Transfiguration ()
-
 // Chattering Bone ()
-
 // Nation of Beasts ()
-
 // Age-Old Bond ()
-
 // Tyranny of Heaven ()
-
 // Techeun Force ()
-
 // Apex Predator ()
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -246,35 +199,113 @@ dimwishlist:item=3248429089&perks=1359896290,557221067
 
     #notes:warlord's ruin
 
+// Naeem's Lance ()
+dimwishlist:item=2806569825&perks=1523832109,555281244
+
+// Vengeful Whisper ()
+// Indebted Kindness ()
+// 	Dragoncult Sickle ()
+
     #notes:ghost of the deep
+
+// New Pacific Epitaph ()
+// Greasy Luck ()
+// No Survivors ()
+// Cold Comfort ()
 
     #notes:duality
 
+// Lingering Dread ()
+// New Purpose ()
+// The Epicurean ()
+// Unforgiven ()
+// Fixed Odds ()
+// Stormchaser ()
+
     #notes:prophecy
 
+// Judgment ()
+// The Last Breath ()
+// Relentless ()
+// Adjudicator ()
+// A Sudden Death ()
+// A Swift Verdict ()
+// Darkest Before ()
+// The Long Walk ()
+// Prosecutor ()
+
     #notes:spire of the watcher
+// Liminal Vigil ()
+// Wilderflight ()
+// Long Arm ()
+// Terminus Horizon	()
 
     #notes:grasp of avarice
+// Eyasluna ()
+// Matador 64 ()
+// 1000 Yard Stare ()
+// Hero of Ages ()
 
     #notes:pit of heresy
+// Every Waking Moment ()
+// Love and Death ()
+// A Fine Memorial ()
+// One Small Step ()
+// Premonition ()
+// Loud Lullaby ()
+// Arc Logic ()
+// Dream Breaker ()
+// Tranquility ()
+// Night Terror ()
+// Apostate ()
+// Blasphemer ()
+// Heretic ()
 
     #notes:shattered throne
+// Tigerspite ()
+// Vouchsafe ()
+// Waking Vigil ()
+// Retold Tale ()
+// Twilight Oath ()
+// Sleepless ()
+// Abide the Return ()
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> > > SEASON OF THE WISH < < <
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+> > > SEASONS < < <
+~~~~~~~~~~~~~~~~~~~
 
-    #notes:the coil
+    #notes:wish
+// Lethophobia ()
+// Scatter Signal ()
+// Doomed Petitioner ()
+// Supercluster ()
+// Scalar Potential ()
+// Appetence ()
+// Optative ()
+// Adhortative ()
+// Imperative ()
+// Subjunctive ()
 
-    #notes:
+    #notes:witch
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> > > SEASON OF THE WITCH < < <
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #notes:deep
+    #notes:defiance
+    #notes:seraph
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> > > SEASON OF THE DEEP < < <
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+> > > ACTIVITIES < < <
+~~~~~~~~~~~~~~~~~~~~~~
+
+    #notes:vanguard
+    #notes:gambit
+    #notes:crucible
+    #notes:iron banner
+    #notes:trials
+    #notes:terminal overload
+
+~~~~~~~~~~~~~~~~~~~~~
+> > > LOCATIONS < < <
+~~~~~~~~~~~~~~~~~~~~~
 
 // Pre Astyanax IV (Adept) ()
 dimwishlist:item=496556698&perks=201365942,4293542123
