@@ -256,22 +256,42 @@ dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=461595545,3335686050
 
     #notes:garden of salvation
+
 // Sacred Provenance ()
+dimwishlist:item=2408405461&perks=1168162263,1015611457
+
 // Accrued Redemption ()
+dimwishlist:item=4095896073&perks=201365942,3365897133
+
 // Omniscient Eye ()
+dimwishlist:item=3454326177&perks=1168162263,2848615171
+
 // Prophet of Doom ()
+dimwishlist:item=4020742303&perks=2039302152,2679249093
+
 // Ancient Gospel ()
+dimwishlist:item=48643186&perks=247725512,2848615171
+
 // Reckless Oracle ()
+
 // Zealot's Reward ()
 
     notes:last wish
+
 // The Supremacy ()
+
 // Transfiguration ()
+
 // Chattering Bone ()
+
 // Nation of Beasts ()
+
 // Age-Old Bond ()
+
 // Tyranny of Heaven ()
+
 // Techeun Force ()
+
 // Apex Predator ()
 
 ~~~~~~~~~~~~~~~~~~~~
