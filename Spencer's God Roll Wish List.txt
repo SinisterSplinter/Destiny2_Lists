@@ -52,20 +52,52 @@ dimwishlist:item=578105049&perks=3523296417,2173046394
 // Song of Ir Yût (Adept) ()
 dimwishlist:item=407511664&perks=1523832109,365154968
 
-
     #notes:root of nightmares
+
 // Mykel's Reverence ()
+dimwishlist:item=231031173&perks=3418782618,4104185692
+dimwishlist:item=231031173&perks=1563455254,3007133316
+
 // Rufus's Fury ()
+dimwishlist:item=484515708&perks=1523832109,365154968
+dimwishlist:item=484515708&perks=461595545,2939589096
+
 // Acasia's Dejection ()
+dimwishlist:item=1471212226&perks=1523832109,4293542123
+dimwishlist:item=1471212226&perks=461595545,2675184851
+
 // Nessa's Oblation ()
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=461595545,3418165135
+
 // Koraxis's Distress ()
+dimwishlist:item=2972949637&perks=1523832109,4104185692
+dimwishlist:item=2972949637&perks=1523832109,3708227201
+dimwishlist:item=2972949637&perks=461595545,3007133316
+dimwishlist:item=2972949637&perks=461595545,781192741
+
 // Briar's Contempt ()
+dimwishlist:item=1491665733&perks=1523832109,4104185692
+dimwishlist:item=1491665733&perks=461595545,3007133316
+
 // Mykel's Reverence (Adept) ()
+dimwishlist:item=1986287028&perks=3418782618,4104185692
+
 // Rufus's Fury (Adept) ()
+dimwishlist:item=342514437&perks=1523832109,365154968
+
 // Acasia's Dejection (Adept) ()
+dimwishlist:item=3493494807&perks=1523832109,4293542123
+
 // Nessa's Oblation (Adept) ()
+dimwishlist:item=522366885&perks=1523832109,1546637391
+
 // Koraxis's Distress (Adept) ()
+dimwishlist:item=495442100&perks=1523832109,4104185692
+dimwishlist:item=495442100&perks=1523832109,3708227201
+
 // Briar's Contempt (Adept) ()
+dimwishlist:item=1491665733&perks=461595545,3007133316
 
     #notes:king's fall
 
@@ -114,53 +146,116 @@ dimwishlist:item=3248429089&perks=1359896290,557221067
     #notes:vow of the disciple
 
 // Submission ()
-// Deliverance ()
-// Insidious ()
-// Lubrae's Ruin ()
-// Forbearance ()
-// Cataclysmic (Adept) ()
-// Submission (Adept) ()
-// Deliverance (Adept) ()
-// Insidious (Adept) ()
-// Lubrae's Ruin (Adept) ()
-// Forbearance (Adept) ()
-// Cataclysmic (Adept) ()
+dimwishlist:item=3886416794&perks=1820235745,4082225868
+dimwishlist:item=3886416794&perks=4245865861,1161469972
 
+// Deliverance ()
+dimwishlist:item=768621510&perks=3523296417,2978966579
+dimwishlist:item=768621510&perks=1906147653,344235611
+
+// Insidious ()
+dimwishlist:item=3428521585&perks=2848615171,4049631843
+dimwishlist:item=3428521585&perks=169755979,859780267
+
+// Lubrae's Ruin ()
+dimwishlist:item=2534546147&perks=1631667848,4082225868
+dimwishlist:item=2534546147&perks=402033656,1161469972
+
+// Forbearance ()
+dimwishlist:item=613334176&perks=2010801679,2396489472
+dimwishlist:item=613334176&perks=3797647183,598607952
+
+// Cataclysmic ()
+dimwishlist:item=999767358&perks=1354429876,3078487919
+dimwishlist:item=999767358&perks=848860060,3744057135
+
+// Submission (Adept) ()
+dimwishlist:item=1941816543&perks=1820235745,4082225868
+
+// Deliverance (Adept) ()
+dimwishlist:item=2943293195&perks=3523296417,2978966579
+
+// Insidious (Adept) ()
+dimwishlist:item=786352912&perks=2848615171,4049631843
+
+// Lubrae's Ruin (Adept) ()
+dimwishlist:item=1466006054&perks=1631667848,4082225868
+
+// Forbearance (Adept) ()
+dimwishlist:item=4038592169&perks=2010801679,2396489472
+
+// Cataclysmic (Adept) ()
+dimwishlist:item=2886339027&perks=1354429876,3078487919
 
     #notes:vault of glass
 
 // Fatebringer ()
-// Praedyth's Revenge ()
-// Vision of Confluence ()
-// Found Verdict ()
-// Corrective Measure ()
-// Hezen Vengeance ()
-// Fatebringer (Adept) ()
-// Praedyth's Revenge (Adept) ()
-// Vision of Confluence (Adept) ()
-// Found Verdict (Adept) ()
-// Corrective Measure (Adept) ()
-// Hezen Vengeance (Adept) ()
+dimwishlist:item=2171478765&perks=3038247973,3824105627
 
+// Praedyth's Revenge ()
+dimwishlist:item=3653573172&perks=3418782618,2213355989
+
+// Vision of Confluence ()
+dimwishlist:item=3186018373&perks=2387244414,3824105627
+
+// Found Verdict ()
+dimwishlist:item=3197270240&perks=3300816228,2679249093
+
+// Corrective Measure ()
+dimwishlist:item=471518543&perks=1820235745,4049631843
+
+// Hezen Vengeance ()
+dimwishlist:item=4050645223&perks=3300816228,1275731761
+
+// Fatebringer (Timelost) ()
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+
+// Praedyth's Revenge (Timelost) ()
+dimwishlist:item=1987769101&perks=3418782618,2213355989
+
+// Vision of Confluence (Timelost) ()
+dimwishlist:item=690668916&perks=2387244414,3824105627
+
+// Found Verdict (Timelost) ()
+dimwishlist:item=631439337&perks=3300816228,2679249093
+
+// Corrective Measure (Timelost) ()
+dimwishlist:item=3796510434&perks=1820235745,4049631843
+
+// Hezen Vengeance (Timelost) ()
+dimwishlist:item=1921159786&perks=3300816228,1275731761
 
     #notes:deep stone crypt
 
-// Bequest (()
-// Trustee ()
-// Posterity ()
-// Commemoration ()
-// Succession ()
-// Heritage ()
-// Bequest (Adept) ()
-// Trustee (Adept) ()
-// Posterity (Adept) ()
-// Commemoration (Adept) ()
-// Succession (Adept) ()
-// Heritage (Adept) ()
+// Bequest ()
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=4085959009,781192741
 
+// Trustee ()
+dimwishlist:item=1392919471&perks=1523832109,4293542123
+dimwishlist:item=1392919471&perks=1523832109,4082225868
+dimwishlist:item=1392919471&perks=461595545,2675184851
+dimwishlist:item=1392919471&perks=461595545,1161469972
+
+// Posterity ()
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=461595545,288411554
+
+// Commemoration ()
+dimwishlist:item=4230965989&perks=1523832109,557221067
+dimwishlist:item=4230965989&perks=461595545,2896748467
+
+// Succession ()
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+dimwishlist:item=2990047042&perks=461595545,3418165135
+dimwishlist:item=2990047042&perks=461595545,3335686050
+
+// Heritage ()
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=461595545,3335686050
 
     #notes:garden of salvation
-
 // Sacred Provenance ()
 // Accrued Redemption ()
 // Omniscient Eye ()
@@ -170,7 +265,6 @@ dimwishlist:item=3248429089&perks=1359896290,557221067
 // Zealot's Reward ()
 
     notes:last wish
-
 // The Supremacy ()
 // Transfiguration ()
 // Chattering Bone ()
@@ -494,943 +588,3 @@ dimwishlist:item=3248429089&perks=1359896290,557221067
 // Thermal Erosion ()
 // Biting Winds ()
 // Coriolis Force ()
-
-__________________________________________________
-
-// Pre Astyanax IV (Adept) ()
-dimwishlist:item=496556698&perks=201365942,4293542123
-
-// Pre Astyanax IV ()
-dimwishlist:item=192784503&perks=201365942,4293542123
-
-// Acosmic ()
-dimwishlist:item=413901114&perks=2284787283,3194351027
-
-// Battle Scar ()
-dimwishlist:item=2099894368&perks=3700496672,3891536761
-
-// Cartesian Coordinate ()
-dimwishlist:item=2481881293&perks=1631667848,1546637391
-
-// Eleatic Principle ()
-dimwishlist:item=105306149&perks=2387244414,365154968
-dimwishlist:item=105306149&perks=2387244414,2939589096
-dimwishlist:item=105306149&perks=1748774930,365154968
-dimwishlist:item=105306149&perks=1748774930,2939589096
-
-// Horror Story ()
-dimwishlist:item=177568179&perks=1359896290,365154968
-
-// Glissando-47 ()
-dimwishlist:item=222606050&perks=1523832109,831391274
-
-// Compass Rose ()
-dimwishlist:item=233896077&perks=706527188,1546637391
-
-// Psi Hermetic V ()
-dimwishlist:item=358788212&perks=1168162263,460017080
-dimwishlist:item=358788212&perks=1168162263,1015611457
-
-// Persuader ()
-dimwishlist:item=781498181&perks=247725512,2048641572
-
-// Rapacious Appetite ()
-dimwishlist:item=1081724548&perks=1428297954,4049631843
-dimwishlist:item=1081724548&perks=1428297954,859780267
-dimwishlist:item=1081724548&perks=2014892510,4049631843
-dimwishlist:item=1081724548&perks=2014892510,859780267
-
-// Last Foray ()
-dimwishlist:item=1106635211&perks=968510818,4293542123
-
-// Epochal Integration ()
-dimwishlist:item=1123421440&perks=1583705720,4293542123
-
-// Just in Case ()
-dimwishlist:item=1139727256&perks=1749209109,4293542123
-
-// Sole Survivor ()
-dimwishlist:item=1150492185&perks=1168162263,2173046394
-
-// Deadpan Delivery ()
-dimwishlist:item=1296429091&perks=3643424744,2679249093
-
-// Combined Action ()
-dimwishlist:item=1331824604&perks=2387244414,2173046394
-
-// Outlast ()
-dimwishlist:item=1678205741&perks=1168162263,2848615171
-
-// A Distant Pull ()
-dimwishlist:item=1769847435&perks=3400784728,2896038713
-dimwishlist:item=1769847435&perks=3400784728,2402480669
-dimwishlist:item=1769847435&perks=573122728,2896038713
-dimwishlist:item=1769847435&perks=573122728,2402480669
-
-// Kept Confidence (pvp)
-//notes: tags:pvp
-dimwishlist:item=1875512595&perks=706527188,699525795
-dimwishlist:item=1875512595&perks=706527188,3719974635
-dimwishlist:item=1875512595&perks=1961144892,699525795
-dimwishlist:item=1875512595&perks=1961144892,3719974635
-
-// Kept Confidence (pve)
-//notes: tags:pve
-dimwishlist:item=1875512595&perks=2450788523,2458213969
-dimwishlist:item=1875512595&perks=2450788523,2570477205
-dimwishlist:item=1875512595&perks=2450788523,2726471870
-dimwishlist:item=1875512595&perks=2450788523,1172413778
-dimwishlist:item=1875512595&perks=4207509907,2458213969
-dimwishlist:item=1875512595&perks=4207509907,2570477205
-dimwishlist:item=1875512595&perks=4207509907,2726471870
-dimwishlist:item=1875512595&perks=4207509907,1172413778
-
-// Stay Frosty ()
-dimwishlist:item=1891321753&perks=3828510309,1015611457
-
-// Zephyr ()
-dimwishlist:item=1911078836&perks=1749209109,3650930298
-
-// Nightshade ()
-dimwishlist:item=1974641289&perks=1168162263,460017080
-dimwishlist:item=1974641289&perks=1168162263,1015611457
-
-// The Showrunner ()
-dimwishlist:item=1999754402&perks=3643424744,3891536761
-
-// The Showrunner ()
-dimwishlist:item=1999754402&perks=1631667848,4082225868
-
-// Albedo Wing ()
-dimwishlist:item=2680976411&perks=2859149211,1782407750
-
-// Glacioclasm ()
-dimwishlist:item=2728851518&perks=3643424744,2594592626
-dimwishlist:item=2728851518&perks=3643424744,1427256713
-
-// Nox Perennial V ()
-dimwishlist:item=2767393525&perks=968510818,2594592626
-
-// Brya's Love ()
-dimwishlist:item=2779821308&perks=247725512,3038247973
-dimwishlist:item=2779821308&perks=247725512,64866129
-dimwishlist:item=2779821308&perks=2938480696,3038247973
-dimwishlist:item=2779821308&perks=2938480696,64866129
-
-// Bug-Out Bag ()
-dimwishlist:item=2832639510&perks=1820235745,4293542123
-
-// Until Its Return ()
-dimwishlist:item=2883484461&perks=3643424744,3708227201
-dimwishlist:item=2883484461&perks=3643424744,781192741
-dimwishlist:item=2883484461&perks=2682205016,3708227201
-dimwishlist:item=2883484461&perks=2682205016,781192741
-
-// Semiotician ()
-dimwishlist:item=2922749929&perks=2869569095,1439600632
-dimwishlist:item=2922749929&perks=2869569095,2282937672
-dimwishlist:item=2922749929&perks=2869569095,3194351027
-dimwishlist:item=2922749929&perks=2869569095,2275087323
-dimwishlist:item=2922749929&perks=2308090567,1439600632
-dimwishlist:item=2922749929&perks=2308090567,2282937672
-dimwishlist:item=2922749929&perks=2308090567,3194351027
-dimwishlist:item=2922749929&perks=2308090567,2275087323
-dimwishlist:item=2922749929&perks=951095735,1439600632
-dimwishlist:item=2922749929&perks=951095735,2282937672
-dimwishlist:item=2922749929&perks=951095735,3194351027
-dimwishlist:item=2922749929&perks=951095735,2275087323
-dimwishlist:item=2922749929&perks=3878366039,1439600632
-dimwishlist:item=2922749929&perks=3878366039,2282937672
-dimwishlist:item=2922749929&perks=3878366039,3194351027
-dimwishlist:item=2922749929&perks=3878366039,2275087323
-
-// Different Times ()
-dimwishlist:item=3016891299&perks=1820235745,11612903
-dimwishlist:item=3016891299&perks=1820235745,2422968039
-dimwishlist:item=3016891299&perks=4245865861,11612903
-dimwishlist:item=3016891299&perks=4245865861,2422968039
-
-// Jurassic Green ()
-dimwishlist:item=3103255595&perks=1820235745,4293542123
-
-// Cold Front ()
-dimwishlist:item=3206190066&perks=1820235745,3751912585
-
-// Cold Front ()
-dimwishlist:item=3206190066&perks=1820235745,4049631843
-dimwishlist:item=3206190066&perks=1820235745,3425386926
-dimwishlist:item=3206190066&perks=3418782618,4049631843
-dimwishlist:item=3206190066&perks=3418782618,3425386926
-
-// Cold Front ()
-dimwishlist:item=3206190066&perks=1583705720,4049631843
-
-// Spare Rations ()
-dimwishlist:item=3236112986&perks=247725512,3891536761
-
-// Crowning Duologue ()
-dimwishlist:item=3256453690&perks=3300816228,968510818
-
-// The Eremite ()
-dimwishlist:item=3347946548&perks=968510818,1427256713
-dimwishlist:item=3347946548&perks=968510818,254337357
-dimwishlist:item=3347946548&perks=968510818,2594592626
-dimwishlist:item=3347946548&perks=968510818,2037312142
-dimwishlist:item=3347946548&perks=424370782,1427256713
-dimwishlist:item=3347946548&perks=424370782,254337357
-dimwishlist:item=3347946548&perks=424370782,2594592626
-dimwishlist:item=3347946548&perks=424370782,2037312142
-
-// Geodetic HSm ()
-dimwishlist:item=3637669759&perks=776531651,2048641572
-
-// Mechabre ()
-dimwishlist:item=3871226707&perks=3300816228,2213355989
-
-// Targeted Redaction ()
-dimwishlist:item=3890055324&perks=1168162263,2048641572
-dimwishlist:item=3890055324&perks=1168162263,1926441324
-dimwishlist:item=3890055324&perks=1347741687,2048641572
-dimwishlist:item=3890055324&perks=1347741687,1926441324
-
-// Thin Precipice ()
-dimwishlist:item=4066778670&perks=1749209109,2396489472
-dimwishlist:item=4066778670&perks=1749209109,598607952
-dimwishlist:item=4066778670&perks=4085959009,2396489472
-dimwishlist:item=4066778670&perks=4085959009,598607952
-
-// Locus Locutus ()
-dimwishlist:item=4132072834&perks=3643424744,124408337
-dimwishlist:item=4132072834&perks=3643424744,1171887445
-dimwishlist:item=4132072834&perks=2682205016,124408337
-dimwishlist:item=4132072834&perks=2682205016,1171887445
-
-// Avalanche ()
-dimwishlist:item=4220529694&perks=3418782618,4293542123
-
-// Last Man Standing ()
-dimwishlist:item=4287947559&perks=691659142,3425386926
-
-// Wild Style ()
-dimwishlist:item=1332123064&perks=3032599245,968510818,4293542123
-dimwishlist:item=1332123064&perks=3301904089,968510818,4293542123
-dimwishlist:item=1332123064&perks=3301904089,968510818,3708227201
-dimwishlist:item=1332123064&perks=3301904089,968510818,4049631843
-dimwishlist:item=1332123064&perks=968510818,4293542123
-dimwishlist:item=1332123064&perks=968510818,3708227201
-dimwishlist:item=1332123064&perks=968510818,4049631843
-
-// The Hothead ()
-dimwishlist:item=4255171531&perks=3300816228,2284787283
-dimwishlist:item=4255171531&perks=3300816228,1546637391
-
-// Cry Mutiny ()
-dimwishlist:item=616582330&perks=4293542123,4082225868
-dimwishlist:item=616582330&perks=3523296417,4082225868
-dimwishlist:item=616582330&perks=4293542123,1546637391
-dimwishlist:item=616582330&perks=3523296417,1546637391
-
-// Salvager's Salvo ()
-dimwishlist:item=2060863616&perks=2010801679,1546637391
-dimwishlist:item=2060863616&perks=3523296417,1546637391
-dimwishlist:item=2060863616&perks=2010801679,2396489472
-dimwishlist:item=2060863616&perks=3523296417,2396489472
-
-// Sojourner's Tale ()
-dimwishlist:item=599895591&perks=4071163871,4104185692
-dimwishlist:item=599895591&perks=4071163871,3708227201
-dimwishlist:item=599895591&perks=706527188,4104185692
-dimwishlist:item=599895591&perks=706527188,3708227201
-
-// Hollow Denial ()
-dimwishlist:item=2323544076&perks=1556840489,557221067
-dimwishlist:item=2323544076&perks=1556840489,4082225868
-dimwishlist:item=2323544076&perks=3442762221,2896748467
-dimwishlist:item=2323544076&perks=3442762221,1161469972
-
-// Harsh Language ()
-dimwishlist:item=1606497639&perks=968510818,2048641572
-
-// Swarm of the Raven ()
-dimwishlist:item=433905699&perks=3301904089,951095735,968510818
-dimwishlist:item=433905699&perks=3301904089,951095735,2048641572
-
-// Typhon GL5 ()
-dimwishlist:item=3568377122&perks=3523296417,3194351027
-dimwishlist:item=3568377122&perks=3523296417,2978966579
-dimwishlist:item=3568377122&perks=951095735,2978966579
-
-// Recurrent Impact ()
-dimwishlist:item=1572896086&perks=1820235745,4104185692
-dimwishlist:item=1572896086&perks=1820235745,4049631843
-dimwishlist:item=1572896086&perks=4245865861,3007133316
-dimwishlist:item=1572896086&perks=4245865861,859780267
-
-// Bump in the Night ()
-dimwishlist:item=3652506829&perks=3300816228,1546637391
-
-// Heliocentric QSC ()
-dimwishlist:item=3998080529&perks=3017780555,4293542123
-
-// Hand in Hand ()
-dimwishlist:item=664109750&perks=3161816588,2679249093
-dimwishlist:item=664109750&perks=3161816588,2360754333
-
-// Path of Least Resistance ()
-dimwishlist:item=2827764482&perks=1820235745,2173046394,192157151
-dimwishlist:item=2827764482&perks=1820235745,4049631843,192157151
-dimwishlist:item=2827764482&perks=4245865861,1720528630,192157151
-dimwishlist:item=2827764482&perks=4245865861,859780267,192157151
-
-// IKELOS_SMG_v1.0.3 ()
-dimwishlist:item=2149683300&perks=2779035018,2173046394
-dimwishlist:item=2149683300&perks=2779035018,1720528630
-dimwishlist:item=2149683300&perks=1171147302,2173046394
-dimwishlist:item=2149683300&perks=1171147302,1720528630
-
-// Pointed Inquiry ()
-dimwishlist:item=297296830&perks=1354429876,2848615171
-dimwishlist:item=297296830&perks=1354429876,169755979
-dimwishlist:item=297296830&perks=848860060,2848615171
-dimwishlist:item=297296830&perks=848860060,169755979
-
-// Redback-5SI
-dimwishlist:item=1687353095&perks=1820235745,3425386926
-
-// Farewell ()
-dimwishlist:item=541188001&perks=1820235745,4104185692
-
-// Buzzard (Adept) ()
-dimwishlist:item=927835311&perks=1885400500,1354429876,3891536761
-dimwishlist:item=927835311&perks=1354429876,3891536761
-
-// Glissando-47 ()
-dimwishlist:item=222606050&perks=1523832109,831391274
-
-// Old Sterling ()
-dimwishlist:item=3678653083&perks=3418782618,4104185692
-
-// Long Arm ()
-dimwishlist:item=8293111&perks=1820235745,2848615171
-
-// Tears of Contrition ()
-dimwishlist:item=1366394399&perks=3400784728,3038247973
-dimwishlist:item=1366394399&perks=3400784728,64866129
-dimwishlist:item=1366394399&perks=573122728,3038247973
-dimwishlist:item=1366394399&perks=573122728,64866129
-
-// Ancient Gospel ()
-dimwishlist:item=48643186&perks=247725512,2848615171
-
-// Nation of Beasts ()
-dimwishlist:item=70083888&perks=2848615171,2173046394
-dimwishlist:item=70083888&perks=2848615171,1720528630
-dimwishlist:item=70083888&perks=2848615171,3038247973
-dimwishlist:item=70083888&perks=2848615171,64866129
-dimwishlist:item=70083888&perks=169755979,2173046394
-dimwishlist:item=70083888&perks=169755979,1720528630
-dimwishlist:item=70083888&perks=169755979,3038247973
-dimwishlist:item=70083888&perks=169755979,64866129
-
-// Supercluster ()
-dimwishlist:item=92459755&perks=1523832109,1546637391
-dimwishlist:item=92459755&perks=1523832109,3418165135
-dimwishlist:item=92459755&perks=1523832109,3708227201
-dimwishlist:item=92459755&perks=1523832109,781192741
-dimwishlist:item=92459755&perks=461595545,1546637391
-dimwishlist:item=92459755&perks=461595545,3418165135
-dimwishlist:item=92459755&perks=461595545,3708227201
-dimwishlist:item=92459755&perks=461595545,781192741
-
-// Double-Edged Answer ()
-dimwishlist:item=105164264&perks=1685431615,1546637391
-dimwishlist:item=105164264&perks=1685431615,3708227201
-
-// Hung Jury SR4 ()
-dimwishlist:item=205225492&perks=3891536761,3824105627
-dimwishlist:item=205225492&perks=3891536761,3038247973
-
-// Hung Jury SR4 ()
-dimwishlist:item=1453235079&perks=3891536761,3824105627
-dimwishlist:item=1453235079&perks=3891536761,3038247973
-
-// Premonition ()
-dimwishlist:item=208088207&perks=1885400500,2779035018,3425386926
-
-// Hammerhead ()
-dimwishlist:item=211732170&perks=3418782618,557221067
-dimwishlist:item=211732170&perks=3418782618,95528736
-
-// Hammerhead ()
-dimwishlist:item=1896309757&perks=3418782618,557221067
-dimwishlist:item=1896309757&perks=3418782618,95528736
-
-// Eyasluna ()
-dimwishlist:item=235827225&perks=247725512,1015611457
-
-// Falling Guillotine ()
-dimwishlist:item=243425374&perks=1749209109,3708227201
-dimwishlist:item=243425374&perks=1546637391,2077819806
-dimwishlist:item=243425374&perks=4104185692,2077819806
-
-// Falling Guillotine ()
-dimwishlist:item=1815105249&perks=1749209109,3708227201
-dimwishlist:item=1815105249&perks=1546637391,2077819806
-dimwishlist:item=1815105249&perks=4104185692,2077819806
-
-// Abide the Return ()
-dimwishlist:item=250721843&perks=1749209109,4293542123
-dimwishlist:item=250721843&perks=1749209109,1685431615
-
-// Warden's Law (Adept) - Lucky Pants DPS Swap ()
-dimwishlist:item=267089201&perks=1354429876,1546637391
-
-// Vouchsafe ()
-dimwishlist:item=355922321&perks=1354429876,2848615171
-dimwishlist:item=355922321&perks=1354429876,3038247973
-
-// Age-Old Bond ()
-dimwishlist:item=424291879&perks=2848615171,2048641572
-dimwishlist:item=424291879&perks=2848615171,1926441324
-dimwishlist:item=424291879&perks=169755979,2048641572
-dimwishlist:item=424291879&perks=169755979,1926441324
-dimwishlist:item=424291879&perks=1354429876,2048641572
-dimwishlist:item=424291879&perks=1354429876,1926441324
-dimwishlist:item=424291879&perks=848860060,2048641572
-dimwishlist:item=424291879&perks=848860060,1926441324
-
-// Darkest Before ()
-dimwishlist:item=435821040&perks=1820235745,4293542123
-dimwishlist:item=435821040&perks=3017780555,4293542123
-
-// Relentless ()
-dimwishlist:item=435821041&perks=247725512,3047969693
-
-// Corrective Measure ()
-dimwishlist:item=471518543&perks=1820235745,3824105627
-
-// Corrective Measure ()
-dimwishlist:item=471518543&perks=3418782618,2213355989
-
-// Terminus Horizon ()
-dimwishlist:item=487205709&perks=3400784728,11612903
-dimwishlist:item=487205709&perks=2848615171,11612903
-
-// Chattering Bone ()
-dimwishlist:item=501329015&perks=1015611457,3891536761
-dimwishlist:item=501329015&perks=1015611457,1549370717
-dimwishlist:item=501329015&perks=1015611457,3425386926
-dimwishlist:item=501329015&perks=1015611457,288411554
-dimwishlist:item=501329015&perks=2923251173,3891536761
-dimwishlist:item=501329015&perks=2923251173,1549370717
-dimwishlist:item=501329015&perks=2923251173,3425386926
-dimwishlist:item=501329015&perks=2923251173,288411554
-
-// Forbearance ()
-dimwishlist:item=568611921&perks=2010801679,2396489472
-
-// Forbearance ()
-dimwishlist:item=2480074702&perks=2010801679,2396489472
-
-// The Mountaintop ()
-dimwishlist:item=568611922&perks=3301904089,3300816228,469285294
-dimwishlist:item=568611922&perks=3301904089,3300816228,1546637391
-dimwishlist:item=568611922&perks=3301904089,2010801679,4049631843
-
-// The Mountaintop ()
-dimwishlist:item=568611922&perks=3492396210,3300816228,469285294
-dimwishlist:item=568611922&perks=3492396210,3300816228,1546637391
-dimwishlist:item=568611922&perks=3492396210,2010801679,4049631843
-
-// Succession ()
-dimwishlist:item=570866107&perks=1523832109,1546637391
-dimwishlist:item=570866107&perks=1523832109,469285294
-
-// Undercurrent (Adept) ()
-dimwishlist:item=672957262&perks=2010801679,2173046394
-dimwishlist:item=672957262&perks=3523296417,2173046394
-
-// Vengeful Whisper ()
-dimwishlist:item=839344841&perks=3365897133,555281244
-
-// Cold Comfort ()
-dimwishlist:item=839786290&perks=968510818,1439600632
-
-// Retold Tale ()
-dimwishlist:item=871900124&perks=3161816588,2679249093
-
-// Wild Style (Adept) ()
-dimwishlist:item=959037361&perks=968510818,4293542123
-
-// Adjudicator ()
-dimwishlist:item=1013434963&perks=1820235745,3425386926
-dimwishlist:item=1013434963&perks=1820235745,3891536761
-
-// One Small Step ()
-dimwishlist:item=1016668089&perks=1631667848,2679249093
-dimwishlist:item=1016668089&perks=1631667848,2360754333
-dimwishlist:item=1016668089&perks=3300816228,2679249093
-dimwishlist:item=1016668089&perks=3300816228,2360754333
-
-// The Recluse ()
-dimwishlist:item=1050806815&perks=1820235745,4104185692
-
-// The Recluse ()
-dimwishlist:item=3098328572&perks=1820235745,4104185692
-
-// New Pacific Epitaph ()
-dimwishlist:item=1125217994&perks=3523296417,11612903
-
-// Undercurrent ()
-dimwishlist:item=1151688091&perks=2010801679,2173046394
-
-// Tusk of the Boar ()
-dimwishlist:item=1218113510&perks=968510818,2396489472
-
-// The Summoner (Adept) ()
-dimwishlist:item=1292594730&perks=1820235745,95528736
-
-// The Summoner (Adept) ()
-dimwishlist:item=1292594730&perks=1820235745,4293542123
-dimwishlist:item=1292594730&perks=1820235745,3425386926
-dimwishlist:item=1292594730&perks=3017780555,4293542123
-dimwishlist:item=1292594730&perks=3017780555,3425386926
-
-// Wild Style ()
-dimwishlist:item=1332123064&perks=968510818,4293542123
-
-// The Slammer (Adept) ()
-dimwishlist:item=1354727549&perks=2396489472,3650930298
-dimwishlist:item=1354727549&perks=2396489472,3078487919
-dimwishlist:item=1354727549&perks=2077819806,3650930298
-dimwishlist:item=1354727549&perks=2077819806,3078487919
-
-// Trustee ()
-dimwishlist:item=1392919471&perks=1523832109,4293542123
-dimwishlist:item=1392919471&perks=1523832109,4082225868
-dimwishlist:item=1392919471&perks=461595545,2675184851
-dimwishlist:item=1392919471&perks=461595545,1161469972
-
-// Subjunctive ()
-dimwishlist:item=1447836603&perks=1820235745,2173046394
-dimwishlist:item=1447836603&perks=1820235745,1720528630
-dimwishlist:item=1447836603&perks=4245865861,2173046394
-dimwishlist:item=1447836603&perks=4245865861,1720528630
-
-// Without Remorse ()
-dimwishlist:item=1478986057&perks=4071163871,1546637391
-dimwishlist:item=1478986057&perks=4071163871,3418165135
-dimwishlist:item=1478986057&perks=494941759,1546637391
-dimwishlist:item=1478986057&perks=494941759,3418165135
-dimwishlist:item=1478986057&perks=744594675,1546637391
-dimwishlist:item=1478986057&perks=744594675,3418165135
-dimwishlist:item=1478986057&perks=2139363611,1546637391
-dimwishlist:item=1478986057&perks=2139363611,3418165135
-
-// Doomed Petitioner ()
-dimwishlist:item=1501688142&perks=1523832109,555281244
-dimwishlist:item=1501688142&perks=1523832109,332733060
-dimwishlist:item=1501688142&perks=1523832109,3708227201
-dimwishlist:item=1501688142&perks=1523832109,781192741
-dimwishlist:item=1501688142&perks=461595545,555281244
-dimwishlist:item=1501688142&perks=461595545,332733060
-dimwishlist:item=1501688142&perks=461595545,3708227201
-dimwishlist:item=1501688142&perks=461595545,781192741
-
-// Seventh Seraph Officer Revolver ()
-dimwishlist:item=1555959830&perks=1523832109,1546637391
-
-// Tranquility ()
-dimwishlist:item=1645386487&perks=3300816228,3425386926
-
-// Crux Termination IV ()
-dimwishlist:item=1719687748&perks=1523832109,1439600632
-dimwishlist:item=1719687748&perks=968510818,1439600632
-
-// Greasy Luck ()
-dimwishlist:item=1757202961&perks=1966281507,2224838837
-
-// New Purpose ()
-dimwishlist:item=1780464822&perks=2779035018,3047969693
-
-// The Summoner ()
-dimwishlist:item=1820994983&perks=1820235745,95528736
-
-// The Summoner ()
-dimwishlist:item=1820994983&perks=1820235745,4293542123
-dimwishlist:item=1820994983&perks=1820235745,3425386926
-dimwishlist:item=1820994983&perks=3017780555,4293542123
-dimwishlist:item=1820994983&perks=3017780555,3425386926
-
-// Apex Predator ()
-dimwishlist:item=1851777734&perks=1523832109,3078487919
-dimwishlist:item=1851777734&perks=1523832109,3744057135
-dimwishlist:item=1851777734&perks=461595545,3078487919
-dimwishlist:item=1851777734&perks=461595545,3744057135
-
-// Twilight Oath ()
-dimwishlist:item=1874424704&perks=968510818,555281244
-dimwishlist:item=1874424704&perks=968510818,1546637391
-
-// The Prophet ()
-dimwishlist:item=1968410628&perks=247725512,3038247973
-
-// Lingering Dread ()
-dimwishlist:item=2026087437&perks=3301904089,3300816228,1546637391
-
-// Lingering Dread ()
-dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
-
-// Breakneck ()
-dimwishlist:item=2026755633&perks=1820235745,95528736
-dimwishlist:item=2026755633&perks=1820235745,3891536761
-
-// Imperative ()
-dimwishlist:item=2045811635&perks=3400784728,3891536761
-dimwishlist:item=2045811635&perks=3400784728,1549370717
-dimwishlist:item=2045811635&perks=3400784728,3038247973
-dimwishlist:item=2045811635&perks=3400784728,64866129
-dimwishlist:item=2045811635&perks=573122728,3891536761
-dimwishlist:item=2045811635&perks=573122728,1549370717
-dimwishlist:item=2045811635&perks=573122728,3038247973
-dimwishlist:item=2045811635&perks=573122728,64866129
-dimwishlist:item=2045811635&perks=1820235745,3891536761
-dimwishlist:item=2045811635&perks=1820235745,1549370717
-dimwishlist:item=2045811635&perks=1820235745,3038247973
-dimwishlist:item=2045811635&perks=1820235745,64866129
-dimwishlist:item=2045811635&perks=4245865861,3891536761
-dimwishlist:item=2045811635&perks=4245865861,1549370717
-dimwishlist:item=2045811635&perks=4245865861,3038247973
-dimwishlist:item=2045811635&perks=4245865861,64866129
-
-// Hero of Ages ()
-dimwishlist:item=2139640995&perks=1749209109,1685431615
-
-// Sleepless ()
-dimwishlist:item=2140635451&perks=3300816228,1439600632
-
-// Apostate ()
-dimwishlist:item=2164448701&perks=1556840489,3038247973
-
-// Fatebringer ()
-dimwishlist:item=2171478765&perks=3038247973,3824105627
-
-// Lethal Abundance ()
-dimwishlist:item=2189073092&perks=923806249,831391274
-
-// Fixed Odds ()
-dimwishlist:item=2194955522&perks=2779035018,4293542123
-dimwishlist:item=2194955522&perks=2779035018,2675184851
-dimwishlist:item=2194955522&perks=1171147302,4293542123
-dimwishlist:item=2194955522&perks=1171147302,2675184851
-
-// Zealot's Reward ()
-dimwishlist:item=2209003210&perks=2779035018,3425386926
-
-// Edge Transit ()
-dimwishlist:item=2228325504&perks=3301904089,968510818,3078487919
-
-// Edge Transit ()
-dimwishlist:item=568611923&perks=3301904089,968510818,3078487919
-
-// The Epicurean ()
-dimwishlist:item=2263839058&perks=2779035018,1799762209
-dimwishlist:item=2263839058&perks=2779035018,1008128453
-dimwishlist:item=2263839058&perks=1171147302,1799762209
-dimwishlist:item=2263839058&perks=1171147302,1008128453
-
-// IKELOS_SR_v1.0.3 ()
-dimwishlist:item=2302346155&perks=1354429876,2896038713
-dimwishlist:item=2302346155&perks=1354429876,2402480669
-dimwishlist:item=2302346155&perks=848860060,2896038713
-dimwishlist:item=2302346155&perks=848860060,2402480669
-
-// Wilderflight ()
-dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
-
-// Blast Furnace ()
-dimwishlist:item=2372514508&perks=3891536761,3824105627
-
-// Blast Furnace ()
-dimwishlist:item=2533990645&perks=3891536761,3824105627
-
-// Elsie's Rifle ()
-dimwishlist:item=2372514509&perks=3418782618,4104185692
-
-// Elsie's Rifle ()
-dimwishlist:item=2372514509&perks=2387244414,460017080
-
-// Sacred Provenance ()
-dimwishlist:item=2408405461&perks=247725512,1015611457
-
-// Incisor (Adept) ()
-dimwishlist:item=2421180981&perks=1820235745,557221067
-
-// Tigerspite ()
-dimwishlist:item=2465372924&perks=1820235745,3891536761
-
-// Midnight Coup ()
-dimwishlist:item=2499720827&perks=3038247973,3891536761
-dimwishlist:item=2499720827&perks=3824105627,3891536761
-
-// Midnight Coup ()
-dimwishlist:item=2763843898&perks=3038247973,3891536761
-dimwishlist:item=2763843898&perks=3824105627,3891536761
-
-// Scatter Signal ()
-dimwishlist:item=2558925366&perks=3643424744,2594592626
-dimwishlist:item=2558925366&perks=3643424744,2037312142
-dimwishlist:item=2558925366&perks=2682205016,2594592626
-dimwishlist:item=2558925366&perks=2682205016,2037312142
-
-// Matador 64 ()
-dimwishlist:item=2563012876&perks=1556840489,2679249093
-
-// Scalar Potential ()
-dimwishlist:item=2563668388&perks=3643424744,2896038713
-dimwishlist:item=2563668388&perks=3643424744,2402480669
-dimwishlist:item=2563668388&perks=2682205016,2896038713
-dimwishlist:item=2563668388&perks=2682205016,2402480669
-
-// Arc Logic ()
-dimwishlist:item=2723909519&perks=1820235745,3425386926
-
-// Luna's Howl ()
-dimwishlist:item=2763843899&perks=3017780555,2720533289
-dimwishlist:item=2763843899&perks=3017780555,4293542123
-dimwishlist:item=2763843899&perks=1820235745,4293542123
-
-// Luna's Howl ()
-dimwishlist:item=3757612024&perks=3017780555,2720533289
-dimwishlist:item=3757612024&perks=3017780555,4293542123
-dimwishlist:item=3757612024&perks=1820235745,4293542123
-
-// Blasphemer ()
-dimwishlist:item=2782847179&perks=3300816228,4082225868
-
-// Naeem's Lance ()
-dimwishlist:item=2806569825&perks=1523832109,555281244
-
-// Optative ()
-dimwishlist:item=2817683783&perks=247725512,1015611457
-dimwishlist:item=2817683783&perks=247725512,2923251173
-dimwishlist:item=2817683783&perks=2938480696,1015611457
-dimwishlist:item=2817683783&perks=2938480696,2923251173
-
-// The Supremacy ()
-dimwishlist:item=2884596447&perks=3418782618,3078487919
-dimwishlist:item=2884596447&perks=3418782618,3744057135
-dimwishlist:item=2884596447&perks=3418782618,1354429876
-dimwishlist:item=2884596447&perks=3418782618,848860060
-dimwishlist:item=2884596447&perks=1563455254,3078487919
-dimwishlist:item=2884596447&perks=1563455254,3744057135
-dimwishlist:item=2884596447&perks=1563455254,1354429876
-dimwishlist:item=2884596447&perks=1563455254,848860060
-
-// The Slammer ()
-dimwishlist:item=2889501828&perks=2396489472,3650930298
-dimwishlist:item=2889501828&perks=2396489472,3078487919
-dimwishlist:item=2889501828&perks=2077819806,3650930298
-dimwishlist:item=2889501828&perks=2077819806,3078487919
-
-// Dream Breaker ()
-dimwishlist:item=2931957300&perks=3300816228,1600092898
-
-// Judgment ()
-dimwishlist:item=2969415423&perks=3523296417,11612903
-
-// Adhortative ()
-dimwishlist:item=2993554824&perks=3017780555,4293542123
-dimwishlist:item=2993554824&perks=3017780555,2675184851
-dimwishlist:item=2993554824&perks=4223976499,4293542123
-dimwishlist:item=2993554824&perks=4223976499,2675184851
-
-// Unforgiven ()
-dimwishlist:item=3000847393&perks=3523296417,4104185692
-
-// The Prophet (Adept) ()
-dimwishlist:item=3019024381&perks=247725512,3038247973
-
-// Heretic ()
-dimwishlist:item=3067821200&perks=951095735,1275731761
-
-// Liminal Vigil ()
-dimwishlist:item=3138208275&perks=691659142,4082225868
-
-// Vision of Confluence ()
-dimwishlist:item=3186018373&perks=3418782618,3824105627
-
-// Found Verdict ()
-dimwishlist:item=3197270240&perks=3300816228,2679249093
-
-// Multimach CCX ()
-dimwishlist:item=3211624072&perks=1359896290,365154968
-
-// No Survivors ()
-dimwishlist:item=3262192268&perks=3523296417,4293542123
-
-// Posterity ()
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-dimwishlist:item=3281285075&perks=1523832109,288411554
-dimwishlist:item=3281285075&perks=461595545,3425386926
-dimwishlist:item=3281285075&perks=461595545,288411554
-
-// A Fine Memorial ()
-dimwishlist:item=3325778512&perks=1820235745,4049631843
-
-// Bequest ()
-dimwishlist:item=3366545721&perks=1749209109,3708227201
-dimwishlist:item=3366545721&perks=1749209109,781192741
-dimwishlist:item=3366545721&perks=4085959009,3708227201
-dimwishlist:item=3366545721&perks=4085959009,781192741
-
-// Indebted Kindness ()
-dimwishlist:item=3381450498&perks=2859149211,2173046394
-
-// Reckless Oracle ()
-dimwishlist:item=3385326721&perks=1168162263,1015611457
-
-// Tyranny of Heaven ()
-dimwishlist:item=3388655311&perks=2848615171,4293542123
-dimwishlist:item=3388655311&perks=2848615171,2675184851
-dimwishlist:item=3388655311&perks=169755979,4293542123
-dimwishlist:item=3388655311&perks=169755979,2675184851
-
-
-// Chivalric Fire ()
-dimwishlist:item=3438139008&perks=776531651,2048641572
-
-// Omniscient Eye ()
-dimwishlist:item=3454326177&perks=1168162263,2848615171
-
-// Prosecutor ()
-dimwishlist:item=3483591058&perks=3418782618,2173046394
-
-// Ros Arago IV ()
-dimwishlist:item=3583275737&perks=1820235745,95528736
-dimwishlist:item=3583275737&perks=1820235745,2610012052
-
-// Techeun Force ()
-dimwishlist:item=3591141932&perks=1523832109,2594592626
-dimwishlist:item=3591141932&perks=1523832109,2037312142
-dimwishlist:item=3591141932&perks=461595545,2594592626
-dimwishlist:item=3591141932&perks=461595545,2037312142
-
-// Succession ()
-dimwishlist:item=3612338554&perks=1523832109,1546637391
-dimwishlist:item=3612338554&perks=1523832109,469285294
-
-// Succession ()
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-dimwishlist:item=2990047042&perks=1523832109,469285294
-
-// Stormchaser ()
-dimwishlist:item=3652506829&perks=3300816228,1771339417
-dimwishlist:item=3652506829&perks=3300816228,1546637391
-
-
-// Praedyth's Revenge ()
-dimwishlist:item=3653573172&perks=3418782618,3824105627
-
-// Dragoncult Sickle ()
-dimwishlist:item=3668817296&perks=923806249,2396489472
-
-// Love and Death ()
-dimwishlist:item=3690523502&perks=3301904089,2284787283,2396489472
-
-// Lethophobia ()
-dimwishlist:item=3710082365&perks=2652708987,3365897133
-dimwishlist:item=3710082365&perks=2652708987,1551736345
-dimwishlist:item=3710082365&perks=617966211,3365897133
-dimwishlist:item=3710082365&perks=617966211,1551736345
-
-// Waking Vigil ()
-dimwishlist:item=3723679465&perks=1168162263,2173046394
-dimwishlist:item=3723679465&perks=1168162263,2848615171
-dimwishlist:item=3723679465&perks=968510818,2173046394
-dimwishlist:item=3723679465&perks=968510818,2848615171
-
-// Elsie's Rifle ()
-dimwishlist:item=3851176026&perks=3418782618,4104185692
-
-// Elsie's Rifle ()
-dimwishlist:item=3851176026&perks=2387244414,460017080
-
-// Night Terror ()
-dimwishlist:item=3870811754&perks=1749209109,3708227201
-
-// Transfiguration ()
-dimwishlist:item=3885259140&perks=3425386926,3891536761
-dimwishlist:item=3885259140&perks=3425386926,1549370717
-dimwishlist:item=3885259140&perks=3425386926,3038247973
-dimwishlist:item=3885259140&perks=3425386926,64866129
-dimwishlist:item=3885259140&perks=288411554,3891536761
-dimwishlist:item=3885259140&perks=288411554,1549370717
-dimwishlist:item=3885259140&perks=288411554,3038247973
-dimwishlist:item=3885259140&perks=288411554,64866129
-dimwishlist:item=3885259140&perks=3418782618,3891536761
-dimwishlist:item=3885259140&perks=3418782618,1549370717
-dimwishlist:item=3885259140&perks=3418782618,3038247973
-dimwishlist:item=3885259140&perks=3418782618,64866129
-dimwishlist:item=3885259140&perks=1563455254,3891536761
-dimwishlist:item=3885259140&perks=1563455254,1549370717
-dimwishlist:item=3885259140&perks=1563455254,3038247973
-dimwishlist:item=3885259140&perks=1563455254,64866129
-
-// Loud Lullaby ()
-dimwishlist:item=3924212056&perks=1820235745,3038247973
-
-// Parabellum ()
-dimwishlist:item=3926811686&perks=3418782618,4104185692
-
-// Prophet of Doom ()
-dimwishlist:item=4020742303&perks=2779035018,2679249093
-
-// Hezen Vengeance ()
-dimwishlist:item=4050645223&perks=3300816228,1546637391
-
-// Seventh Seraph Carbine ()
-dimwishlist:item=4070357005&perks=1354429876,365154968
-dimwishlist:item=4070357005&perks=1523832109,365154968
-
-// Accrued Redemption ()
-dimwishlist:item=4095896073&perks=201365942,3365897133
-
-// A Sudden Death ()
-dimwishlist:item=4097972038&perks=1631667848,2679249093
-dimwishlist:item=4097972038&perks=1631667848,2360754333
-
-// Appetence ()
-dimwishlist:item=4153087276&perks=3643424744,557221067
-dimwishlist:item=4153087276&perks=3643424744,2896748467
-dimwishlist:item=4153087276&perks=2682205016,557221067
-dimwishlist:item=4153087276&perks=2682205016,2896748467
-dimwishlist:item=4153087276&perks=3643424744,4049631843
-dimwishlist:item=4153087276&perks=2682205016,859780267
-
-// 1000 Yard Stare ()
-dimwishlist:item=4164201232&perks=3400784728,2848615171
-
-// Commemoration ()
-dimwishlist:item=4230965989&perks=1523832109,557221067
-dimwishlist:item=4230965989&perks=1523832109,2896748467
-dimwishlist:item=4230965989&perks=461595545,557221067
-dimwishlist:item=4230965989&perks=461595545,2896748467
-
-// Marcato-45 ()
-dimwishlist:item=4233375372&perks=3400784728,95528736
-
-// Heritage ()
-dimwishlist:item=4248569242&perks=1523832109,469285294
-dimwishlist:item=4248569242&perks=1523832109,3335686050
-dimwishlist:item=4248569242&perks=461595545,469285294
-dimwishlist:item=4248569242&perks=461595545,3335686050
-
-// Incisor ()
-dimwishlist:item=4248997900&perks=1820235745,557221067
-
-// Empty Vessel ()
-dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
-
-// Every Waking Moment ()
-dimwishlist:item=4277547616&perks=1820235745,4082225868
