@@ -273,96 +273,173 @@ dimwishlist:item=4020742303&perks=2039302152,2679249093
 dimwishlist:item=48643186&perks=247725512,2848615171
 
 // Reckless Oracle ()
+dimwishlist:item=3385326721&perks=1168162263,1015611457
 
 // Zealot's Reward ()
+dimwishlist:item=2209003210&perks=1645158859,2213355989
 
     notes:last wish
 
 // The Supremacy ()
+dimwishlist:item=2884596447&perks=3418782618,1546637391
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+dimwishlist:item=2884596447&perks=1563455254,3418165135
+dimwishlist:item=2884596447&perks=1563455254,3744057135
 
 // Transfiguration ()
+dimwishlist:item=3885259140&perks=3425386926,3891536761
+dimwishlist:item=3885259140&perks=288411554,1549370717
 
 // Chattering Bone ()
+dimwishlist:item=501329015&perks=247725512,3891536761
+dimwishlist:item=501329015&perks=2938480696,1549370717
 
 // Nation of Beasts ()
+dimwishlist:item=70083888&perks=2848615171,3038247973
+dimwishlist:item=70083888&perks=2848615171,2173046394
+dimwishlist:item=70083888&perks=169755979,64866129
+dimwishlist:item=70083888&perks=169755979,1720528630
 
 // Age-Old Bond ()
+dimwishlist:item=424291879&perks=2848615171,2048641572
+dimwishlist:item=424291879&perks=169755979,1926441324
 
 // Tyranny of Heaven ()
+dimwishlist:item=3388655311&perks=2848615171,4293542123
+dimwishlist:item=3388655311&perks=169755979,2675184851
 
 // Techeun Force ()
+dimwishlist:item=3591141932&perks=1523832109,2594592626
+dimwishlist:item=3591141932&perks=461595545,2037312142
 
 // Apex Predator ()
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+dimwishlist:item=1851777734&perks=461595545,3744057135
 
 ~~~~~~~~~~~~~~~~~~~~
 > > > DUNGEONS < < <
 ~~~~~~~~~~~~~~~~~~~~
 
     #notes:warlord's ruin
+
 // Naeem's Lance ()
+dimwishlist:item=2806569825&perks=1523832109,555281244
+
 // Vengeful Whisper ()
+dimwishlist:item=839344841&perks=3365897133,831391274
+
 // Indebted Kindness ()
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+
 // Dragoncult Sickle ()
+dimwishlist:item=3668817296&perks=3523296417,2396489472
 
     #notes:ghost of the deep
+
 // New Pacific Epitaph ()
+
 // Greasy Luck ()
+
 // No Survivors ()
+
 // Cold Comfort ()
 
     #notes:duality
+
 // Lingering Dread ()
+
 // New Purpose ()
+
 // The Epicurean ()
+
 // Unforgiven ()
+
 // Fixed Odds ()
+
 // Stormchaser ()
 
     #notes:prophecy
+
 // Judgment ()
+
 // The Last Breath ()
+
 // Relentless ()
+
 // Adjudicator ()
+
 // A Sudden Death ()
+
 // A Swift Verdict ()
+
 // Darkest Before ()
+
 // The Long Walk ()
+
 // Prosecutor ()
 
     #notes:spire of the watcher
+
 // Liminal Vigil ()
+
 // Wilderflight ()
+
 // Long Arm ()
+
 // Terminus Horizon	()
 
     #notes:grasp of avarice
+
 // Eyasluna ()
+
 // Matador 64 ()
+
 // 1000 Yard Stare ()
+
 // Hero of Ages ()
 
     #notes:pit of heresy
+
 // Every Waking Moment ()
+
 // Love and Death ()
+
 // A Fine Memorial ()
+
 // One Small Step ()
+
 // Premonition ()
+
 // Loud Lullaby ()
+
 // Arc Logic ()
+
 // Dream Breaker ()
+
 // Tranquility ()
+
 // Night Terror ()
+
 // Apostate ()
+
 // Blasphemer ()
+
 // Heretic ()
 
     #notes:shattered throne
+
 // Tigerspite ()
+
 // Vouchsafe ()
+
 // Waking Vigil ()
+
 // Retold Tale ()
+
 // Twilight Oath ()
+
 // Sleepless ()
+
 // Abide the Return ()
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
