@@ -375,86 +375,137 @@ dimwishlist:item=3652506829&perks=2284787283,1771339417
     #notes:prophecy
 
 // Judgment ()
+dimwishlist:item=2969415423&perks=3523296417,11612903
 
 // The Last Breath ()
+dimwishlist:item=507038823&perks=1820235745,4049631843
 
 // Relentless ()
+dimwishlist:item=435821041&perks=247725512,3047969693
 
 // Adjudicator ()
+dimwishlist:item=1013434963&perks=1820235745,3425386926
+dimwishlist:item=1013434963&perks=1820235745,3891536761
 
 // A Sudden Death ()
+dimwishlist:item=4097972038&perks=1631667848,2679249093
+dimwishlist:item=4097972038&perks=1631667848,2360754333
 
 // A Swift Verdict ()
+dimwishlist:item=1626503676&perks=2450788523,1015611457
 
 // Darkest Before ()
+dimwishlist:item=435821040&perks=1820235745,4293542123
+dimwishlist:item=435821040&perks=3017780555,4293542123
 
 // The Long Walk ()
+dimwishlist:item=3326850591&perks=1168162263,4104185692
 
 // Prosecutor ()
+dimwishlist:item=3483591058&perks=3418782618,365154968
+dimwishlist:item=3483591058&perks=2848615171,2173046394
 
     #notes:spire of the watcher
 
 // Liminal Vigil ()
+dimwishlist:item=3138208275&perks=124408337,1015611457
 
 // Wilderflight ()
+dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
 
 // Long Arm ()
+dimwishlist:item=8293111&perks=1820235745,3038247973
+dimwishlist:item=8293111&perks=247725512,2848615171
 
 // Terminus Horizon	()
+dimwishlist:item=487205709&perks=247725512,2173046394
+dimwishlist:item=487205709&perks=3400784728,365154968
 
     #notes:grasp of avarice
 
 // Eyasluna ()
+dimwishlist:item=235827225&perks=1168162263,1015611457
 
 // Matador 64 ()
+dimwishlist:item=2563012876&perks=972757866,4082225868
 
 // 1000 Yard Stare ()
+dimwishlist:item=4164201232&perks=1570042021,2848615171
 
 // Hero of Ages ()
+dimwishlist:item=2139640995&perks=3108830275,2396489472
 
     #notes:pit of heresy
 
 // Every Waking Moment ()
+dimwishlist:item=4277547616&perks=2010801679,2458213969
 
 // Love and Death ()
+dimwishlist:item=3690523502&perks=3300816228,4049631843
 
 // A Fine Memorial ()
+dimwishlist:item=3325778512&perks=1820235745,4049631843
 
 // One Small Step ()
+dimwishlist:item=1016668089&perks=3300816228,2360754333
+dimwishlist:item=1016668089&perks=3300816228,2679249093
 
 // Premonition ()
+dimwishlist:item=208088207&perks=2779035018,3425386926
 
 // Loud Lullaby ()
+dimwishlist:item=3924212056&perks=1820235745,3038247973
 
 // Arc Logic ()
+dimwishlist:item=2723909519&perks=1820235745,3425386926
 
 // Dream Breaker ()
+dimwishlist:item=2931957300&perks=972757866,4104185692
 
 // Tranquility ()
+dimwishlist:item=1645386487&perks=3300816228,1771339417
 
 // Night Terror ()
+dimwishlist:item=3870811754&perks=1749209109,3913600130
 
 // Apostate ()
+dimwishlist:item=2164448701&perks=1168162263,3038247973
+dimwishlist:item=2164448701&perks=1168162263,1015611457
 
 // Blasphemer ()
+dimwishlist:item=2782847179&perks=706527188,47981717
 
 // Heretic ()
+dimwishlist:item=3067821200&perks=951095735,1275731761
 
     #notes:shattered throne
 
 // Tigerspite ()
+dimwishlist:item=2465372924&perks=1820235745,3891536761
 
 // Vouchsafe ()
+dimwishlist:item=355922321&perks=1354429876,2848615171
+dimwishlist:item=355922321&perks=1354429876,3038247973
 
 // Waking Vigil ()
+dimwishlist:item=3723679465&perks=1168162263,2173046394
+dimwishlist:item=3723679465&perks=1168162263,2848615171
+dimwishlist:item=3723679465&perks=968510818,2173046394
+dimwishlist:item=3723679465&perks=968510818,2848615171
 
 // Retold Tale ()
+dimwishlist:item=871900124&perks=3161816588,2679249093
 
 // Twilight Oath ()
+dimwishlist:item=1874424704&perks=968510818,555281244
+dimwishlist:item=1874424704&perks=968510818,1546637391
 
 // Sleepless ()
+dimwishlist:item=2140635451&perks=3300816228,1439600632
 
 // Abide the Return ()
+dimwishlist:item=250721843&perks=1749209109,4293542123
+dimwishlist:item=250721843&perks=1749209109,1685431615
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 > > > EXOTIC MISSION < < <
