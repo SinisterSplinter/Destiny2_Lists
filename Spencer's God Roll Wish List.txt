@@ -647,175 +647,412 @@ dimwishlist:item=2827764482&perks=2840833776,1720528630
 ~~~~~~~~~~~~~~~~~~~
 
 	#notes:into the light
+
 // The Recluse ()
-// Hung Jury ()
+dimwishlist:item=1050806815&perks=1820235745,4104185692
+
+// The Recluse ()
+dimwishlist:item=3098328572&perks=1820235745,4104185692
+
+// Hung Jury SR4 ()
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+
+// Hung Jury SR4 ()
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
 // Succession ()
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+dimwishlist:item=3612338554&perks=1523832109,469285294
+
+// Succession ()
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
 // Edge Transit ()
+dimwishlist:item=2228325504&perks=3301904089,968510818,3078487919
+
+// Edge Transit ()
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919
+
 // Elsie's Rifle ()
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+
+// Elsie's Rifle ()
+dimwishlist:item=3851176026&perks=2387244414,460017080
+
 // Falling Guillotine ()
-// Mountaintop ()
+dimwishlist:item=243425374&perks=1749209109,3708227201
+dimwishlist:item=243425374&perks=1546637391,2077819806
+dimwishlist:item=243425374&perks=4104185692,2077819806
+
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=1749209109,3708227201
+dimwishlist:item=1815105249&perks=1546637391,2077819806
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+
+// The Mountaintop ()
+dimwishlist:item=4043921923&perks=3300816228,469285294
+dimwishlist:item=4043921923&perks=2010801679,4049631843
+
+// The Mountaintop ()
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=2010801679,4049631843
+
 // Midnight Coup ()
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+
+// Midnight Coup ()
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+
 // Hammerhead ()
+dimwishlist:item=211732170&perks=3418782618,557221067
+dimwishlist:item=211732170&perks=3418782618,95528736
+
+// Hammerhead ()
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,95528736
+
 // Forbearance ()
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+// Forbearance ()
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+
 // Blast Furnace ()
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+
+// Blast Furnace ()
+dimwishlist:item=2533990645&perks=3891536761,3824105627
+
 // Luna's Howl ()
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=3757612024&perks=3017780555,2720533289
+
+// Luna's Howl ()
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2720533289
 
     #notes:wish
+
 // Lethophobia ()
+
 // Scatter Signal ()
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+dimwishlist:item=2558925366&perks=2682205016,2037312142
+
 // Doomed Petitioner ()
+dimwishlist:item=1501688142&perks=1523832109,555281244
+dimwishlist:item=1501688142&perks=461595545,332733060
+
 // Supercluster ()
+dimwishlist:item=92459755&perks=1523832109,1546637391
+dimwishlist:item=92459755&perks=461595545,3418165135
+
 // Scalar Potential ()
+dimwishlist:item=2563668388&perks=3643424744,2896038713
+dimwishlist:item=2563668388&perks=2682205016,2402480669
+
 // Appetence ()
+dimwishlist:item=4153087276&perks=3643424744,4049631843
+dimwishlist:item=4153087276&perks=2682205016,859780267
+
 // Optative ()
+dimwishlist:item=2817683783&perks=247725512,1015611457
+dimwishlist:item=2817683783&perks=2938480696,2923251173
+
 // Adhortative ()
+dimwishlist:item=2993554824&perks=3017780555,4293542123
+dimwishlist:item=2993554824&perks=4223976499,2675184851
+
 // Imperative ()
+dimwishlist:item=2045811635&perks=1820235745,3038247973
+dimwishlist:item=2045811635&perks=4245865861,64866129
+dimwishlist:item=2045811635&perks=1820235745,3891536761
+dimwishlist:item=2045811635&perks=4245865861,1549370717
+
 // Subjunctive ()
+dimwishlist:item=1447836603&perks=1820235745,2173046394
+dimwishlist:item=1447836603&perks=4245865861,1720528630
 
     #notes:witch
+
 // Kept Confidence ()
+
 // Brya's Love ()
+
 // Locus Locutus ()
+
 // The Eremite ()
+
 // Eleatic Principle ()
+
 // Semiotician ()
+
 // The Showrunner ()
+
 // Nightshade ()
+
 // Persuader ()
+
 // Deadpan Delivery ()
 
+
     #notes:deep
+
 // Targeted Redaction ()
+
 // Different Times ()
+
 // Until Its Return ()
+
 // A Distant Pull ()
+
 // Rapacious Appetite ()
+
 // Thin Precipice ()
+
 // Spare Rations ()
+
 // Outlast ()
+
 // Last Man Standing ()
+
 // Sole Survivor ()
+
 // Bug-Out Bag ()
+
 // Just in Case ()
 
+
     #notes:defiance
+
 // Perpetualis ()
+
 // Prodigal Return ()
+
 // Regnant ()
+
 // Caretaker ()
+
 // Raconteur ()
+
 // Royal Executioner ()
+
 
 ~~~~~~~~~~~~~~~~~~~~~~
 > > > PLAYLIST < < <
 ~~~~~~~~~~~~~~~~~~~~~~
 
     #notes:vanguard
+
 // Empty Vessel ()
+
 // Punching Out ()
+
 // Fortissimo-11 ()
+
 // Strident Whistle ()
+
 // Pure Poetry ()
+
 // Prolonged Engagement ()
+
 // Nameless Midnight ()
+
 // Positive Outlook ()
+
 // Luna Regolith III
+
 // Double-Edged Answer ()
 
+
 	#notes:nightfall
+
 // Loaded Question ()
+
 // Braytech Osprey ()
+
 // Warden's Law ()
+
 // Pre Astyanax IV ()
+
 // Undercurrent ()
+
 // Uzume RR4 ()
+
 // The Slammer ()
+
 // Wild Style ()
+
 // Loaded Question (Adept) ()
+
 // Braytech Osprey (Adept) ()
+
 // Warden's Law (Adept) ()
+
 // Pre Astyanax IV (Adept) ()
+
 // Undercurrent (Adept) ()
+
 // Uzume RR4 (Adept) ()
+
 // The Slammer (Adept) ()
+
 // Wild Style (Adept) ()
 
+
 	#notes:gambit
+
 // Borrowed Time ()
+
 // Servant Leader ()
+
 // Herod-C ()
+
 // Dead Weight ()
+
 // Yesteryear ()
+
 // Albruna-D ()
+
 // Trust ()
+
 // Laser Painter ()
+
 // Qua Xaphan V ()
+
 // Breakneck ()
 
+
     #notes:crucible
+
 // Survivor's Epitaph ()
+
 // Sorrow's Verse ()
+
 // Crisis Averted ()
+
 // Riptide ()
+
 // Out of Bounds ()
+
 // Blowout ()
+
 // Autumn Wind ()
+
 // Randy's Throwing Knife ()
+
 // Unending Tempest ()
+
 // Retrofuturist ()
 
+
     #notes:iron banner
+
 // Tusk of the Boar ()
+
 // Multimach CCX ()
+
 // Bite Of The Fox ()
+
 // The Guiding Sight ()
+
 // Jorum's Claw ()
+
 // Lethal Abundance ()
+
 // Point Of The Stag ()
+
 // Pressurized Precision ()
+
 // Riiswalker ()
+
 // Swarm Of The Raven ()
 
+
     #notes:trials
+
 // The Messenger ()
+
 // Unexpected Resurgence ()
+
 // Cataphract GL3 ()
+
 // Igneous Hammer ()
+
 // Incisor ()
+
 // Eye of Sol ()
+
 // The Summoner ()
+
 // The Prophet ()
+
 // The Messenger (Adept) ()
+
 // Unexpected Resurgence (Adept) ()
+
 // Cataphract GL3 (Adept) ()
+
 // Igneous Hammer (Adept) ()
+
 // Incisor (Adept) ()
+
 // Eye of Sol (Adept) ()
+
 // The Summoner (Adept) ()
+
 // The Prophet (Adept) ()
 
+
 	#notes:gunsmith
+
 // Cantata-57 ()
+
 // Syncopation-53 ()
+
 // Fugue-55 ()
+
 // Staccato-46 ()
+
 // Pizzicato-22 ()
+
 // Fioriture-59 ()
+
 // Palmyra-B ()
+
 // Perses-D ()
+
 // Ragnhild-D ()
+
 // Enyo-D ()
+
 // Boudica-C ()
+
 // Lodbrok-C ()
+
 // Krait ()
+
 // Redback-5si ()
+
 // Funnelweb ()
+
 // Lunulata-4B ()
+
 // Snorri FR5 ()
+
 // Typhon GL5 ()
+
 // Ogma PR6 ()
+
 // Gallu RR3 ()
+
 // Ammit AR2 ()
+
 // Aurvandil FR6 ()
 
 ~~~~~~~~~~~~~~~~~~~~~
@@ -823,29 +1060,53 @@ dimwishlist:item=2827764482&perks=2840833776,1720528630
 ~~~~~~~~~~~~~~~~~~~~~
 
 	#notes:neomuna
+
 // Round Robin ()
+
 // Volta Bracket ()
+
 // Iterative Loop ()
+
 // Phyllotactic Spiral ()
+
 // Dimensional Hypotrochoid ()
 
+
 	#notes:throne world
+
 // Come to Pass ()
+
 // Pointed Inquiry ()
+
 // Empirical Evidence ()
+
 // Forensic Nightmare ()
+
 // Fel Taradiddle ()
+
 // Likely Suspect ()
+
 // Father's Sins ()
+
 // Tarnation ()
+
 // Red Herring ()
 
+
 	#notes:europa
+
 // Arctic Haze ()
+
 // Hailing Confusion ()
+
 // High Albedo ()
+
 // Bonechiller ()
+
 // Subzero Salvo ()
+
 // Thermal Erosion ()
+
 // Biting Winds ()
+
 // Coriolis Force ()
