@@ -337,26 +337,40 @@ dimwishlist:item=3668817296&perks=3523296417,2396489472
     #notes:ghost of the deep
 
 // New Pacific Epitaph ()
+dimwishlist:item=1125217994&perks=3523296417,11612903
+dimwishlist:item=1125217994&perks=3523296417,1015611457
 
 // Greasy Luck ()
+dimwishlist:item=1757202961&perks=951095735,4293542123
 
 // No Survivors ()
+dimwishlist:item=3262192268&perks=3523296417,4293542123
 
 // Cold Comfort ()
+dimwishlist:item=839786290&perks=968510818,1439600632
 
     #notes:duality
 
 // Lingering Dread ()
+dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3301904089,3300816228,1546637391
 
 // New Purpose ()
+dimwishlist:item=1780464822&perks=2779035018,124408337
+dimwishlist:item=1780464822&perks=2779035018,3047969693
 
 // The Epicurean ()
+dimwishlist:item=2263839058&perks=2779035018,1600092898
 
 // Unforgiven ()
+dimwishlist:item=3000847393&perks=2779035018,3425386926
 
 // Fixed Odds ()
+dimwishlist:item=2194955522&perks=2779035018,4293542123
 
 // Stormchaser ()
+dimwishlist:item=3652506829&perks=3300816228,1771339417
+dimwishlist:item=3652506829&perks=2284787283,1771339417
 
     #notes:prophecy
 
