@@ -11,10 +11,10 @@ dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
 
 // Swordbreaker ()
-dimwishlist:item=3163900678&perks=691659142,2679249093#notes:standard
+dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=536173722,788178929
 dimwishlist:item=3163900678&perks=4071163871,3708227201#notes:swap dps
-dimwishlist:item=3163900678&perks=494941759,781192741
+dimwishlist:item=3163900678&perks=494941759,781192741#notes:swap dps
 
 // Word of Crota ()
 dimwishlist:item=120706239&perks=2848615171,3425386926
@@ -37,7 +37,7 @@ dimwishlist:item=128782990&perks=3418782618,555281244
 dimwishlist:item=128782990&perks=3418782618,831391274
 
 // Swordbreaker (Adept) ()
-dimwishlist:item=1239700299&perks=691659142,2679249093#notes:standard
+dimwishlist:item=1239700299&perks=691659142,2679249093
 dimwishlist:item=1239700299&perks=4071163871,3708227201#notes:swap dps
 
 // Word of Crota (Adept) ()
@@ -531,10 +531,10 @@ dimwishlist:item=254636484&perks=3523296417,1546637391
 dimwishlist:item=254636484&perks=1906147653,3418165135
 
 // Without Remorse ()
-dimwishlist:item=1478986057&perks=4071163871,1546637391
-dimwishlist:item=1478986057&perks=494941759,3418165135
-dimwishlist:item=1478986057&perks=744594675,2679249093
-dimwishlist:item=1478986057&perks=2139363611,788178929
+dimwishlist:item=1478986057&perks=4071163871,1546637391#notes:swap dps
+dimwishlist:item=1478986057&perks=494941759,3418165135#notes:swap dps
+dimwishlist:item=1478986057&perks=1866048759,2679249093
+dimwishlist:item=1478986057&perks=3118144663,788178929
 
 // Hollow Denial ()
 dimwishlist:item=2323544076&perks=1556840489,557221067
@@ -825,8 +825,8 @@ dimwishlist:item=3016891299&perks=1820235745,11612903
 dimwishlist:item=3016891299&perks=4245865861,2422968039
 
 // Until Its Return ()
-dimwishlist:item=2883484461&perks=3300816228,1546637391
-dimwishlist:item=2883484461&perks=3528046508,3418165135
+dimwishlist:item=2883484461&perks=3300816228,1546637391#notes:swap dps
+dimwishlist:item=2883484461&perks=3528046508,3418165135#notes:swap dps
 dimwishlist:item=2883484461&perks=3300816228,2360754333
 dimwishlist:item=2883484461&perks=3528046508,2459015849
 
@@ -852,26 +852,43 @@ dimwishlist:item=1678205741&perks=1168162263,2848615171
 dimwishlist:item=4287947559&perks=691659142,2679249093
 
 // Sole Survivor ()
+dimwishlist:item=1150492185&perks=1168162263,2173046394
 
 // Bug-Out Bag ()
+dimwishlist:item=2832639510&perks=1820235745,4293542123
 
 // Just in Case ()
-
+dimwishlist:item=1139727256&perks=1749209109,4293542123
 
     #notes:defiance
 
 // Perpetualis ()
+dimwishlist:item=392008588&perks=968510818,831391274
+dimwishlist:item=392008588&perks=424370782,102912326
 
 // Prodigal Return ()
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=424370782,1720528630
 
 // Regnant ()
+dimwishlist:item=268260372&perks=968510818,3751912585
+dimwishlist:item=268260372&perks=424370782,331667533
+dimwishlist:item=268260372&perks=3300816228,3194351027
+dimwishlist:item=268260372&perks=3300816228,3194351027
 
 // Caretaker ()
+dimwishlist:item=2508948099&perks=1749209109,4293542123
+dimwishlist:item=2508948099&perks=4085959009,2675184851
 
 // Raconteur ()
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=3523746922,1551736345
 
 // Royal Executioner ()
-
+dimwishlist:item=1720503118&perks=968510818,1427256713
+dimwishlist:item=1720503118&perks=424370782,254337357
+dimwishlist:item=1720503118&perks=968510818,4293542123
+dimwishlist:item=1720503118&perks=424370782,2675184851
 
 ~~~~~~~~~~~~~~~~~~~~~~
 > > > PLAYLIST < < <
@@ -880,60 +897,104 @@ dimwishlist:item=4287947559&perks=691659142,2679249093
     #notes:vanguard
 
 // Empty Vessel ()
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
 
 // Punching Out ()
+dimwishlist:item=378498222&perks=1820235745,4104185692
+dimwishlist:item=378498222&perks=1820235745,4082225868
+dimwishlist:item=378498222&perks=1820235745,1015611457
 
 // Fortissimo-11 ()
+dimwishlist:item=2821430069&perks=3436462433,1546637391#notes:swap dps
 
 // Strident Whistle ()
+dimwishlist:item=2591241074&perks=201365942,4293542123
+dimwishlist:item=2591241074&perks=201365942,3365897133
+dimwishlist:item=2591241074&perks=201365942,2848615171
 
 // Pure Poetry ()
+dimwishlist:item=2671639706&perks=1168162263,2458213969
+dimwishlist:item=2671639706&perks=1168162263,3425386926
 
 // Prolonged Engagement ()
+dimwishlist:item=2349907931&perks=1820235745,4049631843
+dimwishlist:item=2349907931&perks=1820235745,4104185692
+dimwishlist:item=2349907931&perks=1820235745,365154968
 
 // Nameless Midnight ()
+dimwishlist:item=996109059&perks=3400784728,3891536761
+dimwishlist:item=996109059&perks=3400784728,3038247973
+dimwishlist:item=996109059&perks=1168162263,3891536761
+dimwishlist:item=996109059&perks=1168162263,3038247973
+dimwishlist:item=996109059&perks=1168162263,1015611457
 
 // Positive Outlook ()
+dimwishlist:item=491078457&perks=2387244414,2848615171
+dimwishlist:item=491078457&perks=2387244414,2048641572
+dimwishlist:item=491078457&perks=1583705720,1015611457
 
 // Luna Regolith III
+dimwishlist:item=1948035256&perks=3017780555,4293542123
+dimwishlist:item=1948035256&perks=3017780555,3038247973
+dimwishlist:item=1948035256&perks=3400784728,1771339417#notes:swap dps
+dimwishlist:item=1948035256&perks=706527188,2551157718#notes:flintstriker
 
 // Double-Edged Answer ()
-
+dimwishlist:item=105164264&perks=1749209109,2048641572
 
 	#notes:nightfall
 
 // Loaded Question ()
+dimwishlist:item=3125454907&perks=3643424744,1427256713
+dimwishlist:item=3125454907&perks=968510818,1427256713
 
 // Braytech Osprey ()
+dimwishlist:item=3667553455&perks=968510818,1439600632#notes:swap dps
+dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:ad clear
 
 // Warden's Law ()
+dimwishlist:item=1821529912&perks=1354429876,1546637391
 
 // Pre Astyanax IV ()
+dimwishlist:item=192784503&perks=201365942,4293542123
 
 // Undercurrent ()
+dimwishlist:item=1151688091&perks=3523296417,2173046394
 
 // Uzume RR4 ()
+dimwishlist:item=2450917538&perks=1354429876,1546637391
 
 // The Slammer ()
+dimwishlist:item=2889501828&perks=2077819806,3650930298
 
 // Wild Style ()
+dimwishlist:item=1332123064&perks=968510818,4293542123
 
 // Loaded Question (Adept) ()
+dimwishlist:item=2914913838&perks=3643424744,1427256713
+dimwishlist:item=2914913838&perks=968510818,1427256713
 
 // Braytech Osprey (Adept) ()
+dimwishlist:item=1064132738&perks=968510818,1439600632#notes:swap dps
+dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:ad clear
 
 // Warden's Law (Adept) ()
+dimwishlist:item=267089201&perks=1354429876,1546637391
 
 // Pre Astyanax IV (Adept) ()
+dimwishlist:item=496556698&perks=201365942,4293542123
 
 // Undercurrent (Adept) ()
+dimwishlist:item=672957262&perks=3523296417,2173046394
 
 // Uzume RR4 (Adept) ()
+dimwishlist:item=1891996599&perks=1354429876,1546637391
 
 // The Slammer (Adept) ()
+dimwishlist:item=1354727549&perks=2077819806,3650930298
 
 // Wild Style (Adept) ()
-
+dimwishlist:item=959037361&perks=968510818,4293542123
 
 	#notes:gambit
 
