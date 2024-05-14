@@ -4,6 +4,8 @@ title:Spencer's God Roll Wishlist
 > > > RAIDS < < <
 ~~~~~~~~~~~~~~~~~
 
+Crota's End
+
 // Fang of Ir Yût ()
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
