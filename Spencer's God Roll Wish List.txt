@@ -1192,47 +1192,75 @@ dimwishlist:item=2233545123&perks=1354429876,2551157718
 
 // Staccato-46 ()
 dimwishlist:item=4019668921&perks=3400784728,4293542123
-dimwishlist:item=4019668921&perks=3400784728,3038247973
+dimwishlist:item=4019668921&perks=1168162263,4293542123
 
 // Pizzicato-22 ()
+dimwishlist:item=4100775158&perks=1428297954,2458213969
 
 // Fioriture-59 ()
+dimwishlist:item=2566006935&perks=4071163871,1015611457
 
 	#notes:hakke
 
 // Palmyra-B ()
+dimwishlist:item=3489657138&perks=3300816228,3194351027
+dimwishlist:item=3489657138&perks=3528046508,2275087323
 
 // Perses-D ()
+dimwishlist:item=1019000888&perks=247725512,3038247973
 
 // Ragnhild-D ()
+dimwishlist:item=4225322581&perks=3300816228,2679249093
+dimwishlist:item=4225322581&perks=3528046508,788178929
 
 // Enyo-D ()
+dimwishlist:item=1601177201&perks=2779035018,2458213969
 
 // Boudica-C ()
+dimwishlist:item=1916287826&perks=4071163871,4082225868
+dimwishlist:item=1916287826&perks=4071163871,2458213969
 
 // Lodbrok-C ()
+dimwishlist:item=2328531378&perks=1354429876,365154968
+dimwishlist:item=2328531378&perks=1359896290,365154968
 
 	#notes:veist
 
 // Krait ()
+dimwishlist:item=2852052802&perks=1820235745,3673922083
 
 // Redback-5si ()
+dimwishlist:item=1687353095&perks=1820235745,3425386926
 
 // Funnelweb ()
+dimwishlist:item=3341893443&perks=1820235745,4104185692
 
 // Lunulata-4B ()
+dimwishlist:item=2513965917&perks=2846385770,124408337
+
+// Taipan-4FR ()
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+
+// Jararaca-3SR ()
+dimwishlist:item=1851521408&perks=247725512,1015611457
 
 	#notes:omolon
 
 // Snorri FR5 ()
+dimwishlist:item=4114929480&perks=1570042021,2652708987
 
 // Typhon GL5 ()
+dimwishlist:item=3568377122&perks=3523296417,2978966579
 
 // Ogma PR6 ()
+dimwishlist:item=2342054803&perks=1428297954,2848615171
 
 // Gallu RR3 ()
+dimwishlist:item=617501162&perks=3643424744,2848615171
 
 // Ammit AR2 ()
+dimwishlist:item=2119346509&perks=1359896290,4293542123
+dimwishlist:item=2119346509&perks=3060983774,2675184851
 
 // Aurvandil FR6 ()
 
