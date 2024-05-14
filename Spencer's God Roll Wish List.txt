@@ -1263,6 +1263,7 @@ dimwishlist:item=2119346509&perks=1359896290,4293542123
 dimwishlist:item=2119346509&perks=3060983774,2675184851
 
 // Aurvandil FR6 ()
+dimwishlist:item=963710795&perks=1523832109,2978966579
 
 ~~~~~~~~~~~~~~~~~~~~~
 > > > LOCATIONS < < <
