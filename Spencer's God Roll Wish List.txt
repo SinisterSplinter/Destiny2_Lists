@@ -323,16 +323,16 @@ dimwishlist:item=1851777734&perks=461595545,3744057135
     #notes:warlord's ruin
 
 // Naeem's Lance ()
-dimwishlist:item=2806569825&perks=1523832109,555281244
+dimwishlist:item=2806569825&perks=1523832109,555281244#notes:warlord's ruin
 
 // Vengeful Whisper ()
-dimwishlist:item=839344841&perks=3365897133,831391274
+dimwishlist:item=839344841&perks=3365897133,831391274#notes:warlord's ruin
 
 // Indebted Kindness ()
-dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=2859149211,2173046394#notes:warlord's ruin
 
 // Dragoncult Sickle ()
-dimwishlist:item=3668817296&perks=3523296417,2396489472
+dimwishlist:item=3668817296&perks=3523296417,2396489472#notes:warlord's ruin
 
     #notes:ghost of the deep
 
