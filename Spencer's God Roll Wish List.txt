@@ -1174,19 +1174,31 @@ dimwishlist:item=1292594730&perks=3017780555,4293542123
 // The Prophet (Adept) ()
 dimwishlist:item=3019024381&perks=1168162263,3038247973
 
-	#notes:gunsmith
+~~~~~~~~~~~~~~~~~~~~~
+> > > FOUNDRIES < < <
+~~~~~~~~~~~~~~~~~~~~~
+
+	#notes:suros
 
 // Cantata-57 ()
+dimwishlist:item=372697604&perks=247725512,1954620775
 
 // Syncopation-53 ()
+dimwishlist:item=2856514843&perks=2387244414,124408337
+dimwishlist:item=2856514843&perks=1748774930,1171887445
 
 // Fugue-55 ()
+dimwishlist:item=2233545123&perks=1354429876,2551157718
 
 // Staccato-46 ()
+dimwishlist:item=4019668921&perks=3400784728,4293542123
+dimwishlist:item=4019668921&perks=3400784728,3038247973
 
 // Pizzicato-22 ()
 
 // Fioriture-59 ()
+
+	#notes:hakke
 
 // Palmyra-B ()
 
@@ -1200,6 +1212,8 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 
 // Lodbrok-C ()
 
+	#notes:veist
+
 // Krait ()
 
 // Redback-5si ()
@@ -1207,6 +1221,8 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 // Funnelweb ()
 
 // Lunulata-4B ()
+
+	#notes:omolon
 
 // Snorri FR5 ()
 
