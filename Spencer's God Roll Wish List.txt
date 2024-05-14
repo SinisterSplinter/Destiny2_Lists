@@ -54,92 +54,92 @@ dimwishlist:item=407511664&perks=1523832109,365154968
 
     #notes:root of nightmares
 
-// Mykel's Reverence ()
+// Mykel's Reverence ()#notes:root of nightmares
 dimwishlist:item=231031173&perks=3418782618,4104185692
 dimwishlist:item=231031173&perks=1563455254,3007133316
 
-// Rufus's Fury ()
+// Rufus's Fury ()#notes:root of nightmares
 dimwishlist:item=484515708&perks=1523832109,365154968
 dimwishlist:item=484515708&perks=461595545,2939589096
 
-// Acasia's Dejection ()
+// Acasia's Dejection ()#notes:root of nightmares
 dimwishlist:item=1471212226&perks=1523832109,4293542123
 dimwishlist:item=1471212226&perks=461595545,2675184851
 
-// Nessa's Oblation ()
+// Nessa's Oblation ()#notes:root of nightmares
 dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=135029084&perks=461595545,3418165135
 
-// Koraxis's Distress ()
+// Koraxis's Distress ()#notes:root of nightmares
 dimwishlist:item=2972949637&perks=1523832109,4104185692
 dimwishlist:item=2972949637&perks=1523832109,3708227201
 dimwishlist:item=2972949637&perks=461595545,3007133316
 dimwishlist:item=2972949637&perks=461595545,781192741
 
-// Briar's Contempt ()
+// Briar's Contempt ()#notes:root of nightmares
 dimwishlist:item=1491665733&perks=1523832109,4104185692
 dimwishlist:item=1491665733&perks=461595545,3007133316
 
-// Mykel's Reverence (Adept) ()
+// Mykel's Reverence (Adept) ()#notes:root of nightmares
 dimwishlist:item=1986287028&perks=3418782618,4104185692
 
-// Rufus's Fury (Adept) ()
+// Rufus's Fury (Adept) ()#notes:root of nightmares
 dimwishlist:item=342514437&perks=1523832109,365154968
 
-// Acasia's Dejection (Adept) ()
+// Acasia's Dejection (Adept) ()#notes:root of nightmares
 dimwishlist:item=3493494807&perks=1523832109,4293542123
 
-// Nessa's Oblation (Adept) ()
+// Nessa's Oblation (Adept) ()#notes:root of nightmares
 dimwishlist:item=522366885&perks=1523832109,1546637391
 
-// Koraxis's Distress (Adept) ()
+// Koraxis's Distress (Adept) ()#notes:root of nightmares
 dimwishlist:item=495442100&perks=1523832109,4104185692
 dimwishlist:item=495442100&perks=1523832109,3708227201
 
-// Briar's Contempt (Adept) ()
+// Briar's Contempt (Adept) ()#notes:root of nightmares
 dimwishlist:item=1491665733&perks=461595545,3007133316
 
     #notes:king's fall
 
-// Smite of Merain ()
+// Smite of Merain ()#notes:king's fall
 dimwishlist:item=2221264583&perks=3523296417,3824105627
 
-// Defiance of Yasmin ()
+// Defiance of Yasmin ()#notes:king's fall
 dimwishlist:item=3228096719&perks=3824105627,1546637391
 
-// Zaouli's Bane ()
+// Zaouli's Bane ()#notes:king's fall
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=3038247973,3824105627
 
-// Doom of Chelchis ()
+// Doom of Chelchis ()#notes:king's fall
 dimwishlist:item=1937552980&perks=3038247973,2848615171
 dimwishlist:item=1937552980&perks=3824105627,2848615171
 
-// Midha's Reckoning ()
+// Midha's Reckoning ()#notes:king's fall
 dimwishlist:item=3969066556&perks=1799762209,3708227201
 
-// Qullim's Terminus ()
+// Qullim's Terminus ()#notes:king's fall
 dimwishlist:item=1321506184&perks=1359896290,3824105627
 dimwishlist:item=1321506184&perks=1359896290,557221067
 
-// Smite of Merain (Harrowed) ()
+// Smite of Merain (Harrowed) ()#notes:king's fall
 dimwishlist:item=3407395594&perks=3523296417,3824105627
 
-// Defiance of Yasmin (Harrowed) ()
+// Defiance of Yasmin (Harrowed) ()#notes:king's fall
 dimwishlist:item=3503019618&perks=3824105627,1546637391
 
-// Zaouli's Bane (Harrowed) ()
+// Zaouli's Bane (Harrowed) ()#notes:king's fall
 dimwishlist:item=291092617&perks=3038247973,4293542123
 dimwishlist:item=291092617&perks=3038247973,3824105627
 
-// Doom of Chelchis (Harrowed) ()
+// Doom of Chelchis (Harrowed) ()#notes:king's fall
 dimwishlist:item=1184692845&perks=3038247973,2848615171
 dimwishlist:item=1184692845&perks=3824105627,2848615171
 
-// Midha's Reckoning (Harrowed) ()
+// Midha's Reckoning (Harrowed) ()#notes:king's fall
 dimwishlist:item=3904516037&perks=1799762209,3708227201
 
-// Qullim's Terminus (Harrowed) ()
+// Qullim's Terminus (Harrowed) ()#notes:king's fall
 dimwishlist:item=3248429089&perks=1359896290,3824105627
 dimwishlist:item=3248429089&perks=1359896290,557221067
 
