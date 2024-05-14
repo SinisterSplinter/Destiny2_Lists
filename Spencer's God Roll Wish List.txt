@@ -189,40 +189,40 @@ dimwishlist:item=2886339027&perks=1354429876,3078487919
 
     #notes:vault of glass
 
-// Fatebringer ()
+// Fatebringer ()#notes:vault of glass
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 
-// Praedyth's Revenge ()
+// Praedyth's Revenge ()#notes:vault of glass
 dimwishlist:item=3653573172&perks=3418782618,2213355989
 
-// Vision of Confluence ()
+// Vision of Confluence ()#notes:vault of glass
 dimwishlist:item=3186018373&perks=2387244414,3824105627
 
-// Found Verdict ()
+// Found Verdict ()#notes:vault of glass
 dimwishlist:item=3197270240&perks=3300816228,2679249093
 
-// Corrective Measure ()
+// Corrective Measure ()#notes:vault of glass
 dimwishlist:item=471518543&perks=1820235745,4049631843
 
-// Hezen Vengeance ()
+// Hezen Vengeance ()#notes:vault of glass
 dimwishlist:item=4050645223&perks=3300816228,1275731761
 
-// Fatebringer (Timelost) ()
+// Fatebringer (Timelost) ()#notes:vault of glass
 dimwishlist:item=1216319404&perks=3038247973,3824105627
 
-// Praedyth's Revenge (Timelost) ()
+// Praedyth's Revenge (Timelost) ()#notes:vault of glass
 dimwishlist:item=1987769101&perks=3418782618,2213355989
 
-// Vision of Confluence (Timelost) ()
+// Vision of Confluence (Timelost) ()#notes:vault of glass
 dimwishlist:item=690668916&perks=2387244414,3824105627
 
-// Found Verdict (Timelost) ()
+// Found Verdict (Timelost) ()#notes:vault of glass
 dimwishlist:item=631439337&perks=3300816228,2679249093
 
-// Corrective Measure (Timelost) ()
+// Corrective Measure (Timelost) ()#notes:vault of glass
 dimwishlist:item=3796510434&perks=1820235745,4049631843
 
-// Hezen Vengeance (Timelost) ()
+// Hezen Vengeance (Timelost) ()#notes:vault of glass
 dimwishlist:item=1921159786&perks=3300816228,1275731761
 
     #notes:deep stone crypt
