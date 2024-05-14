@@ -10,8 +10,10 @@ Crota's End
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
 
+// notes:For one-two punch / melee builds
 dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=536173722,788178929
+// notes:For a lightweight SG-swap damage rotation (Threat detector + Surrounded)
 dimwishlist:item=3163900678&perks=4071163871,3708227201
 dimwishlist:item=3163900678&perks=494941759,781192741
 
