@@ -4,13 +4,14 @@ title:Spencer's God Roll Wishlist
 > > > RAIDS < < <
 ~~~~~~~~~~~~~~~~~
 
----------------Crota's End---------------
-
 // Fang of Ir Yût ()
+//notes:Crota's End Raid
+//(Rewind Rounds + Precision Instrument), (Rewind Rounds + Hatchling)
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
 
 // Swordbreaker ()
+//notes:Crota's End Raid: (Rewind Rounds + Precision Instrument), (Rewind Rounds + Hatchling)
 dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=536173722,788178929
 dimwishlist:item=3163900678&perks=4071163871,3708227201#notes:swap dps
@@ -52,7 +53,7 @@ dimwishlist:item=578105049&perks=3523296417,2173046394
 // Song of Ir Yût (Adept) ()
 dimwishlist:item=407511664&perks=1523832109,365154968
 
----------------Root of Nightmares---------------
+Root of Nightmares
 
 // Mykel's Reverence ()
 dimwishlist:item=231031173&perks=3418782618,4104185692
@@ -99,7 +100,7 @@ dimwishlist:item=495442100&perks=1523832109,3708227201
 // Briar's Contempt (Adept) ()
 dimwishlist:item=1491665733&perks=461595545,3007133316
 
----------------King's Fall---------------
+King's Fall
 
 // Smite of Merain ()
 dimwishlist:item=2221264583&perks=3523296417,3824105627
@@ -143,7 +144,7 @@ dimwishlist:item=3904516037&perks=1799762209,3708227201
 dimwishlist:item=3248429089&perks=1359896290,3824105627
 dimwishlist:item=3248429089&perks=1359896290,557221067
 
----------------Vow of the Disciple---------------
+Vow of the Disciple
 
 // Submission ()
 dimwishlist:item=3886416794&perks=1820235745,4082225868
@@ -187,7 +188,7 @@ dimwishlist:item=4038592169&perks=2010801679,2396489472
 // Cataclysmic (Adept) ()
 dimwishlist:item=2886339027&perks=1354429876,3078487919
 
----------------Vault of Glass---------------
+Vault of Glass
 
 // Fatebringer ()
 dimwishlist:item=2171478765&perks=3038247973,3824105627
@@ -225,7 +226,7 @@ dimwishlist:item=3796510434&perks=1820235745,4049631843
 // Hezen Vengeance (Timelost) ()
 dimwishlist:item=1921159786&perks=3300816228,1275731761
 
----------------Deep Stone Crypt---------------
+Deep Stone Crypt
 
 // Bequest ()
 dimwishlist:item=3366545721&perks=1749209109,3708227201
@@ -255,7 +256,7 @@ dimwishlist:item=2990047042&perks=461595545,3335686050
 dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=461595545,3335686050
 
----------------Garden of Salvation---------------
+Garden of Salvation
 
 // Sacred Provenance ()
 dimwishlist:item=2408405461&perks=1168162263,1015611457
@@ -278,7 +279,7 @@ dimwishlist:item=3385326721&perks=1168162263,1015611457
 // Zealot's Reward ()
 dimwishlist:item=2209003210&perks=1645158859,2213355989
 
----------------Last Wish---------------
+Last Wish
 
 // The Supremacy ()
 dimwishlist:item=2884596447&perks=3418782618,1546637391
@@ -320,7 +321,7 @@ dimwishlist:item=1851777734&perks=461595545,3744057135
 > > > DUNGEONS < < <
 ~~~~~~~~~~~~~~~~~~~~
 
----------------Warlord's Ruin---------------
+Warlord's Ruin
 
 // Naeem's Lance ()
 dimwishlist:item=2806569825&perks=1523832109,555281244
@@ -334,7 +335,7 @@ dimwishlist:item=3381450498&perks=2859149211,2173046394
 // Dragoncult Sickle ()
 dimwishlist:item=3668817296&perks=3523296417,2396489472
 
----------------Ghost of the Deep---------------
+Ghost of the Deep
 
 // New Pacific Epitaph ()
 dimwishlist:item=1125217994&perks=3523296417,11612903
@@ -349,7 +350,7 @@ dimwishlist:item=3262192268&perks=3523296417,4293542123
 // Cold Comfort ()
 dimwishlist:item=839786290&perks=968510818,1439600632
 
----------------Duality---------------
+Duality
 
 // Lingering Dread ()
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
@@ -372,7 +373,7 @@ dimwishlist:item=2194955522&perks=2779035018,4293542123
 dimwishlist:item=3652506829&perks=3300816228,1771339417
 dimwishlist:item=3652506829&perks=2284787283,1771339417
 
----------------Prophecy---------------
+Prophecy
 
 // Judgment ()
 dimwishlist:item=2969415423&perks=3523296417,11612903
@@ -405,7 +406,7 @@ dimwishlist:item=3326850591&perks=1168162263,4104185692
 dimwishlist:item=3483591058&perks=3418782618,365154968
 dimwishlist:item=3483591058&perks=2848615171,2173046394
 
----------------Spire of the Watcher---------------
+Spire of the Watcher
 
 // Liminal Vigil ()
 dimwishlist:item=3138208275&perks=124408337,1015611457
@@ -421,7 +422,7 @@ dimwishlist:item=8293111&perks=247725512,2848615171
 dimwishlist:item=487205709&perks=247725512,2173046394
 dimwishlist:item=487205709&perks=3400784728,365154968
 
----------------Grasp of Avarice---------------
+Grasp of Avarice
 
 // Eyasluna ()
 dimwishlist:item=235827225&perks=1168162263,1015611457
@@ -435,7 +436,7 @@ dimwishlist:item=4164201232&perks=1570042021,2848615171
 // Hero of Ages ()
 dimwishlist:item=2139640995&perks=3108830275,2396489472
 
----------------Pit of Heresy---------------
+Pit of Heresy
 
 // Every Waking Moment ()
 dimwishlist:item=4277547616&perks=2010801679,2458213969
@@ -478,7 +479,7 @@ dimwishlist:item=2782847179&perks=706527188,47981717
 // Heretic ()
 dimwishlist:item=3067821200&perks=951095735,1275731761
 
----------------Shattered Throne---------------
+Shattered Throne
 
 // Tigerspite ()
 dimwishlist:item=2465372924&perks=1820235745,3891536761
@@ -511,7 +512,7 @@ dimwishlist:item=250721843&perks=1749209109,1685431615
 > > > EXOTIC MISSION < < <
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
----------------Presage---------------
+Presage
 
 // Firefright ()
 dimwishlist:item=2778013407&perks=1354429876,2896038713
@@ -561,7 +562,7 @@ dimwishlist:item=1959650777&perks=3528046508,3418165135
 dimwishlist:item=1959650777&perks=3300816228,2978966579
 dimwishlist:item=1959650777&perks=3528046508,344235611
 
----------------Vox Obscura---------------
+Vox Obscura
 
 // Piece of Mind ()
 dimwishlist:item=2097055732&perks=1428297954,588594999
@@ -591,7 +592,7 @@ dimwishlist:item=1248372789&perks=1409206216,859780267
 dimwishlist:item=1572896086&perks=1820235745,4049631843
 dimwishlist:item=1572896086&perks=4245865861,859780267
 
----------------Seraph Shield---------------
+Seraph Shield
 
 // Disparity ()
 dimwishlist:item=1751893422&perks=247725512,1015611457
@@ -645,7 +646,7 @@ dimwishlist:item=2827764482&perks=2840833776,1720528630
 > > > SEASONS < < <
 ~~~~~~~~~~~~~~~~~~~
 
----------------Into the Light---------------
+Into the Light
 
 // The Recluse ()
 dimwishlist:item=1050806815&perks=776531651,4104185692
@@ -743,7 +744,7 @@ dimwishlist:item=3757612024&perks=3017780555,2720533289
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 dimwishlist:item=2763843899&perks=3017780555,2720533289
 
----------------Season of the Wish---------------
+Season of the Wish
 
 // Lethophobia ()
 dimwishlist:item=3710082365&perks=776531651,3365897133
@@ -787,7 +788,7 @@ dimwishlist:item=2045811635&perks=4245865861,1549370717
 dimwishlist:item=1447836603&perks=1820235745,2173046394
 dimwishlist:item=1447836603&perks=4245865861,1720528630
 
----------------Season of the Witch---------------
+Season of the Witch
 
 // Kept Confidence ()
 dimwishlist:item=1875512595&perks=706527188,691659142
@@ -825,7 +826,7 @@ dimwishlist:item=781498181&perks=247725512,555281244
 // Deadpan Delivery ()
 dimwishlist:item=1296429091&perks=3643424744,2679249093
 
----------------Season of the Deep---------------
+Season of the Deep
 
 // Targeted Redaction ()
 dimwishlist:item=3890055324&perks=1168162263,3038247973
@@ -871,7 +872,7 @@ dimwishlist:item=2832639510&perks=1820235745,4293542123
 // Just in Case ()
 dimwishlist:item=1139727256&perks=1749209109,4293542123
 
----------------Season of Defiance---------------
+Season of Defiance
 
 // Perpetualis ()
 dimwishlist:item=392008588&perks=968510818,831391274
@@ -905,7 +906,7 @@ dimwishlist:item=1720503118&perks=424370782,2675184851
 > > > PLAYLIST < < <
 ~~~~~~~~~~~~~~~~~~~~~~
 
----------------Vangaurd---------------
+Vangaurd
 
 // Empty Vessel ()
 dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
@@ -953,7 +954,7 @@ dimwishlist:item=1948035256&perks=706527188,2551157718#notes:flintstriker
 // Double-Edged Answer ()
 dimwishlist:item=105164264&perks=1749209109,2048641572
 
----------------Nightfall---------------
+Nightfall
 
 // Loaded Question ()
 dimwishlist:item=3125454907&perks=3643424744,1427256713
@@ -1007,7 +1008,7 @@ dimwishlist:item=1354727549&perks=2077819806,3650930298
 // Wild Style (Adept) ()
 dimwishlist:item=959037361&perks=968510818,4293542123
 
----------------Gambit---------------
+Gambit
 
 // Borrowed Time ()
 dimwishlist:item=875848769&perks=2779035018,3425386926
@@ -1050,7 +1051,7 @@ dimwishlist:item=1975125963&perks=3400784728,2048641572
 dimwishlist:item=2026755633&perks=1820235745,95528736
 dimwishlist:item=2026755633&perks=1820235745,3891536761
 
----------------Crucible---------------
+Crucible
 
 // Survivor's Epitaph ()
 dimwishlist:item=310708513&perks=247725512,1015611457
@@ -1093,7 +1094,7 @@ dimwishlist:item=1612781792&perks=3300816228,2360754333
 // Retrofuturist (PvP)
 dimwishlist:item=1612781792&perks=706527188,957782887
 
----------------Iron Banner---------------
+Iron Banner
 
 // Tusk of the Boar ()
 dimwishlist:item=1218113510&perks=968510818,2396489472
@@ -1131,7 +1132,7 @@ dimwishlist:item=433905699&perks=951095735,2048641572
 dimwishlist:item=433905699&perks=2284787283,2048641572
 dimwishlist:item=433905699&perks=3300816228,2048641572
 
----------------Trials of Osiris---------------
+Trials of Osiris
 
 // The Messenger ()
 dimwishlist:item=3796795102&perks=247725512,460017080
@@ -1189,7 +1190,7 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 > > > LOCATIONS < < <
 ~~~~~~~~~~~~~~~~~~~~~
 
----------------Neomuna---------------
+Neomuna
 
 // Round Robin ()
 dimwishlist:item=2034215657&perks=1820235745,831391274
@@ -1211,7 +1212,7 @@ dimwishlist:item=3635821806&perks=595108252,1720528630
 dimwishlist:item=1311684613&perks=968510818,2396489472
 dimwishlist:item=1311684613&perks=968510818,2396489472
 
----------------Savathun's Throne World---------------
+Savathun's Throne World
 
 // Come to Pass ()
 dimwishlist:item=927567426&perks=3096702027,2848615171
@@ -1249,7 +1250,7 @@ dimwishlist:item=2721157927&perks=3563868667,598607952
 dimwishlist:item=3175851496&perks=3977735242,3927722942
 dimwishlist:item=3175851496&perks=406461158,1167468626
 
----------------Europa---------------
+Europa
 
 // Arctic Haze ()
 dimwishlist:item=20935540&perks=1168162263,2848615171
@@ -1283,7 +1284,7 @@ dimwishlist:item=3512349612&perks=2779035018,2726471870
 > > > FOUNDRIES < < <
 ~~~~~~~~~~~~~~~~~~~~~
 
----------------Suros---------------
+Suros
 
 // Cantata-57 ()
 dimwishlist:item=372697604&perks=247725512,1954620775
@@ -1305,7 +1306,7 @@ dimwishlist:item=4100775158&perks=1428297954,2458213969
 // Fioriture-59 ()
 dimwishlist:item=2566006935&perks=4071163871,1015611457
 
----------------Hakke---------------
+Hakke
 
 // Palmyra-B ()
 dimwishlist:item=3489657138&perks=3300816228,3194351027
@@ -1329,7 +1330,7 @@ dimwishlist:item=1916287826&perks=4071163871,2458213969
 dimwishlist:item=2328531378&perks=1354429876,365154968
 dimwishlist:item=2328531378&perks=1359896290,365154968
 
----------------Veist---------------
+Veist
 
 // Krait ()
 dimwishlist:item=2852052802&perks=1820235745,3673922083
@@ -1349,7 +1350,7 @@ dimwishlist:item=1911060537&perks=3400784728,1771339417
 // Jararaca-3SR ()
 dimwishlist:item=1851521408&perks=247725512,1015611457
 
----------------Omolon---------------
+Omolon
 
 // Snorri FR5 ()
 dimwishlist:item=4114929480&perks=1570042021,2652708987
