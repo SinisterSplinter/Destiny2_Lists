@@ -1042,83 +1042,137 @@ dimwishlist:item=2026755633&perks=1820235745,3891536761
     #notes:crucible
 
 // Survivor's Epitaph ()
+dimwishlist:item=310708513&perks=247725512,1015611457
+dimwishlist:item=310708513&perks=1168162263,1015611457
+
+// Survivor's Epitaph (PvP)
+dimwishlist:item=310708513&perks=706527188,957782887
 
 // Sorrow's Verse ()
+dimwishlist:item=2496875173&perks=1820235745,3425386926
 
-// Crisis Averted ()
+// Crisis Inverted ()
+dimwishlist:item=2888266564&perks=247725512,1015611457
 
 // Riptide ()
+dimwishlist:item=2715240478&perks=3300816228,2978966579
 
 // Out of Bounds ()
+dimwishlist:item=2988121501&perks=1820235745,3708227201
+dimwishlist:item=2988121501&perks=1631667848,4082225868
 
 // Blowout ()
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+dimwishlist:item=1903182562&perks=951095735,3194351027
 
 // Autumn Wind ()
+dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=3523296417,3425386926
 
 // Randy's Throwing Knife ()
+dimwishlist:item=3292795429&perks=247725512,3891536761
 
 // Unending Tempest ()
+dimwishlist:item=2510526114&perks=1820235745,365154968
+dimwishlist:item=2510526114&perks=1359896290,365154968
 
 // Retrofuturist ()
+dimwishlist:item=1612781792&perks=3300816228,2360754333
 
+// Retrofuturist (PvP)
+dimwishlist:item=1612781792&perks=706527188,957782887
 
     #notes:iron banner
 
 // Tusk of the Boar ()
+dimwishlist:item=1218113510&perks=968510818,2396489472
 
 // Multimach CCX ()
+dimwishlist:item=3211624072&perks=1359896290,365154968
 
 // Bite Of The Fox ()
+dimwishlist:item=1403800851&perks=247725512,3038247973
+dimwishlist:item=1403800851&perks=957782887,4152709778
 
 // The Guiding Sight ()
+dimwishlist:item=1161561386&perks=3523296417,555281244
 
 // Jorum's Claw ()
+dimwishlist:item=62937067&perks=1168162263,4293542123
 
 // Lethal Abundance ()
+dimwishlist:item=2189073092&perks=1359896290,365154968
 
 // Point Of The Stag ()
+dimwishlist:item=888872889&perks=201365942,2848615171
 
 // Pressurized Precision ()
+dimwishlist:item=1084190509&perks=3300816228,831391274
+
+// Riiswalker (PvP)
+dimwishlist:item=1764868900&perks=1821614984,591790007
 
 // Riiswalker ()
+dimwishlist:item=1764868900&perks=3161816588,591790007
 
 // Swarm Of The Raven ()
-
+dimwishlist:item=433905699&perks=951095735,2048641572
+dimwishlist:item=433905699&perks=2284787283,2048641572
+dimwishlist:item=433905699&perks=3300816228,2048641572
 
     #notes:trials
 
 // The Messenger ()
+dimwishlist:item=3796795102&perks=247725512,460017080
 
 // Unexpected Resurgence ()
+dimwishlist:item=4005780578&perks=951095735,2173046394
 
 // Cataphract GL3 ()
+dimwishlist:item=2738601016&perks=968510818,3078487919
 
 // Igneous Hammer ()
+dimwishlist:item=1973107014&perks=3017780555,4293542123
+dimwishlist:item=1973107014&perks=247725512,555281244
 
 // Incisor ()
+dimwishlist:item=4248997900&perks=1820235745,557221067
+dimwishlist:item=4248997900&perks=1820235745,365154968
 
 // Eye of Sol ()
+dimwishlist:item=1401300690&perks=588594999,957782887
 
 // The Summoner ()
+dimwishlist:item=1820994983&perks=3017780555,4293542123
 
 // The Prophet ()
+dimwishlist:item=1968410628&perks=1168162263,3038247973
 
 // The Messenger (Adept) ()
+dimwishlist:item=364665267&perks=247725512,460017080
 
 // Unexpected Resurgence (Adept) ()
+dimwishlist:item=1141586039&perks=951095735,2173046394
 
 // Cataphract GL3 (Adept) ()
+dimwishlist:item=874623537&perks=968510818,3078487919
 
 // Igneous Hammer (Adept) ()
+dimwishlist:item=2314610827&perks=3017780555,4293542123
+dimwishlist:item=2314610827&perks=247725512,555281244
 
 // Incisor (Adept) ()
+dimwishlist:item=2421180981&perks=1820235745,557221067
+dimwishlist:item=2421180981&perks=1820235745,365154968
 
 // Eye of Sol (Adept) ()
+dimwishlist:item=2059255495&perks=588594999,957782887
 
 // The Summoner (Adept) ()
+dimwishlist:item=1292594730&perks=3017780555,4293542123
 
 // The Prophet (Adept) ()
-
+dimwishlist:item=3019024381&perks=1168162263,3038247973
 
 	#notes:gunsmith
 
@@ -1173,51 +1227,89 @@ dimwishlist:item=2026755633&perks=1820235745,3891536761
 	#notes:neomuna
 
 // Round Robin ()
+dimwishlist:item=2034215657&perks=1820235745,831391274
+dimwishlist:item=2034215657&perks=4245865861,102912326
 
 // Volta Bracket ()
+dimwishlist:item=3920310144&perks=3400784728,3038247973
+dimwishlist:item=3920310144&perks=573122728,64866129
 
 // Iterative Loop ()
+dimwishlist:item=1289796511&perks=671806388,2173046394
+dimwishlist:item=1289796511&perks=595108252,1720528630
 
 // Phyllotactic Spiral ()
+dimwishlist:item=3635821806&perks=671806388,2173046394
+dimwishlist:item=3635821806&perks=595108252,1720528630
 
 // Dimensional Hypotrochoid ()
-
+dimwishlist:item=1311684613&perks=968510818,2396489472
+dimwishlist:item=1311684613&perks=968510818,2396489472
 
 	#notes:throne world
 
 // Come to Pass ()
+dimwishlist:item=927567426&perks=3096702027,2848615171
+dimwishlist:item=927567426&perks=1658784563,169755979
 
 // Pointed Inquiry ()
+dimwishlist:item=297296830&perks=1354429876,2848615171
+dimwishlist:item=297296830&perks=848860060,169755979
 
 // Empirical Evidence ()
+dimwishlist:item=2607304614&perks=1428297954,4082225868
+dimwishlist:item=2607304614&perks=2014892510,1161469972
 
 // Forensic Nightmare ()
+dimwishlist:item=1526296434&perks=1428297954,1015611457
+dimwishlist:item=1526296434&perks=2014892510,2923251173
 
 // Fel Taradiddle ()
+dimwishlist:item=1399109800&perks=201365942,3365897133
+dimwishlist:item=1399109800&perks=3523746922,1551736345
 
 // Likely Suspect ()
+dimwishlist:item=1994645182&perks=1570042021,2652708987
+dimwishlist:item=1994645182&perks=2748258257,617966211
 
 // Father's Sins ()
+dimwishlist:item=3865728990&perks=3400784728,2896038713
+dimwishlist:item=3865728990&perks=573122728,2402480669
 
 // Tarnation ()
+dimwishlist:item=2721157927&perks=2284787283,2396489472
+dimwishlist:item=2721157927&perks=3563868667,598607952
 
 // Red Herring ()
-
+dimwishlist:item=3175851496&perks=3977735242,3927722942
+dimwishlist:item=3175851496&perks=406461158,1167468626
 
 	#notes:europa
 
 // Arctic Haze ()
+dimwishlist:item=20935540&perks=1168162263,2848615171
+dimwishlist:item=20935540&perks=1820235745,2848615171
 
 // Hailing Confusion ()
+dimwishlist:item=2870169846&perks=1168162263,3523296417
 
 // High Albedo ()
+dimwishlist:item=1197486957&perks=2450788523,460017080
+dimwishlist:item=1197486957&perks=2010801679,3523296417
 
 // Bonechiller ()
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+dimwishlist:item=4037745684&perks=3300816228,2848615171
 
 // Subzero Salvo ()
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=2010801679,1275731761
 
 // Thermal Erosion ()
+dimwishlist:item=1766088024&perks=2387244414,2848615171
 
 // Biting Winds ()
+dimwishlist:item=1621657423&perks=247725512,3365897133
 
 // Coriolis Force ()
+dimwishlist:item=3512349612&perks=2779035018,2726471870
