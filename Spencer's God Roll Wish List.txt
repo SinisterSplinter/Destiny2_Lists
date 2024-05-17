@@ -514,6 +514,7 @@ dimwishlist:item=250721843&perks=1749209109,1685431615
 ----------Presage----------
 
 // Firefright ()
+// notes: Presage Weapons
 dimwishlist:item=2778013407&perks=1354429876,2896038713
 dimwishlist:item=2778013407&perks=848860060,2402480669
 
