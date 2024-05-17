@@ -56,48 +56,60 @@ dimwishlist:item=407511664&perks=1523832109,365154968
 ----------Root of Nightmares----------
 
 // Mykel's Reverence ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=231031173&perks=3418782618,4104185692
 dimwishlist:item=231031173&perks=1563455254,3007133316
 
 // Rufus's Fury ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=484515708&perks=1523832109,365154968
 dimwishlist:item=484515708&perks=461595545,2939589096
 
 // Acasia's Dejection ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=1471212226&perks=1523832109,4293542123
 dimwishlist:item=1471212226&perks=461595545,2675184851
 
 // Nessa's Oblation ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=135029084&perks=461595545,3418165135
 
 // Koraxis's Distress ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=2972949637&perks=1523832109,4104185692
 dimwishlist:item=2972949637&perks=1523832109,3708227201
 dimwishlist:item=2972949637&perks=461595545,3007133316
 dimwishlist:item=2972949637&perks=461595545,781192741
 
 // Briar's Contempt ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=1491665733&perks=1523832109,4104185692
 dimwishlist:item=1491665733&perks=461595545,3007133316
 
 // Mykel's Reverence (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=1986287028&perks=3418782618,4104185692
 
 // Rufus's Fury (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=342514437&perks=1523832109,365154968
 
 // Acasia's Dejection (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=3493494807&perks=1523832109,4293542123
 
 // Nessa's Oblation (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=522366885&perks=1523832109,1546637391
 
 // Koraxis's Distress (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=495442100&perks=1523832109,4104185692
 dimwishlist:item=495442100&perks=1523832109,3708227201
 
 // Briar's Contempt (Adept) ()
+// notes:Root of Nightmares Weapons
 dimwishlist:item=1491665733&perks=461595545,3007133316
 
 ----------King's Fall----------
