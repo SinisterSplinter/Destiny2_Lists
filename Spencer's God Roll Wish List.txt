@@ -1,56 +1,26 @@
 title:Spencer's God Roll Wishlist
 
-~~~~~~~~~~~~~~~~~
-> > > RAIDS < < <
-~~~~~~~~~~~~~~~~~
-
-----------Crota's End----------
-
-// Fang of Ir Yût ()
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
-
-// Swordbreaker ()
-// notes:Crota's End Weapons
 dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=536173722,788178929
 dimwishlist:item=3163900678&perks=4071163871,3708227201#notes:Swap Weapon for Damage Rotations
 dimwishlist:item=3163900678&perks=494941759,781192741#notes:Swap Weapon for Damage Rotations
-
-// Word of Crota ()
 dimwishlist:item=120706239&perks=2848615171,3425386926
 dimwishlist:item=120706239&perks=169755979,288411554
-
-// Abyss Defiant ()
 dimwishlist:item=833898322&perks=3017780555,4293542123
 dimwishlist:item=833898322&perks=4223976499,2675184851
-
-// Oversoul Edict ()
 dimwishlist:item=1098171824&perks=3523296417,2173046394
 dimwishlist:item=1098171824&perks=1906147653,1720528630
-
-// Song of Ir Yût ()
 dimwishlist:item=2828278545&perks=1523832109,365154968
 dimwishlist:item=2828278545&perks=461595545,2939589096
-
-// Fang of Ir Yût (Adept) ()
 dimwishlist:item=128782990&perks=3418782618,555281244
 dimwishlist:item=128782990&perks=3418782618,831391274
-
-// Swordbreaker (Adept) ()
 dimwishlist:item=1239700299&perks=691659142,2679249093
 dimwishlist:item=1239700299&perks=4071163871,3708227201#notes:Swap Weapon for Damage Rotations
-
-// Word of Crota (Adept) ()
 dimwishlist:item=3926103986&perks=2848615171,3425386926
-
-// Abyss Defiant (Adept) ()
 dimwishlist:item=3782662983&perks=3017780555,4293542123
-
-// Oversoul Edict (Adept) ()
 dimwishlist:item=578105049&perks=3523296417,2173046394
-
-// Song of Ir Yût (Adept) ()
 dimwishlist:item=407511664&perks=1523832109,365154968
 
 ----------Root of Nightmares----------
