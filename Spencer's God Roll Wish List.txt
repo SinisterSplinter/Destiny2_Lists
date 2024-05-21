@@ -914,38 +914,6 @@ dimwishlist:item=1720503118&perks=424370782,254337357
 dimwishlist:item=1720503118&perks=968510818,4293542123
 dimwishlist:item=1720503118&perks=424370782,2675184851
 
-----------Gaurdian Games----------
-
-// Hullabaloo ()
-
-// Taraxippos ()
-
-// The Title ()
-
-----------The Dawning----------
-
-// Albedo Wing ()
-
-// Avalanche ()
-
-// Glaciochasm ()
-
-// Cold Front ()
-
-// Stay Frosty ()
-
-// Zephyr ()
-
-----------Festival of the Lost----------
-
-// Acosmic ()
-
-// Horror Story ()
-
-// Jurassic Green ()
-
-// Machabre ()
-
 ~~~~~~~~~~~~~~~~~~~~~~
 > > > PLAYLIST < < <
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -1165,7 +1133,7 @@ dimwishlist:item=888872889&perks=201365942,2848615171
 // Pressurized Precision ()
 dimwishlist:item=1084190509&perks=3300816228,831391274
 
-// Riiswalker (PvP)h
+// Riiswalker (PvP)
 dimwishlist:item=1764868900&perks=1821614984,591790007
 
 // Riiswalker ()
@@ -1415,137 +1383,202 @@ dimwishlist:item=2119346509&perks=3060983774,2675184851
 // Aurvandil FR6 ()
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
-~~~~~~~~~~~~~~~~~~~
-> > > Archive < < <
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> > > Extra's: S12-S23 < < <
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-----------Season 23----------
-
-// Ros Arago IV ()
-
-// Belisarius-D ()
-
-// Parabellum ()
-
-// Chivalric Fire ()
-
-// Crux Termination ()
-
-// Marcato-45 ()
-
-----------Season 22----------
-
+----------Auto Rifles----------
+// Braytech Warewolf ()
+// Chroma Rush ()
+// Duty Bound ()
+// Duty Bound (Adept) ()
 // Eidolon Ally ()
-
-// The Guiding Sight ()
-
-// Psi Hermetic V ()
-
-// Malediction ()
-
-// Heliocentric QSC ()
-
-// Nox Perennial V ()
-
-// Geodetic HSM ()
-
-----------Season 21----------
-
 // Old Sterling ()
-
-// Last Rite ()
-
-// Glissando-47 ()
-
-// Epochal Integration ()
-
-// Combined Action ()
-
-// Last Foray ()
-
-// Mercurial Overreach ()
-
-----------Season 20----------
-
-// Dark Decider ()
-
+// Scathelocke ()
+// Seventh Seraph Carbine ()
+// Chrysura Melo ()
 // Coronach-22 ()
+// Dark Decider ()
+// Ros Arago IV ()
+// Shadow Price ()
+// Shadow Price (Adept) ()
+// The Number ()
 
-// Battle Scar ()
+----------Bows----------
+// Whistler's Whim ()
+// Whistler's Whim (Adept) ()
+// Imperial Needle
+// Wolftone Draw ()
 
-// The Hero's Burden ()
-
-// Allied Demand ()
-
-// Senina SI6 ()
-
-// Gunnora's Axe ()
-
-// Hand In Hand ()
-
-// Harsh Language ()
-
+----------Fusion Rifles----------
+// Burden of Guilt ()
+// Burden of Guilt (Adept) ()
+// Nox Perennial V ()
+// Cartesian Coordinate ()
+// Exile's Curse (Adept) ()
+// Iota Draconis ()
+// Null Composure ()
+// PLUG ONE.1 ()
+// PLUG ONE.1 (Adept) ()
 // The Wizened Rebuke ()
+// Trinary System ()
 
-// Irukandji ()
-
+----------Glaives----------
 // Ecliptic Distaff ()
+// The Enigma ()
 
-// Nasreddin ()
+----------Breech GL's----------
+// Ignition Code ()
+// Pardon Our Dust ()
+// The Militia's Birthright ()
+// The Militia's Birthright (Adept) ()
+// Deafening Whisper ()
+// Harsh Language ()
+// Salvager's Salvo ()
 
+----------Heavy GL's----------
+// Blast Battue ()
+// Canis Major ()
+// Cry Mutiny ()
+// Marsilion-C ()
+// Memory Interdict ()
 // Wendigo GL3 ()
-
 // Wendigo GL3 (Adept) ()
 
-// Marsilion-C ()
+----------Hand Cannons----------
+// D.F.A. ()
+// D.F.A. (Adept) ()
+// Malediction ()
+// Rose ()
+// Seventh Seraph Officer Revolver ()
+// The Steady Hand ()
+// Vulpecula ()
+// Annual Skate ()
+// Bottom Dollar ()
+// Combined Action ()
+// Epochal Integration ()
+// Exalted Truth ()
+// Exalted Truth (Adept) ()
+// Finite Impactor ()
+// Frontier's Cry ()
+// The Palindrome ()
+// The Palindrome (Adept) ()
 
-// Roar of the Bear ()
+----------Linear Fusion Rifles----------
+// Corsair's Wrath ()
+// Reed's Regret ()
+// Sailspy Pitchglass ()
+// Tarantula ()
+// Threaded Needle ()
 
+----------Machine Guns----------
+// Archon's Thunder ()
+// Chain of Command ()
+// Marcato-45 ()
+// Planck's Stride ()
+// Shattered Cipher ()
 // The Swarm ()
-
 // The Swarm (Adept) ()
-
 // Unwavering Duty ()
-
 // Unwavering Duty (Adept) ()
 
-----------Season 19----------
-
-// Seventh Seraph Carbine ()
-
+----------Pulse Rifles----------
+// Battle Scar ()
+// Belisarius-D ()
+// Legal Action ()
+// Psi Hermetic V ()
+// The Time-Worn Spire ()
+// BxR-55 Battler ()
+// Stars in Shadow ()
+// The Third Action ()
 // Veles-X ()
 
-// Rose ()
+----------Rocket Launchers----------
+// Ascendancy ()
+// Code Duello ()
+// Crux Termination IV ()
+// Road of the Bear ()
+// Royal Entry ()
+// The Hothead ()
+// Tomorrow's Answer (Adept) ()
 
-// Seventh Seraph Officer Revolver ()
-
-// Razor's Edge ()
-
-// Exalted Truth ()
-
-// Exalted Truth (Adept) ()
-
-----------Season 18----------
-
-// Goldtusk ()
-
-// Braytech Warewolf ()
-
-// Whistler's Whim ()
-
-// Whistler's Whim (Adept) ()
-
-// The Militia's Birthright ()
-
-// The Militia's Birthright (Adept) ()
-
-// No Reprieve ()
-
-// Blood Feud ()
-
+----------Scout Rifles----------
+// Glissando-47 ()
+// Last Rite ()
+// The Scholar ()
+// Aisha's Embrace ()
+// Aisha's Embrace (Adept) ()
+// Contingency Plan ()
+// Eternal Blazon ()
+// Pleiades Corrector ()
+// Royal Chase ()
 // Tarnished Mettle ()
 
-// Mindbender's Ambition
+----------Shotguns----------
+// Fractethyst ()
+// Imperial Decree ()
+// No Reprieve ()
+// Reckless Endangerment ()
+// Wastelander M5 ()
+// Compass Rose ()
+// Gunnora's Axe ()
+// Hand in Hand ()
+// Mindbender's Ambition ()
+// Mindbender's Ambition (Adept) ()
+// The Comedian ()
+// The Comedian (Adept) ()
+// The Deicide ()
+// The Inquisitor ()
+// The Inquisitor (Adept) ()
+// Xenoclast IV ()
 
-// Mindbender's Ambition (Adept)
+----------Sidearms----------
+// Allied Demand () 
+// Farewell ()
+// Peacebond ()
+// Senuna SI6 ()
+// Spoiler Alert ()
+// Brass Attacks ()
+// Brigand's Law ()
+// Drang ()
+// Forgiveness ()
+// Forgiveness (Adept) ()
+// Heliocentric QSC ()
+// The Keening ()
+// The Vision ()
 
+----------Sniper Rifles----------
+// Irukandji ()
+// Adored ()
+// Far Future ()
+// Frozen Orbit ()
+// Last Foray ()
+// Mercurial Overreach ()
+// Occluded Finality ()
+// Long Shadow ()
+
+----------Submachine Guns----------
+// Blood Feud ()
+// Extraordinary Rendition ()
+// Friction Fire ()
+// The Immortal ()
+// The Immortal (Adept) ()
+// Parabellum ()
+// Shayura's Wrath ()
+// Shayura's Wrath (Adept) ()
+// Stochastic Variable ()
+// The Hero's Burden ()
+
+----------Swords----------
+// Goldtusk ()
+// Quickfang ()
+// Chivalric Fire ()
+// Geodetic HSM ()
+// Half-Truths
+// Nasreddin ()
+// Razor's Edge ()
+// Sola's Scar ()
+// The Other Half ()
+
+----------Trace Rifles----------
+// Retraced Path ()
