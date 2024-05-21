@@ -9,7 +9,6 @@ title:Spencer's God Roll Wishlist
 // Fang of Ir Yût ()
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
-
 // Swordbreaker ()
 // notes:Crota's End Weapons
 dimwishlist:item=3163900678&perks=691659142,2679249093
@@ -1166,7 +1165,7 @@ dimwishlist:item=888872889&perks=201365942,2848615171
 // Pressurized Precision ()
 dimwishlist:item=1084190509&perks=3300816228,831391274
 
-// Riiswalker (PvP)
+// Riiswalker (PvP)h
 dimwishlist:item=1764868900&perks=1821614984,591790007
 
 // Riiswalker ()
@@ -1478,17 +1477,60 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 
 // Allied Demand ()
 
-//
+// Senina SI6 ()
 
+// Whistler's Whim ()
 
+// Whistler's Whim (Adept) ()
 
+// Mindbender's Ambition
 
+// Mindbender's Ambition (Adept)
 
+// Gunnora's Axe ()
 
+// Hand In Hand ()
 
+// The Militia's Birthright ()
 
+// The Militia's Birthright (Adept) ()
 
+// Harsh Language ()
 
+// The Wizened Rebuke ()
 
+// Irukandji ()
+
+// Ecliptic Distaff ()
+
+// Nasreddin ()
+
+// Wendigo GL3 ()
+
+// Wendigo GL3 (Adept) ()
+
+// Marsilion-C ()
+
+// Roar of the Bear ()
+
+// The Swarm ()
+
+// The Swarm (Adept) ()
+
+// Unwavering Duty ()
+
+// Unwavering Duty (Adept) ()
+
+----------Season 19----------
+
+// Seventh Seraph Carbine ()
+
+// Veles-X ()
+
+// Rose ()
+
+// Seventh Seraph Officer Revolver ()
+
+// Razor's Edge ()
 
 
