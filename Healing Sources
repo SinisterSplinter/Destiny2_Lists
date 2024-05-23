@@ -1,0 +1,49 @@
+ —————————— Exotic Armor —————————— 
+- Assassin's Cowl == 100/200 HP on mowered melee kill
+- Gyrfalcon's Hauberk == When Invis, Reserve Overshield on Finisher
+- Liar's Handshake == HP on Cross-Counter melee hit
+- Star-Eater Scales == HP on Super + Overshield
+- Wormhusk Crown == 67 HP on class ability
+
+ —————————— Exotic Weapons —————————— 
+- Buried Bloodline == 11 HP on hit + Devour on stacks
+- Crimson == 32 HP + HP Regen on kill
+- Edge of Intent == Creates Healing turret; Cure+Restoration x1 @ 1.25sec 
+- Lament == 6 HP on hit
+- Navigator == Woven Mail on 8 Allied hits
+- Suros Regime == 25% chance of 20 HP + HP Regen on kill
+
+ —————————— Weapon Perks —————————— 
+- Heal Clip == Cure x2 on reload @ 5.3sec after kill
+- Repulsor Brace == Void Overshield on void-debuff kill
+- Turnabout == 30 Overshield on shield crack
+- Unrelenting == 65 HP + HP Regen after 3 kills @ 5sec
+
+ —————————— Origin Perks —————————— 
+- Souldrinker == 50 HP on reload after 100% accuracy
+- Stunning Recovery == 60 HP on Champ stun + HP Regen + 40 Recovery
+- Vangaurd Vindication == 10 HP on weapon kill
+
+ —————————— Subclass Features —————————— 
+   # Arc #
+- Melee: Combination Blow == HP + HP Regen
+   # Solar #
+- Granade: Healing Grenade == Cure x1 + Restoration x1
+- Fragment: Mercy == Restoration x1 on Firesprite & Revive
+- Fragment: Resolve == Cure x1 on Grenade kill
+- Fragment: Tempering == +10|20|30 Recovery on kill(s)
+   # Stasis #
+- Fragment: Rime == Healing on Stasis Shard (Sm=5 Lg=35)
+   # Strand #
+- Fragment: Warding == Woven Mail on Orb of Power
+   # Void #
+- Fragment: Leeching == HP Regen on melee kill
+- Fragment: Starvation == Devour on Orb or Breech pickup
+- Fragment: Vigilance == Void Overshield on kill at critical
+
+ —————————— Armor Mods —————————— 
+- Emergency Reinforcement == 10% Dmg Res. at critical
+- Better Already == HP Regen. on Orb of Power
+- Healthy Finisher == Full HP on finisher
+- Recuperation == 70 HP on Orb of power
+- Resistance == 15|25|30% Dmg res.
