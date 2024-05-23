@@ -963,7 +963,7 @@ dimwishlist:item=491078457&perks=1583705720,1015611457
 dimwishlist:item=1948035256&perks=3017780555,4293542123
 dimwishlist:item=1948035256&perks=3017780555,3038247973
 dimwishlist:item=1948035256&perks=3400784728,1771339417#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1948035256&perks=706527188,2551157718#notes:Flint Striker
+dimwishlist:item=1948035256&perks=706527188,2551157718#notes:Single-Shot Flint Striker
 
 // Double-Edged Answer ()
 dimwishlist:item=105164264&perks=1749209109,2048641572
@@ -976,7 +976,7 @@ dimwishlist:item=3125454907&perks=968510818,1427256713
 
 // Braytech Osprey ()
 dimwishlist:item=3667553455&perks=968510818,1439600632#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Ad Clear Roll
+dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Use for Ad Clear
 
 // Warden's Law ()
 dimwishlist:item=1821529912&perks=1354429876,1546637391
@@ -1002,7 +1002,7 @@ dimwishlist:item=2914913838&perks=968510818,1427256713
 
 // Braytech Osprey (Adept) ()
 dimwishlist:item=1064132738&perks=968510818,1439600632#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Ad Clear Roll
+dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Use for Ad Clear
 
 // Warden's Law (Adept) ()
 dimwishlist:item=267089201&perks=1354429876,1546637391
@@ -1104,8 +1104,8 @@ dimwishlist:item=2026755633&perks=1820235745,3891536761
 dimwishlist:item=310708513&perks=247725512,1015611457
 dimwishlist:item=310708513&perks=1168162263,1015611457
 
-// Survivor's Epitaph (PvP)
-dimwishlist:item=310708513&perks=706527188,957782887
+// Survivor's Epitaph ()
+dimwishlist:item=310708513&perks=706527188,957782887#notes:For use in PVP Build
 
 // Sorrow's Verse ()
 dimwishlist:item=2496875173&perks=1820235745,3425386926
@@ -1138,8 +1138,8 @@ dimwishlist:item=2510526114&perks=1359896290,365154968
 // Retrofuturist ()
 dimwishlist:item=1612781792&perks=3300816228,2360754333
 
-// Retrofuturist (PvP)
-dimwishlist:item=1612781792&perks=706527188,957782887
+// Retrofuturist ()
+dimwishlist:item=1612781792&perks=706527188,957782887#notes:For use in PVP Build
 
  ———————————————————— Iron Banner ———————————————————— 
 
@@ -1168,8 +1168,8 @@ dimwishlist:item=888872889&perks=201365942,2848615171
 // Pressurized Precision ()
 dimwishlist:item=1084190509&perks=3300816228,831391274
 
-// Riiswalker (PvP)
-dimwishlist:item=1764868900&perks=1821614984,591790007
+// Riiswalker ()
+dimwishlist:item=1764868900&perks=1821614984,591790007#notes:For use in PVP Build
 
 // Riiswalker ()
 dimwishlist:item=1764868900&perks=3161816588,591790007
@@ -1246,6 +1246,7 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 // Unwavering Duty ()
 // The Immortal ()
 // Astral Horizon ()
+// Sola's Scar ()
 // Shayura's Wrath (Adept) ()
 // Reed's Regret (Adept) ()
 // Aisha's Embrace (Adept) ()
@@ -1257,6 +1258,7 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 // Unwavering Duty (Adept) ()
 // The Immortal (Adept) ()
 // Astral Horizon (Adept) ()
+// Sola's Scar (Adept) ()
 
 #####################
 > > > LOCATIONS < < <
@@ -1691,113 +1693,168 @@ dimwishlist:item=2448907086&perks=3300816228,2284787283
 
  ———————————————————— Scout Rifles ———————————————————— 
 // Glissando-47 ()
+dimwishlist:item=222606050&perks=1523832109,831391274
 
 // Last Rite ()
-
-// The Scholar ()
+dimwishlist:item=542573208&perks=202670084,1885400500,3619207468,47981717
+dimwishlist:item=542573208&perks=202670084,1885400500,3619207468,2896038713
+dimwishlist:item=542573208&perks=202670084,1885400500,1523832109,47981717
+dimwishlist:item=542573208&perks=202670084,1885400500,1523832109,2896038713
 
 // Contingency Plan ()
+dimwishlist:item=577528837&perks=1168162263,1015611457
 
 // Eternal Blazon ()
+dimwishlist:item=3514096004&perks=247725512,1015611457
 
 // Pleiades Corrector ()
-
-// Royal Chase ()
+dimwishlist:item=3556999246&perks=1168162263,2458213969
 
 // Tarnished Mettle ()
+dimwishlist:item=2218569744&perks=247725512,2173046394
+dimwishlist:item=2218569744&perks=3523296417,2173046394
+dimwishlist:item=2218569744&perks=247725512,3038247973
+dimwishlist:item=2218569744&perks=247725512,2848615171
 
  ———————————————————— Shotguns ———————————————————— 
 // Fractethyst ()
+dimwishlist:item=3184681056&perks=706527188,47981717#notes:For use in PVP Build
 
 // Imperial Decree ()
+dimwishlist:item=318443586&perks=3300816228,2360754333
 
 // No Reprieve ()
+dimwishlist:item=2531963421&perks=1168162263,124408337
 
 // Reckless Endangerment ()
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,4082225868
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887
+dimwishlist:item=3216652511&perks=1047830412,791862061,509074078,4082225868
+dimwishlist:item=3216652511&perks=1047830412,791862061,509074078,957782887
 
 // Wastelander M5 ()
-
-// Compass Rose ()
+dimwishlist:item=1679868061&perks=3161816588,2679249093
 
 // Gunnora's Axe ()
+dimwishlist:item=411397829&perks=4071163871,2173046394
+dimwishlist:item=411397829&perks=1821614984,957782887#notes:For use in PVP Build
 
 // Hand in Hand ()
+dimwishlist:item=664109750&perks=3161816588,2679249093
 
 // The Deicide ()
+dimwishlist:item=217140611&perks=1556840489,2679249093
 
 // Xenoclast IV ()
+dimwishlist:item=2891672170&perks=1631667848,2679249093
 
  ———————————————————— Sidearms ———————————————————— 
 // Allied Demand () 
+dimwishlist:item=3166250992&perks=1820235745,4104185692
 
 // Farewell ()
+dimwishlist:item=541188001&perks=1820235745,4104185692
 
 // Peacebond ()
+dimwishlist:item=829330711&perks=2846385770,124408337
 
 // Senuna SI6 ()
+dimwishlist:item=5159537&perks=2779035018,124408337
 
 // Spoiler Alert ()
+dimwishlist:item=2588048270&perks=2779035018,4082225868
 
 // Brass Attacks ()
+dimwishlist:item=2121785039&perks=247725512,3425386926
 
 // Brigand's Law ()
+dimwishlist:item=1298815317&perks=4071163871,2173046394
 
-// Drang ()
+// Drang (Baroque) ()
+dimwishlist:item=502356570&perks=3592538738,4293542123
 
 // Heliocentric QSC ()
+dimwishlist:item=3998080529&perks=3017780555,4293542123
 
 // The Keening ()
+dimwishlist:item=409551876&perks=247725512,2458213969
 
 // The Vision ()
+dimwishlist:item=2414141462&perks=2450788523,1015611457
 
  ———————————————————— Sniper Rifles ———————————————————— 
 // Irukandji ()
+dimwishlist:item=2673925403&perks=968510818,2896038713
+dimwishlist:item=2673925403&perks=1354429876,1771339417
 
 // Adored ()
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,957782887
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,1546637391
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 // Far Future ()
+dimwishlist:item=893527433&perks=706527188,47981717
 
 // Frozen Orbit ()
+dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=3473290087&perks=1168162263,1015611457
 
 // Last Foray ()
+dimwishlist:item=1106635211&perks=968510818,4293542123
 
 // Mercurial Overreach ()
+dimwishlist:item=2073794990&perks=957782887,47981717#notes:For use in PVP Build
 
 // Occluded Finality ()
+dimwishlist:item=852551895&perks=957782887,47981717
 
 // Long Shadow ()
+dimwishlist:item=3745990145&perks=957782887,3038247973
 
  ———————————————————— Submachine Guns ———————————————————— 
 // Blood Feud ()
+dimwishlist:item=1509167284&perks=2010801679,4104185692
 
 // Extraordinary Rendition ()
+dimwishlist:item=1097616550&perks=1820235745,4104185692
 
 // Friction Fire ()
+dimwishlist:item=1513993763&perks=1820235745,3425386926
 
 // Parabellum ()
+dimwishlist:item=3926811686&perks=3017780555,4104185692
 
 // Stochastic Variable ()
+dimwishlist:item=2272470786&perks=2779035018,2458213969
 
 // The Hero's Burden ()
+dimwishlist:item=1028124540&perks=2779035018,1015611457
 
  ———————————————————— Swords ———————————————————— 
 // Goldtusk ()
+dimwishlist:item=3371413057&perks=1749209109,3913600130
 
 // Quickfang ()
+dimwishlist:item=2782325300&perks=1749209109,354401740
 
 // Chivalric Fire ()
+dimwishlist:item=3438139008&perks=938542991,52780822,776531651,2048641572
 
 // Geodetic HSM ()
+dimwishlist:item=3637669759&perks=776531651,2048641572
 
-// Half-Truths
+// Half-Truths ()
+dimwishlist:item=3257091166&perks=2590710093,2077819806
 
 // Nasreddin ()
+dimwishlist:item=1456017061&perks=1749209109,3913600130
 
 // Razor's Edge ()
-
-// Sola's Scar ()
+dimwishlist:item=1796949035&perks=1749209109,2396489472
 
 // The Other Half ()
+dimwishlist:item=3257091167&perks=2077819806,1546637391
 
  ———————————————————— Trace Rifles ———————————————————— 
 // Retraced Path ()
