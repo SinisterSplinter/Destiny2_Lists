@@ -1,5 +1,72 @@
 title:Spencer's God Roll Wishlist
 
+###########################
+> > > THE FINAL SHAPE < < <
+###########################
+
+ ———————————————————— The Pale Heart ————————————————————
+
+// Someday ()
+dimwishlist:item=3232203524&perks=1556840489,469285294
+dimwishlist:item=3232203524&perks=3442762221,3335686050
+dimwishlist:item=3232203524&perks=1556840489,3751912585
+dimwishlist:item=3232203524&perks=3442762221,331667533
+
+// The Call ()
+dimwishlist:item=3947966653&perks=1820235745,2109543898
+dimwishlist:item=3947966653&perks=4245865861,2799030358
+dimwishlist:item=3947966653&perks=1820235745,831391274
+dimwishlist:item=3947966653&perks=4245865861,102912326
+
+// Bold Endings ()
+dimwishlist:item=496728945&perks=124408337,2848615171
+dimwishlist:item=496728945&perks=1171887445,169755979
+
+// No Hesitation ()
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+dimwishlist:item=1801007332&perks=4063561849,2675184851
+
+// Axial Lacuna ()
+dimwishlist:item=3867373351&perks=1523832109,2594592626
+dimwishlist:item=3867373351&perks=461595545,2037312142
+
+// Embraced Identity ()
+dimwishlist:item=2821677368&perks=1523832109,555281244
+dimwishlist:item=2821677368&perks=461595545,332733060
+dimwishlist:item=2821677368&perks=3418782618,555281244#notes:Specs for Mag Dump
+dimwishlist:item=2821677368&perks=1563455254,332733060#notes:Specs for Mag Dump
+
+// Pro Memoria ()
+dimwishlist:item=3605603507&perks=831391274,2848615171#notes:Specs for Strand Build
+dimwishlist:item=3605603507&perks=102912326,169755979#notes:Specs for Strand Build
+
+
+// False Idols ()
+
+
+ ———————————————————— Eposide 1: Echoes ————————————————————
+
+// Lost Signal ()
+
+// Veiled Threat ()
+
+// Sightline Survey ()
+
+// Corrasion ()
+
+// Timeworn Wayfarer ()
+
+// Aberrant Action ()
+
+// Chronophage ()
+
+// Speleologist ()
+
+// Faith-Keeper ()
+
+// Ill Omen ()
+
+
 #################
 > > > RAIDS < < <
 #################
@@ -13,8 +80,8 @@ dimwishlist:item=1432682459&perks=3418782618,831391274
 // Swordbreaker ()
 dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=536173722,788178929
-dimwishlist:item=3163900678&perks=4071163871,3708227201#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=3163900678&perks=494941759,781192741#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=3163900678&perks=4071163871,3708227201#notes:Specs for DPS Swap Weapon
+dimwishlist:item=3163900678&perks=494941759,781192741#notes:Specs for DPS Swap Weapon
 
 // Word of Crota ()
 dimwishlist:item=120706239&perks=2848615171,3425386926
@@ -38,7 +105,7 @@ dimwishlist:item=128782990&perks=3418782618,831391274
 
 // Swordbreaker (Adept) ()
 dimwishlist:item=1239700299&perks=691659142,2679249093
-dimwishlist:item=1239700299&perks=4071163871,3708227201#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=1239700299&perks=4071163871,3708227201#notes:Specs for DPS Swap Weapon
 
 // Word of Crota (Adept) ()
 dimwishlist:item=3926103986&perks=2848615171,3425386926
@@ -545,8 +612,8 @@ dimwishlist:item=254636484&perks=3523296417,1546637391
 dimwishlist:item=254636484&perks=1906147653,3418165135
 
 // Without Remorse ()
-dimwishlist:item=1478986057&perks=4071163871,1546637391#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1478986057&perks=494941759,3418165135#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=1478986057&perks=4071163871,1546637391#notes:Specs for DPS Swap Weapon
+dimwishlist:item=1478986057&perks=494941759,3418165135#notes:Specs for DPS Swap Weapon
 dimwishlist:item=1478986057&perks=1866048759,2679249093
 dimwishlist:item=1478986057&perks=3118144663,788178929
 
@@ -619,8 +686,8 @@ dimwishlist:item=1731355324&perks=573122728,2402480669
 // IKELOS_SG_v1.0.3 ()
 dimwishlist:item=1168625549&perks=1631667848,2679249093
 dimwishlist:item=1168625549&perks=402033656,788178929
-dimwishlist:item=1168625549&perks=4071163871,1546637391#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1168625549&perks=494941759,3418165135#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=1168625549&perks=4071163871,1546637391#notes:Specs for DPS Swap Weapon
+dimwishlist:item=1168625549&perks=494941759,3418165135#notes:Specs for DPS Swap Weapon
 
 // IKELOS_SR_v1.0.3 ()
 dimwishlist:item=2302346155&perks=1354429876,2896038713
@@ -657,6 +724,19 @@ dimwishlist:item=2827764482&perks=2840833776,1720528630
 ###################
 > > > SEASONS < < <
 ###################
+
+ ———————————————————— Season of the Dawn ————————————————————
+
+// Breachlight ()
+
+// Patron of Lost Causes ()
+
+// Perfect Paradox	()
+
+// Martyr's Retribution	()
+
+// Line in the Sand ()
+
 
  ———————————————————— Into the Light ———————————————————— 
 
@@ -853,8 +933,8 @@ dimwishlist:item=3016891299&perks=1820235745,11612903
 dimwishlist:item=3016891299&perks=4245865861,2422968039
 
 // Until Its Return ()
-dimwishlist:item=2883484461&perks=3300816228,1546637391#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=2883484461&perks=3528046508,3418165135#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=2883484461&perks=3300816228,1546637391#notes:Specs for DPS Swap Weapon
+dimwishlist:item=2883484461&perks=3528046508,3418165135#notes:Specs for DPS Swap Weapon
 dimwishlist:item=2883484461&perks=3300816228,2360754333
 dimwishlist:item=2883484461&perks=3528046508,2459015849
 
@@ -933,7 +1013,7 @@ dimwishlist:item=378498222&perks=1820235745,4082225868
 dimwishlist:item=378498222&perks=1820235745,1015611457
 
 // Fortissimo-11 ()
-dimwishlist:item=2821430069&perks=3436462433,1546637391#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=2821430069&perks=3436462433,1546637391#notes:Specs for DPS Swap Weapon
 
 // Strident Whistle ()
 dimwishlist:item=2591241074&perks=201365942,4293542123
@@ -964,21 +1044,24 @@ dimwishlist:item=491078457&perks=1583705720,1015611457
 // Luna Regolith III
 dimwishlist:item=1948035256&perks=3017780555,4293542123
 dimwishlist:item=1948035256&perks=3017780555,3038247973
-dimwishlist:item=1948035256&perks=3400784728,1771339417#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1948035256&perks=706527188,2551157718#notes:Single-Shot Flint Striker
+dimwishlist:item=1948035256&perks=3400784728,1771339417#notes:Specs for DPS Swap Weapon
 
 // Double-Edged Answer ()
 dimwishlist:item=105164264&perks=1749209109,2048641572
 
  ———————————————————— Nightfall ———————————————————— 
 
+// Shadow Price ()
+
+// Scintillation ()
+
 // Loaded Question ()
 dimwishlist:item=3125454907&perks=3643424744,1427256713
 dimwishlist:item=3125454907&perks=968510818,1427256713
 
 // Braytech Osprey ()
-dimwishlist:item=3667553455&perks=968510818,1439600632#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Use for Ad Clear
+dimwishlist:item=3667553455&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
+dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Specs for Ad Clear
 
 // Warden's Law ()
 dimwishlist:item=1821529912&perks=1354429876,1546637391
@@ -998,13 +1081,17 @@ dimwishlist:item=2889501828&perks=2077819806,3650930298
 // Wild Style ()
 dimwishlist:item=1332123064&perks=968510818,4293542123
 
+// Shadow Price (Adept) ()
+
+// Scintillation (Adept) ()
+
 // Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=3643424744,1427256713
 dimwishlist:item=2914913838&perks=968510818,1427256713
 
 // Braytech Osprey (Adept) ()
-dimwishlist:item=1064132738&perks=968510818,1439600632#notes:Swap Weapon for Damage Rotations
-dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Use for Ad Clear
+dimwishlist:item=1064132738&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
+dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Specs for Ad Clear
 
 // Warden's Law (Adept) ()
 dimwishlist:item=267089201&perks=1354429876,1546637391
@@ -1039,7 +1126,6 @@ dimwishlist:item=959037361&perks=968510818,4293542123
 // Wendigo GL3 ()
 // Buzzard ()
 // The Swarm ()
-// Shadow Price ()
 // The Palindrome ()
 // PLUG ONE.1 (Adept) ()
 // The Comedian (Adept) ()
@@ -1054,7 +1140,6 @@ dimwishlist:item=959037361&perks=968510818,4293542123
 // Wendigo GL3 (Adept) ()
 // Buzzard (Adept) ()
 // The Swarm (Adept) ()
-// Shadow Price (Adept) ()
 // The Palindrome (Adept) ()
 
  ———————————————————— Gambit ———————————————————— 
@@ -1072,7 +1157,7 @@ dimwishlist:item=1788603939&perks=1820235745,4104185692
 
 // Dead Weight ()
 dimwishlist:item=3738678140&perks=3300816228,2679249093
-dimwishlist:item=3738678140&perks=3300816228,1546637391#note:Swap Weapon for Damage Rotations
+dimwishlist:item=3738678140&perks=3300816228,1546637391#note:Specs for DPS Swap Weapon
 
 // Yesteryear ()
 dimwishlist:item=1141927949&perks=1168162263,3047969693
@@ -1107,7 +1192,7 @@ dimwishlist:item=310708513&perks=247725512,1015611457
 dimwishlist:item=310708513&perks=1168162263,1015611457
 
 // Survivor's Epitaph ()
-dimwishlist:item=310708513&perks=706527188,957782887#notes:For use in PVP Build
+dimwishlist:item=310708513&perks=706527188,957782887#notes:Specs for PVP
 
 // Sorrow's Verse ()
 dimwishlist:item=2496875173&perks=1820235745,3425386926
@@ -1141,9 +1226,11 @@ dimwishlist:item=2510526114&perks=1359896290,365154968
 dimwishlist:item=1612781792&perks=3300816228,2360754333
 
 // Retrofuturist ()
-dimwishlist:item=1612781792&perks=706527188,957782887#notes:For use in PVP Build
+dimwishlist:item=1612781792&perks=706527188,957782887#notes:Specs for PVP
 
  ———————————————————— Iron Banner ———————————————————— 
+
+// Claws of the Wolf ()
 
 // Tusk of the Boar ()
 dimwishlist:item=1218113510&perks=968510818,2396489472
@@ -1171,7 +1258,7 @@ dimwishlist:item=888872889&perks=201365942,2848615171
 dimwishlist:item=1084190509&perks=3300816228,831391274
 
 // Riiswalker ()
-dimwishlist:item=1764868900&perks=1821614984,591790007#notes:For use in PVP Build
+dimwishlist:item=1764868900&perks=1821614984,591790007#notes:Specs for PVP
 
 // Riiswalker ()
 dimwishlist:item=1764868900&perks=3161816588,591790007
@@ -1182,6 +1269,8 @@ dimwishlist:item=433905699&perks=2284787283,2048641572
 dimwishlist:item=433905699&perks=3300816228,2048641572
 
  ———————————————————— Trials of Osiris ———————————————————— 
+
+// Aisha's Care ()
 
 // The Messenger ()
 dimwishlist:item=3796795102&perks=247725512,460017080
@@ -1208,6 +1297,8 @@ dimwishlist:item=1820994983&perks=3017780555,4293542123
 
 // The Prophet ()
 dimwishlist:item=1968410628&perks=1168162263,3038247973
+
+// Aisha's Care (Adept) ()
 
 // The Messenger (Adept) ()
 dimwishlist:item=364665267&perks=247725512,460017080
@@ -1566,14 +1657,14 @@ dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
 
 // Rose ()
 dimwishlist:item=882778888&perks=247725512,3038247973
-dimwishlist:item=882778888&perks=706527188,957782887#notes:For use in PVP Build
+dimwishlist:item=882778888&perks=706527188,957782887#notes:Specs for PVP
 
 // Seventh Seraph Officer Revolver ()
 dimwishlist:item=1555959830&perks=1523832109,2213355989
 
 // The Steady Hand ()
 dimwishlist:item=2220884262&perks=1168162263,4082225868
-dimwishlist:item=2220884262&perks=706527188,957782887#notes:For use in PVP Build
+dimwishlist:item=2220884262&perks=706527188,957782887#notes:Specs for PVP
 
 // Vulpecula ()
 dimwishlist:item=1622998472&perks=1168162263,2458213969
@@ -1629,7 +1720,7 @@ dimwishlist:item=3105930175&perks=839105230,1561002382,2997472817,1048183818
 
 // Marcato-45 ()
 dimwishlist:item=4233375372&perks=3400784728,95528736
-dimwishlist:item=4233375372&perks=923806249,831391274#notes:For use in Strand Build
+dimwishlist:item=4233375372&perks=923806249,831391274#notes:Specs for Strand-Based Loadout
 
 // Planck's Stride ()
 dimwishlist:item=820890091&perks=1428297954,4049631843
@@ -1720,7 +1811,7 @@ dimwishlist:item=2218569744&perks=247725512,2848615171
 
  ———————————————————— Shotguns ———————————————————— 
 // Fractethyst ()
-dimwishlist:item=3184681056&perks=706527188,47981717#notes:For use in PVP Build
+dimwishlist:item=3184681056&perks=706527188,47981717#notes:Specs for PVP
 
 // Imperial Decree ()
 dimwishlist:item=318443586&perks=3300816228,2360754333
@@ -1739,7 +1830,7 @@ dimwishlist:item=1679868061&perks=3161816588,2679249093
 
 // Gunnora's Axe ()
 dimwishlist:item=411397829&perks=4071163871,2173046394
-dimwishlist:item=411397829&perks=1821614984,957782887#notes:For use in PVP Build
+dimwishlist:item=411397829&perks=1821614984,957782887#notes:Specs for PVP
 
 // Hand in Hand ()
 dimwishlist:item=664109750&perks=3161816588,2679249093
@@ -1799,14 +1890,14 @@ dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 dimwishlist:item=893527433&perks=706527188,47981717
 
 // Frozen Orbit ()
-dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:Swap Weapon for Damage Rotations
+dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:Specs for DPS Swap Weapon
 dimwishlist:item=3473290087&perks=1168162263,1015611457
 
 // Last Foray ()
 dimwishlist:item=1106635211&perks=968510818,4293542123
 
 // Mercurial Overreach ()
-dimwishlist:item=2073794990&perks=957782887,47981717#notes:For use in PVP Build
+dimwishlist:item=2073794990&perks=957782887,47981717#notes:Specs for PVP
 
 // Occluded Finality ()
 dimwishlist:item=852551895&perks=957782887,47981717
