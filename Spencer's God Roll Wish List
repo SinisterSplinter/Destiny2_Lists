@@ -32,8 +32,8 @@ dimwishlist:item=3867373351&perks=461595545,2037312142
 // Embraced Identity ()
 dimwishlist:item=2821677368&perks=1523832109,555281244
 dimwishlist:item=2821677368&perks=461595545,332733060
-dimwishlist:item=2821677368&perks=3418782618,555281244#notes:Specs for Mag Dump
-dimwishlist:item=2821677368&perks=1563455254,332733060#notes:Specs for Mag Dump
+dimwishlist:item=2821677368&perks=3418782618,555281244#notes:Specs for DPS Mag Dump
+dimwishlist:item=2821677368&perks=1563455254,332733060#notes:Specs for DPS Mag Dump
 
 // Pro Memoria ()
 dimwishlist:item=3605603507&perks=1523832109,4104185692
@@ -1009,7 +1009,6 @@ dimwishlist:item=1720503118&perks=424370782,2675184851
  ———————————————————— Pursuit ————————————————————
 // Perfect Pitch ()
 
-
  ———————————————————— Vangaurd ————————————————————
 // Origin Story ()
 dimwishlist:item=2826850739&perks=1359896290,3891536761
@@ -1108,6 +1107,7 @@ dimwishlist:item=2026755633&perks=1820235745,3891536761
 
  ———————————————————— Crucible ————————————————————
 // Better Devils ()
+dimwishlist:item=4152016199&perks=1523832109,3038247973
 
 // Survivor's Epitaph ()
 dimwishlist:item=310708513&perks=247725512,1015611457
@@ -1160,6 +1160,7 @@ dimwishlist:item=2322926844&perks=3643424744,2173046394
 
 // Scintillation ()
 dimwishlist:item=2591257541&perks=968510818,3078487919
+dimwishlist:item=2591257541&perks=968510818,1427256713
 
 // Loaded Question ()
 dimwishlist:item=3125454907&perks=3643424744,1427256713
@@ -1191,6 +1192,8 @@ dimwishlist:item=1332123064&perks=968510818,4293542123
 dimwishlist:item=1056103557&perks=3643424744,2173046394
 
 // Scintillation (Adept) ()
+dimwishlist:item=1492522228&perks=968510818,3078487919
+dimwishlist:item=1492522228&perks=968510818,1427256713
 
 // Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=3643424744,1427256713
@@ -1221,36 +1224,97 @@ dimwishlist:item=959037361&perks=968510818,4293542123
 —————  Legacy  —————
 
 // PLUG ONE.1 ()
+dimwishlist:item=1289000550&perks=671806388,1427256713
+
 // The Comedian ()
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+
 // The Hothead ()
+dimwishlist:item=4255171531&perks=3300816228,2284787283
+dimwishlist:item=4255171531&perks=3300816228,3194351027
+
 // Duty Bound ()
+dimwishlist:item=435216110&perks=2387244414,4104185692
+dimwishlist:item=435216110&perks=2387244414,4049631843
+
 // Silicon Neuroma ()
+dimwishlist:item=3355385170&perks=957782887,47981717#notes:Specs for PVP
+
 // D.F.A. ()
+dimwishlist:item=575830664&perks=1168162263,3425386926
+
 // Horror's Least ()
+dimwishlist:item=216983039&perks=2387244414,4104185692
+
 // The Militia's Birthright ()
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+
 // Mindbender's Ambition ()
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+
 // Hung Jury SR4 ()
+dimwishlist:item=3832743906&perks=1820235745,3824105627
+
 // Wendigo GL3 ()
+dimwishlist:item=1854753404&perks=2284787283,3751912585
+
 // Buzzard ()
+dimwishlist:item=213264394&perks=671806388,2458213969
+
 // The Swarm ()
+dimwishlist:item=2759590322&perks=2779035018,2848615171
+
 // The Palindrome ()
+dimwishlist:item=432476743&perks=706527188,2846385770#notes:Specs for PVP
+
 // PLUG ONE.1 (Adept) ()
+dimwishlist:item=534775659&perks=671806388,1427256713
+
 // The Comedian (Adept) ()
+dimwishlist:item=1028582252&perks=1556840489,2360754333'
+
 // The Hothead (Adept) ()
+dimwishlist:item=1866778462&perks=3300816228,2284787283
+dimwishlist:item=1866778462&perks=3300816228,3194351027
+
 // Duty Bound (Adept) ()
+dimwishlist:item=1135050595&perks=2387244414,4104185692
+dimwishlist:item=1135050595&perks=2387244414,4049631843
+
 // Silicon Neuroma (Adept) ()
+dimwishlist:item=1387987271&perks=957782887,47981717
+
 // D.F.A. (Adept) ()
+dimwishlist:item=2006308129&perks=1168162263,3425386926
+
 // Horror's Least (Adept) ()
+dimwishlist:item=1924276978&perks=2387244414,4104185692
+
 // The Militia's Birthright (Adept) ()
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+
 // Mindbender's Ambition (Adept) ()
+dimwishlist:item=2074041946&perks=691659142,4082225868
+
 // Hung Jury SR4 (Adept) ()
+dimwishlist:item=2883684343&perks=1820235745,3824105627
+
 // Wendigo GL3 (Adept) ()
+dimwishlist:item=3915197957&perks=2284787283,3751912585
+
 // Buzzard (Adept) ()
+dimwishlist:item=927835311&perks=671806388,2458213969
+
 // The Swarm (Adept) ()
+dimwishlist:item=566740455&perks=2779035018,2848615171
+
 // The Palindrome (Adept) ()
+dimwishlist:item=1481892490&perks=706527188,2846385770#notes:Specs for PVP
 
  ———————————————————— Iron Banner ————————————————————
 // Claws of the Wolf ()
+dimwishlist:item=1505862304&perks=776531651,2048641572#notes:Specs for Void Build
+dimwishlist:item=1505862304&perks=776531651,3425386926
 
 // Tusk of the Boar ()
 dimwishlist:item=1218113510&perks=968510818,2396489472
@@ -1290,6 +1354,7 @@ dimwishlist:item=433905699&perks=3300816228,2048641572
 
  ———————————————————— Trials of Osiris ————————————————————
 // Aisha's Care ()
+dimwishlist:item=3969379530&perks=2387244414,3047969693
 
 // The Messenger ()
 dimwishlist:item=3796795102&perks=247725512,460017080
@@ -1318,6 +1383,7 @@ dimwishlist:item=1820994983&perks=3017780555,4293542123
 dimwishlist:item=1968410628&perks=1168162263,3038247973
 
 // Aisha's Care (Adept) ()
+dimwishlist:item=3332125295&perks=2387244414,3047969693
 
 // The Messenger (Adept) ()
 dimwishlist:item=364665267&perks=247725512,460017080
@@ -1662,6 +1728,8 @@ dimwishlist:item=3165547384&perks=2284787283,2396489472
 
  ———————————————————— Hand Cannons ————————————————————
 // Maahes HC4 ()
+dimwishlist:item=1246793994&perks=247725512,2848615171
+dimwishlist:item=1246793994&perks=776531651,2048641572#notes:Specs for Void Build
 
 // Malediction ()
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3978468247,438098033
@@ -1710,7 +1778,8 @@ dimwishlist:item=1141547457&perks=247725512,1015611457
 
  ———————————————————— Linear Fusion Rifles ————————————————————
 // Suspectum-4fr ()
-
+dimwishlist:item=3615421669&perks=968510818,2978966579
+dimwishlist:item=3615421669&perks=968510818,555281244#notes:Specs for DPS Mag Dump
 // Corsair's Wrath ()
 dimwishlist:item=2714022207&perks=1168162263,1015611457
 
