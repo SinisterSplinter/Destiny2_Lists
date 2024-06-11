@@ -12,26 +12,25 @@ dimwishlist:item=3232203524&perks=1556840489,3751912585
 The Call ()
 dimwishlist:item=3947966653&perks=1556840489,4049631843
 dimwishlist:item=3947966653&perks=1556840489,2458213969
-// Bold Endings ()
+Bold Endings ()
 dimwishlist:item=496728945&perks=124408337,2848615171
 dimwishlist:item=496728945&perks=247725512,2848615171
-// No Hesitation ()
+No Hesitation ()
 dimwishlist:item=1801007332&perks=1820235745,4293542123
 dimwishlist:item=1801007332&perks=1820235745,2109543898
-// Axial Lacuna ()
+dimwishlist:item=1801007332&perks=2980589453,2298656195#notes:Specs for Support Build
+Axial Lacuna ()
 dimwishlist:item=3867373351&perks=1523832109,4293542123
 dimwishlist:item=3867373351&perks=1523832109,2594592626
-// Embraced Identity ()
+Embraced Identity ()
 dimwishlist:item=2821677368&perks=1523832109,555281244
-// Pro Memoria ()
+Pro Memoria ()
 dimwishlist:item=3605603507&perks=1523832109,4104185692
 dimwishlist:item=3605603507&perks=1523832109,2848615171
-// False Idols ()
+False Idols ()
 dimwishlist:item=4207120603&perks=4293542123,3708227201
 
-//notes:Build-Specific Perk Rolls
-    No Hesitation
-dimwishlist:item=1801007332&perks=2980589453,2298656195
+//notes:Build-Specific Perks
     Embraced Identity
 dimwishlist:item=2821677368&perks=3418782618,555281244
     Pro Memoria
