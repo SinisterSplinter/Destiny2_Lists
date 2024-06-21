@@ -119,6 +119,7 @@ dimwishlist:item=1432682459&perks=3418782618,831391274
 dimwishlist:item=3163900678&perks=691659142,2679249093
     Word of Crota
 dimwishlist:item=120706239&perks=2848615171,3425386926
+dimwishlist:item=120706239&perks=776531651,4104185692#notes:Specs for Ass-Falcon
     Abyss Defiant
 dimwishlist:item=833898322&perks=3017780555,4293542123
     Oversoul Edict
@@ -132,6 +133,7 @@ dimwishlist:item=128782990&perks=3418782618,831391274
 dimwishlist:item=1239700299&perks=691659142,2679249093
     Word of Crota (Adept)
 dimwishlist:item=3926103986&perks=2848615171,3425386926
+dimwishlist:item=3926103986&perks=776531651,4104185692#notes:Specs for Ass-Falcon
     Abyss Defiant (Adept)
 dimwishlist:item=3782662983&perks=3017780555,4293542123
     Oversoul Edict (Adept)
@@ -533,9 +535,11 @@ dimwishlist:item=2228325504&perks=968510818,3078487919
     Elsie's Rifle
 dimwishlist:item=2372514509&perks=2779035018,1015611457
 dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=776531651,2109543898
     Elsie's Rifle (Guilded)
 dimwishlist:item=3851176026&perks=2779035018,1015611457
 dimwishlist:item=3851176026&perks=3418782618,4104185692
+dimwishlist:item=3851176026&perks=776531651,2109543898
     Falling Guillotine
 dimwishlist:item=1815105249&perks=1749209109,3708227201
 dimwishlist:item=1815105249&perks=1546637391,2077819806
@@ -583,6 +587,7 @@ dimwishlist:item=3757612024&perks=3017780555,4293542123
 + + + + + Season of the Wish + + + + +
     Lethophobia
 dimwishlist:item=3710082365&perks=776531651,3365897133
+dimwishlist:item=3710082365&perks=776531651,2610012052#notes:Specs for Ass-Falcon
     Scatter Signal
 dimwishlist:item=2558925366&perks=3643424744,2594592626
     Doomed Petitioner
@@ -595,6 +600,7 @@ dimwishlist:item=2563668388&perks=3643424744,2896038713
 dimwishlist:item=4153087276&perks=3643424744,4049631843
     Optative
 dimwishlist:item=2817683783&perks=247725512,1015611457
+dimwishlist:item=2817683783&perks=776531651,2610012052#notes:Specs for Ass-Falcon
     Adhortative
 dimwishlist:item=2993554824&perks=3017780555,4293542123
     Imperative
@@ -1186,6 +1192,7 @@ dimwishlist:item=3165547384&perks=2284787283,2396489472
 + + + + + Hand Cannons + + + + +
     Maahes HC4
 dimwishlist:item=1246793994&perks=247725512,2848615171
+dimwishlist:item=1246793994&perks=776531651,2610012052#notes:Specs for Ass-Falcon
 dimwishlist:item=1246793994&perks=776531651,2048641572#notes:Specs for Void Build
     Malediction
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3978468247,438098033
