@@ -342,16 +342,19 @@ dimwishlist:item=3652506829&perks=2284787283,1771339417
 + + + + + Prophecy + + + + +
     Judgment
 dimwishlist:item=2969415423&perks=3523296417,11612903
+dimwishlist:item=2969415423&perks=3523296417,2458213969
     The Last Breath
 dimwishlist:item=507038823&perks=1820235745,4049631843
+dimwishlist:item=507038823&perks=3523296417,4104185692
     Relentless
-dimwishlist:item=435821041&perks=247725512,3047969693
+dimwishlist:item=435821041&perks=1168162263,3047969693
+dimwishlist:item=435821041&perks=1168162263,4104185692
     Adjudicator
 dimwishlist:item=1013434963&perks=1820235745,3425386926
 dimwishlist:item=1013434963&perks=1820235745,3891536761
     A Sudden Death
-dimwishlist:item=4097972038&perks=1631667848,2679249093
-dimwishlist:item=4097972038&perks=1631667848,2360754333
+dimwishlist:item=2855157553&perks=1631667848,3592538738
+dimwishlist:item=2855157553&perks=3161816588,2679249093
     A Swift Verdict
 dimwishlist:item=1626503676&perks=2450788523,1015611457
     Darkest Before
@@ -359,9 +362,10 @@ dimwishlist:item=435821040&perks=1820235745,4293542123
 dimwishlist:item=435821040&perks=3017780555,4293542123
     The Long Walk
 dimwishlist:item=3326850591&perks=1168162263,4104185692
+dimwishlist:item=3326850591&perks=2284787283,1771339417
     Prosecutor
-dimwishlist:item=3483591058&perks=3418782618,365154968
 dimwishlist:item=3483591058&perks=2848615171,2173046394
+dimwishlist:item=3483591058&perks=3418782618,4104185692
 + + + + + Spire of the Watcher + + + + +
     Liminal Vigil
 dimwishlist:item=3138208275&perks=124408337,1015611457
