@@ -5,6 +5,36 @@ description:This DIM wishlist has been created and curated by SinisterSplinter (
 // THE FINAL SHAPE ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
++ + + + + Eposide: Revenant + + + + +
+    Liturgy
+[TBD]
+    Exuviae
+[TBD]
+    Red Tape
+[TBD]
+    Vantage Point
+[TBD]
+    Scavenger's Fate
+[TBD]
+    Insurmountable
+[TBD]
+    Sovereignty
+[TBD]
+    Noxious Vetiver
+[TBD]
+    Bitter/Sweet
+[TBD]
+    Heretic's Fervor
+[TBD]
+    Chroma Rush
+[TBD]
+    Ignition Code
+[TBD]
+    Gridskipper
+[TBD]
+    Sojourner's Tale
+[TBD]
+
 + + + + + Pale Heart Weapons + + + + +
     Someday
 dimwishlist:item=3232203524&perks=1556840489,469285294
@@ -380,9 +410,13 @@ dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
     Long Arm
 dimwishlist:item=8293111&perks=1820235745,3038247973
 dimwishlist:item=8293111&perks=247725512,2848615171
-    Terminus Horizon	()
+    Terminus Horizon
 dimwishlist:item=487205709&perks=247725512,2173046394
 dimwishlist:item=487205709&perks=3400784728,365154968
+    Seventh Seraph Carbine
+dimwishlist:item=4070357005&perks=1523832109,365154968
+    Seventh Seraph Officer Revolver
+dimwishlist:item=1555959830&perks=1523832109,2213355989
 + + + + + Grasp of Avarice + + + + +
     Eyasluna
 dimwishlist:item=235827225&perks=1168162263,1015611457
@@ -685,6 +719,9 @@ dimwishlist:item=1720503118&perks=968510818,4293542123
 // RITUAL PLAYLIST ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
++ + + + + Seasonal Ritual Weapon + + + + +
+    Fair Judgement
+[TBD]
     Perfect Pitch
 dimwishlist:item=3276304504&perks=1820235745,4293542123
 + + + + + Vangaurd + + + + +
@@ -987,29 +1024,53 @@ dimwishlist:item=1292594730&perks=3017780555,4293542123
 dimwishlist:item=3019024381&perks=1168162263,3038247973
 + + + + + Legacy + + + + +
     Shayura's Wrath
+[TBD]
     Reed's Regret
+[TBD]
     Aisha's Embrace
+[TBD]
     Burden of Guilt
+[TBD]
     Forgiveness
+[TBD]
     The Inquisitor
+[TBD]
     Whistler's Whim
+[TBD]
     Exalted Truth
+[TBD]
     Unwavering Duty
+[TBD]
     The Immortal
+[TBD]
     Astral Horizon
+[TBD]
     Sola's Scar
+[TBD]
     Shayura's Wrath (Adept)
+[TBD]
     Reed's Regret (Adept)
+[TBD]
     Aisha's Embrace (Adept)
+[TBD]
     Burden of Guilt (Adept)
+[TBD]
     Forgiveness (Adept)
+[TBD]
     The Inquisitor (Adept)
+[TBD]
     Whistler's Whim (Adept)
+[TBD]
     Exalted Truth (Adept)
+[TBD]
     Unwavering Duty (Adept)
+[TBD]
     The Immortal (Adept)
+[TBD]
     Astral Horizon (Adept)
+[TBD]
     Sola's Scar (Adept)
+[TBD]
 
 ----------------------------------------------------------------------------------------------------
 // DESTINATIONS ()
@@ -1134,9 +1195,6 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 + + + + + Auto Rifles + + + + +
     Braytech Warewolf
 dimwishlist:item=2869466318&perks=1359896290,1015611457
-    Chroma Rush
-dimwishlist:item=1119734784&perks=2779035018,1015611457
-dimwishlist:item=1119734784&perks=1820235745,3425386926
     Eidolon Ally
 dimwishlist:item=3319810953&perks=839105230,1885400500,2846385770,1428297954,1156201379
     Old Sterling
@@ -1145,8 +1203,6 @@ dimwishlist:item=3678653083&perks=3418782618,831391274
     Scathelocke
 dimwishlist:item=602618796&perks=4071163871,2458213969
 dimwishlist:item=602618796&perks=1820235745,3425386926
-    Seventh Seraph Carbine
-dimwishlist:item=4070357005&perks=1523832109,365154968
     Chrysura Melo
 dimwishlist:item=1337707096&perks=1168162263,2848615171
     Coronach-22
@@ -1181,8 +1237,6 @@ dimwishlist:item=2290416&perks=1645158859,2213355989
 dimwishlist:item=3258665412&perks=2779035018,1015611457
 dimwishlist:item=3258665412&perks=2779035018,2458213969
 + + + + + Breech GLs + + + + +
-    Ignition Code
-dimwishlist:item=304659313&perks=3161816588,1546637391
     Pardon Our Dust
 dimwishlist:item=3849810018&perks=3300816228,1546637391
     Deafening Whisper
@@ -1221,8 +1275,6 @@ dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
     Rose
 dimwishlist:item=882778888&perks=247725512,3038247973
 dimwishlist:item=882778888&perks=706527188,957782887#notes:Specs for PVP
-    Seventh Seraph Officer Revolver
-dimwishlist:item=1555959830&perks=1523832109,2213355989
     The Steady Hand
 dimwishlist:item=2220884262&perks=1168162263,4082225868
 dimwishlist:item=2220884262&perks=706527188,957782887#notes:Specs for PVP
