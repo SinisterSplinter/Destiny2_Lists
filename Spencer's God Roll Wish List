@@ -774,12 +774,14 @@ dimwishlist:item=2448907086&perks=3300816228,2284787283
     Xenoclast IV
 dimwishlist:item=2891672170&perks=1631667848,2679249093
     The Last Dance
-dimwishlist:item=dimwishlist:item=2009277538&perks=1168162263,2848615171
+dimwishlist:item=2009277538&perks=1168162263,2848615171
     Outrageous Fortune
-dimwishlist:item=dimwishlist:item=4146702548&perks=3300816228,3425386926
+dimwishlist:item=4146702548&perks=3300816228,3425386926
     Main Ingredient
-dimwishlist:item=dimwishlist:item=253196586&perks=3300816228,3425386926
+dimwishlist:item=253196586&perks=3300816228,3425386926
 -+- -+- -+- -+- -+- Crucible -+- -+- -+- -+- -+-
+		Anonymous Autumn
+
     Better Devils
 dimwishlist:item=4152016199&perks=1523832109,4049631843
 dimwishlist:item=4152016199&perks=1523832109,3038247973
@@ -787,43 +789,64 @@ dimwishlist:item=4152016199&perks=691659142,4049631843
 dimwishlist:item=4152016199&perks=691659142,3038247973
 dimwishlist:item=4152016199&perks=3523296417,4049631843
 dimwishlist:item=4152016199&perks=3523296417,3038247973
+    Retrofuturist
+dimwishlist:item=1612781792&perks=3300816228,2360754333
+    Retrofuturist
+dimwishlist:item=1612781792&perks=706527188,957782887#notes:Specs for PVP
+    Unending Tempest
+dimwishlist:item=2510526114&perks=1820235745,365154968
+dimwishlist:item=2510526114&perks=1359896290,365154968
+    Randy's Throwing Knife
+dimwishlist:item=3292795429&perks=247725512,3891536761
+    Autumn Wind
+dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=3523296417,3425386926
+-+- -+- -+- -+- -+- Crucible (Legacy) -+- -+- -+- -+- -+-
+    Blowout
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+dimwishlist:item=1903182562&perks=951095735,3194351027
+    Out of Bounds
+dimwishlist:item=2988121501&perks=1820235745,3708227201
+dimwishlist:item=2988121501&perks=1631667848,4082225868
+    Riptide
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+    Crisis Inverted
+dimwishlist:item=2888266564&perks=247725512,1015611457
+    Sorrow's Verse
+dimwishlist:item=2496875173&perks=1820235745,3425386926
     Survivor's Epitaph
 dimwishlist:item=310708513&perks=247725512,1015611457
 dimwishlist:item=310708513&perks=1168162263,1015611457
     Survivor's Epitaph
 dimwishlist:item=310708513&perks=706527188,957782887#notes:Specs for PVP
-    Sorrow's Verse
-dimwishlist:item=2496875173&perks=1820235745,3425386926
-    Crisis Inverted
-dimwishlist:item=2888266564&perks=247725512,1015611457
-    Riptide
-dimwishlist:item=2715240478&perks=3300816228,2978966579
-    Out of Bounds
-dimwishlist:item=2988121501&perks=1820235745,3708227201
-dimwishlist:item=2988121501&perks=1631667848,4082225868
-    Blowout
-dimwishlist:item=1903182562&perks=3523296417,3194351027
-dimwishlist:item=1903182562&perks=951095735,3194351027
-    Autumn Wind
-dimwishlist:item=3110377595&perks=2846385770,460017080
-dimwishlist:item=3110377595&perks=3523296417,3425386926
-    Randy's Throwing Knife
-dimwishlist:item=3292795429&perks=247725512,3891536761
-    Unending Tempest
-dimwishlist:item=2510526114&perks=1820235745,365154968
-dimwishlist:item=2510526114&perks=1359896290,365154968
-    Retrofuturist
-dimwishlist:item=1612781792&perks=3300816228,2360754333
-    Retrofuturist
-dimwishlist:item=1612781792&perks=706527188,957782887#notes:Specs for PVP
+		Frozen Orbit
+
+		The Keening
+
+		Stars in Shadow
+
+		Last Perdition
+
+		Wishbringer
+
+		Steel Sybil Z-14
+
+-+- -+- -+- -+- -+- Arcite's Keepsakes -+- -+- -+- -+- -+-
+		The Riposte
+
+		Belisarius-D
+
+		Murcurial Overreach
+
+		Rose
+
 -+- -+- -+- -+- -+- Gambit -+- -+- -+- -+- -+-
     Bygones
 dimwishlist:item=2199554524&perks=1820235745,3824105627
     Hush
 dimwishlist:item=3962575203&perks=201365942,4293542123
 dimwishlist:item=3962575203&perks=951095735,4293542123
-    Borrowed Time
-dimwishlist:item=875848769&perks=2779035018,3425386926
+
     Servant Leader
 dimwishlist:item=1107446438&perks=1168162263,2458213969
 dimwishlist:item=1107446438&perks=247725512,1015611457
@@ -853,6 +876,10 @@ dimwishlist:item=1975125963&perks=3400784728,2048641572
     Breakneck
 dimwishlist:item=2026755633&perks=1820235745,95528736
 dimwishlist:item=2026755633&perks=1820235745,3891536761
+-+- -+- -+- -+- -+- Gambit (Legacy) -+- -+- -+- -+- -+-
+
+    Borrowed Time
+dimwishlist:item=875848769&perks=2779035018,3425386926
 ----------------------------------------------------------------------------------------------------
 // ENDGAME RITUAL PLAYLIST ()
 //notes:Best All-Around Perks
