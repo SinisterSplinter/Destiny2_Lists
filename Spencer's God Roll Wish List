@@ -130,11 +130,11 @@ dimwishlist:item=3904516037&perks=1799762209,3708227201
     Qullim's Terminus
 dimwishlist:item=1321506184&perks=1359896290,3824105627
 dimwishlist:item=1321506184&perks=1359896290,557221067
-dimwishlist:item=1321506184&perks=3108830275,124408337#notes:Stats for Stasis Build
+dimwishlist:item=1321506184&perks=3108830275,124408337#notes:Specs for Stasis Build
     Qullim's Terminus (Harrowed)
 dimwishlist:item=3248429089&perks=1359896290,3824105627
 dimwishlist:item=3248429089&perks=1359896290,557221067
-dimwishlist:item=3248429089&perks=3108830275,124408337#notes:Stats for Stasis Build
+dimwishlist:item=3248429089&perks=3108830275,124408337#notes:Specs for Stasis Build
 -+- -+- -+- -+- -+- Vow of the Disciple -+- -+- -+- -+- -+-
     Submission
 dimwishlist:item=3886416794&perks=1820235745,4082225868
@@ -425,7 +425,7 @@ dimwishlist:item=4096943616&perks=3300816228,4049631843
     Under Your Skin
 dimwishlist:item=232928045&perks=201365942,2848615171
 dimwishlist:item=232928045&perks=201365942,3365897133
-    Sweet Sorrow	()
+    Sweet Sorrow
 dimwishlist:item=1248372789&perks=1583705720,4049631843
     Recurrent Impact
 dimwishlist:item=1572896086&perks=1820235745,4049631843
@@ -698,16 +698,27 @@ dimwishlist:item=1720503118&perks=968510818,4293542123
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Solstice-+- -+- -+- -+- -+-
-Something New
-Fortunate Star
-Compass Rose
-Crowning Duologue
-
+	Something New
+dimwishlist:item=586671776&perks=1820235745,3038247973
+	Fortunate Star
+dimwishlist:item=2326578623&perks=2652708987,1015611457
+dimwishlist:item=2326578623&perks=1119449540,2048641572
+	Compass Rose
+dimwishlist:item=4169225313&perks=1631667848,2679249093
+	Crowning Duologue
+dimwishlist:item=4106757302&perks=1523832109,3078487919
+dimwishlist:item=4106757302&perks=3300816228,3078487919
 -+- -+- -+- -+- -+- Gaurdian Games -+- -+- -+- -+- -+-
-Taraxippos
-The Title
-Hullabaloo
-
+	Taraxippos
+dimwishlist:item=3007479950&perks=3828510309,3038247973
+	The Title
+dimwishlist:item=655712834&perks=1631667848,4082225868
+dimwishlist:item=655712834&perks=776531651,2048641572
+dimwishlist:item=655712834&perks=4071163871,3708227201
+	Hullabaloo
+dimwishlist:item=657927352&perks=2173046394,2396489472
+dimwishlist:item=657927352&perks=3300816228,2396489472
+dimwishlist:item=657927352&perks=3300816228,4049631843
 -+- -+- -+- -+- -+- Festival of the Lost -+- -+- -+- -+- -+-
     Arcane Embrace
 dimwishlist:item=3649985571&perks=1631667848,2173046394
@@ -725,13 +736,29 @@ dimwishlist:item=1280894514&perks=3400784728,1546637391
 dimwishlist:item=413901114&perks=2869569095,3194351027
 dimwishlist:item=413901114&perks=951095735,3194351027
 -+- -+- -+- -+- -+- The Dawning -+- -+- -+- -+- -+-
-Stay Frosty
-Cold Front
-Glaciochasm
-Albedo Wing
-Mistral Lift
-Avalanche
-Zephyr
+	Stay Frosty
+dimwishlist:item=1123433952&perks=1955165503,124408337
+dimwishlist:item=1123433952&perks=1955165503,4104185692
+dimwishlist:item=1123433952&perks=3828510309,4104185692
+	Cold Front
+dimwishlist:item=3206190066&perks=1820235745,4049631843
+dimwishlist:item=3206190066&perks=3108830275,3425386926
+dimwishlist:item=3206190066&perks=1820235745,4104185692
+dimwishlist:item=3206190066&perks=3418782618,3751912585
+	Glaciochasm
+dimwishlist:item=1183116657&perks=968510818,1134488199
+dimwishlist:item=1183116657&perks=968510818,2594592626
+	Albedo Wing
+dimwishlist:item=1845372864&perks=684456054,2173046394
+	Mistral Lift
+dimwishlist:item=3483485727&perks=1134488199,3078487919
+dimwishlist:item=3483485727&perks=1134488199,555281244
+dimwishlist:item=3483485727&perks=1523832109,3078487919
+	Avalanche
+dimwishlist:item=1845978721&perks=1820235745,4293542123
+dimwishlist:item=1845978721&perks=2848615171,4293542123
+	Zephyr
+dimwishlist:item=601948197&perks=1955165503,3650930298
 
 ----------------------------------------------------------------------------------------------------
 // RITUAL PLAYLIST ()
@@ -805,7 +832,6 @@ dimwishlist:item=4152016199&perks=3523296417,4049631843
 dimwishlist:item=4152016199&perks=3523296417,3038247973
     Retrofuturist
 dimwishlist:item=1612781792&perks=3300816228,2360754333
-    Retrofuturist
 dimwishlist:item=1612781792&perks=706527188,957782887#notes:Specs for PVP
     Unending Tempest
 dimwishlist:item=2510526114&perks=1820235745,365154968
@@ -833,9 +859,9 @@ dimwishlist:item=310708513&perks=247725512,1015611457
 dimwishlist:item=310708513&perks=1168162263,1015611457
     Survivor's Epitaph
 dimwishlist:item=310708513&perks=706527188,957782887#notes:Specs for PVP
-		Frozen Orbit
+	Frozen Orbit
 dimwishlist:item=3473290087&perks=3300816228,1546637391
-		The Keening
+	The Keening
 dimwishlist:item=409551876&perks=1820235745,3108830275
 	Stars in Shadow
 dimwishlist:item=2050789284&perks=1168162263,2848615171
@@ -853,10 +879,10 @@ dimwishlist:item=3754408118&perks=3828510309,2109543898
 dimwishlist:item=2313726158&perks=923806249,831391274
 dimwishlist:item=2313726158&perks=247725512,831391274
 	Mercurial Overreach
-dimwishlist:item=2073794990&perks=957782887,47981717#notes:Stats for PVP
+dimwishlist:item=2073794990&perks=957782887,47981717#notes:Specs for PVP
 	Rose
-dimwishlist:item=882778888&perks=1428297954,3038247973#notes:Stats for PVP
-dimwishlist:item=882778888&perks=706527188,3038247973#notes:Stats for PVP
+dimwishlist:item=882778888&perks=1428297954,3038247973#notes:Specs for PVP
+dimwishlist:item=882778888&perks=706527188,3038247973#notes:Specs for PVP
 -+- -+- -+- -+- -+- Gambit -+- -+- -+- -+- -+-
     Bygones
 dimwishlist:item=2199554524&perks=1820235745,3824105627
@@ -895,18 +921,20 @@ dimwishlist:item=1107446438&perks=1168162263,2458213969
 dimwishlist:item=1107446438&perks=247725512,1015611457
     Borrowed Time
 dimwishlist:item=875848769&perks=2779035018,3425386926
-	Trinary System
-
-	Bottom Dollar
-
+    Trinary System
+dimwishlist:item=3258665412&perks=2779035018,1015611457
+dimwishlist:item=3258665412&perks=2779035018,2458213969
+    Bottom Dollar
+dimwishlist:item=1046651176&perks=1168162263,3038247973
+dimwishlist:item=1046651176&perks=2779035018,2458213969
 	Crowd Pleaser
-
+dimwishlist:item=3565520715&perks=1631667848,3523296417
 	Night Watch
-
+dimwishlist:item=3504336176&perks=1820235745,3038247973
 	Gnawing Hunger
-
+dimwishlist:item=821154603&perks=1820235745,3425386926
 	Bad Omens
-
+dimwishlist:item=991314988&perks=3300816228,1275731761
 ----------------------------------------------------------------------------------------------------
 // ENDGAME RITUAL PLAYLIST ()
 //notes:Best All-Around Perks
@@ -1026,13 +1054,15 @@ dimwishlist:item=1028582252&perks=1556840489,2360754333
 dimwishlist:item=1028582252&perks=1556840489,2360754333
 -+- -+- -+- -+- -+- Iron Banner -+- -+- -+- -+- -+-
 	Tinasha's Mastery
-
+dimwishlist:item=480368036&perks=1119449540,2978966579
+dimwishlist:item=480368036&perks=3993379141,3708227201
+dimwishlist:item=480368036&perks=1119449540,2109543898
 	Crimil's Dagger
-
-	Road of the Boar
-
+dimwishlist:item=198854575&perks=3828510309,3038247973
+dimwishlist:item=198854575&perks=880644845,555281244#notes:Specs for PVP
 	Roar of the Bear
-
+dimwishlist:item=2231910050&perks=2869569095,3927722942
+dimwishlist:item=2231910050&perks=2010801679,1275731761
     Razor's Edge
 dimwishlist:item=1796949035&perks=1749209109,2396489472
     Archon's Thunder
@@ -1080,17 +1110,23 @@ dimwishlist:item=433905699&perks=2284787283,2048641572
 dimwishlist:item=433905699&perks=3300816228,2048641572
 -+- -+- -+- -+- -+- Trials of Osiris -+- -+- -+- -+- -+-
 	Tomorrow's Answer
-
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=1134488199,3194351027
 	Tomorrow's Answer (Adept)
-
+dimwishlist:item=303107619&perks=3987942396,3078487919
+dimwishlist:item=303107619&perks=1134488199,3194351027
 	Yesterday's Question
-
+dimwishlist:item=2300143112&perks=247725512,2173046394
+dimwishlist:item=2300143112&perks=2848615171,2173046394
 	Yesterday's Question (Adept)
-
+dimwishlist:item=2378785953&perks=247725512,2173046394
+dimwishlist:item=2378785953&perks=2848615171,2173046394
 	Shayura's Wrath
-
+dimwishlist:item=2022294213&perks=776531651,2048641572
+dimwishlist:item=2022294213&perks=3978468247,3751912585#notes:Specs to pair with Sniper Rifle
 	Shayura's Wrath (Adept)
-
+dimwishlist:item=501345268&perks=776531651,2048641572
+dimwishlist:item=501345268&perks=3978468247,3751912585#notes:Specs to pair with Sniper Rifle
 	Aisha's Care
 dimwishlist:item=3969379530&perks=2387244414,3047969693
     Aisha's Care (Adept)
@@ -1133,9 +1169,11 @@ dimwishlist:item=3796795102&perks=247725512,460017080
     The Messenger (Adept)
 dimwishlist:item=364665267&perks=247725512,460017080
 	Astral Horizon
-
+dimwishlist:item=2653171213&perks=3161816588,2679249093
+dimwishlist:item=2653171213&perks=691659142,2679249093
 	Astral Horizon (Adept)
-
+dimwishlist:item=854379020&perks=3161816588,2679249093
+dimwishlist:item=854379020&perks=691659142,2679249093
 	The Immortal
 
 	The Immortal (Adept)
@@ -1355,9 +1393,6 @@ dimwishlist:item=3044460004&perks=2779035018,2213355989
     Null Composure
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989
-    Trinary System
-dimwishlist:item=3258665412&perks=2779035018,1015611457
-dimwishlist:item=3258665412&perks=2779035018,2458213969
 -+- -+- -+- -+- -+- Breech GLs -+- -+- -+- -+- -+-
     Pardon Our Dust
 dimwishlist:item=3849810018&perks=3300816228,1546637391
@@ -1406,9 +1441,6 @@ dimwishlist:item=1622998472&perks=1168162263,3038247973
     Annual Skate
 dimwishlist:item=6857689&perks=3400784728,2848615171
 dimwishlist:item=6857689&perks=1168162263,2458213969
-    Bottom Dollar
-dimwishlist:item=1046651176&perks=1168162263,3038247973
-dimwishlist:item=1046651176&perks=2779035018,2458213969
     Combined Action
 dimwishlist:item=1331824604&perks=2387244414,2173046394
     Epochal Integration
@@ -1581,7 +1613,7 @@ dimwishlist:item=3745990145&perks=957782887,3038247973
 -+- -+- -+- -+- -+- Submachine Guns -+- -+- -+- -+- -+-
     Yarovit MG4
 dimwishlist:item=3959549446&perks=3418782618,2109543898
-dimwishlist:item=3959549446&perks=880644845,124408337#notes:Stats for Stasis Build
+dimwishlist:item=3959549446&perks=880644845,124408337#notes:Specs for Stasis Build
     Blood Feud
 dimwishlist:item=1509167284&perks=2010801679,4104185692
     Extraordinary Rendition
