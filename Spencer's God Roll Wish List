@@ -5,187 +5,187 @@ description:This DIM wishlist has been created and curated by SinisterSplinter (
 // RAIDS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Salvation's Edge + + + + +
+-+- -+- -+- -+- -+- Salvation's Edge -+- -+- -+- -+- -+-
     Critical Anomaly
 dimwishlist:item=445197843&perks=1523832109,3078487919
 dimwishlist:item=445197843&perks=2978966579,3038247973
+    Critical Anomaly (Adept)
+dimwishlist:item=172461430&perks=1523832109,3078487919
+dimwishlist:item=172461430&perks=2978966579,3038247973
     Forthcoming Deviance
 dimwishlist:item=535198113&perks=1523832109,2396489472
+    Forthcoming Deviance (Adept)
+dimwishlist:item=3123651616&perks=1523832109,2396489472
     Imminence
 dimwishlist:item=1258168956&perks=923806249,2109543898
 dimwishlist:item=1258168956&perks=691659142,3640170453#notes:Specs for Prismatic builds
+    Imminence (Adept)
+dimwishlist:item=3951511045&perks=923806249,2109543898
+dimwishlist:item=3951511045&perks=691659142,3640170453#notes:Specs for Prismatic builds
     Non-Denouement
 dimwishlist:item=1770490683&perks=201365942,2173046394
 dimwishlist:item=1770490683&perks=2848615171,2173046394
+    Non-Denouement (Adept)
+dimwishlist:item=1039915310&perks=201365942,2173046394
+dimwishlist:item=1039915310&perks=2848615171,2173046394
     Nullify
 dimwishlist:item=859869931&perks=3017780555,4293542123
 dimwishlist:item=859869931&perks=3824105627,4293542123
+    Nullify (Adept)
+dimwishlist:item=892183998&perks=3017780555,4293542123
+dimwishlist:item=892183998&perks=3824105627,4293542123
     Summum Bonum
 dimwishlist:item=3569407878&perks=3108830275,3078487919
 dimwishlist:item=3569407878&perks=1749209109,3708227201#notes:Specs for DPS #1
 dimwishlist:item=3569407878&perks=1749209109,3078487919#notes:Specs for DPS #2
 dimwishlist:item=3569407878&perks=3108830275,2396489472#notes:Specs for Ad Clear #1
-    Critical Anomaly (Adept)
-dimwishlist:item=172461430&perks=1523832109,3078487919
-dimwishlist:item=172461430&perks=2978966579,3038247973
-    Forthcoming Deviance (Adept)
-dimwishlist:item=3123651616&perks=1523832109,2396489472
-    Imminence (Adept)
-dimwishlist:item=3951511045&perks=923806249,2109543898
-dimwishlist:item=3951511045&perks=691659142,3640170453#notes:Specs for Prismatic builds
-    Non-Denouement (Adept)
-dimwishlist:item=1039915310&perks=201365942,2173046394
-dimwishlist:item=1039915310&perks=2848615171,2173046394
-    Nullify (Adept)
-dimwishlist:item=892183998&perks=3017780555,4293542123
-dimwishlist:item=892183998&perks=3824105627,4293542123
     Summum Bonum (Adept)
 dimwishlist:item=2001697739&perks=3108830275,3078487919
 dimwishlist:item=2001697739&perks=1749209109,3708227201#notes:Specs for DPS #1
 dimwishlist:item=2001697739&perks=1749209109,3078487919#notes:Specs for DPS #2
 dimwishlist:item=2001697739&perks=3108830275,4049631843#notes:Specs for Ad Clear
-+ + + + + Crota's End + + + + +
+-+- -+- -+- -+- -+- Crota's End -+- -+- -+- -+- -+-
     Fang of Ir Yût
 dimwishlist:item=1432682459&perks=3418782618,555281244
 dimwishlist:item=1432682459&perks=3418782618,831391274
-    Swordbreaker
-dimwishlist:item=3163900678&perks=691659142,2679249093
-    Word of Crota
-dimwishlist:item=120706239&perks=2848615171,3425386926
-dimwishlist:item=120706239&perks=776531651,4104185692#notes:Specs for Ass-Falcon
-    Abyss Defiant
-dimwishlist:item=833898322&perks=3017780555,4293542123
-    Oversoul Edict
-dimwishlist:item=1098171824&perks=3523296417,2173046394
-    Song of Ir Yût
-dimwishlist:item=2828278545&perks=1523832109,365154968
-dimwishlist:item=2828278545&perks=3108830275,2173046394#notes:Specs for Arc build
     Fang of Ir Yût (Adept)
 dimwishlist:item=128782990&perks=3418782618,555281244
 dimwishlist:item=128782990&perks=3418782618,831391274
+    Swordbreaker
+dimwishlist:item=3163900678&perks=691659142,2679249093
     Swordbreaker (Adept)
-dimwishlist:item=1239700299&perks=691659142,2679249093
+dimwishlist:item=1239700299&perks=691659142,2679249093\
+    Word of Crota
+dimwishlist:item=120706239&perks=2848615171,3425386926
+dimwishlist:item=120706239&perks=776531651,4104185692#notes:Specs for Ass-Falcon
     Word of Crota (Adept)
 dimwishlist:item=3926103986&perks=2848615171,3425386926
 dimwishlist:item=3926103986&perks=776531651,4104185692#notes:Specs for Ass-Falcon
+    Abyss Defiant
+dimwishlist:item=833898322&perks=3017780555,4293542123
     Abyss Defiant (Adept)
 dimwishlist:item=3782662983&perks=3017780555,4293542123
+    Oversoul Edict
+dimwishlist:item=1098171824&perks=3523296417,2173046394
     Oversoul Edict (Adept)
 dimwishlist:item=578105049&perks=3523296417,2173046394
+    Song of Ir Yût
+dimwishlist:item=2828278545&perks=1523832109,365154968
+dimwishlist:item=2828278545&perks=3108830275,2173046394#notes:Specs for Arc build
     Song of Ir Yût (Adept)
 dimwishlist:item=407511664&perks=1523832109,365154968
 dimwishlist:item=407511664&perks=3108830275,2173046394#notes:Specs for Arc build
-+ + + + + Root of Nightmares + + + + +
+-+- -+- -+- -+- -+- Root of Nightmares -+- -+- -+- -+- -+-
     Mykel's Reverence
 dimwishlist:item=231031173&perks=3418782618,4104185692
+    Mykel's Reverence (Adept)
+dimwishlist:item=1986287028&perks=3418782618,4104185692
     Rufus's Fury
 dimwishlist:item=484515708&perks=1523832109,365154968
+    Rufus's Fury (Adept)
+dimwishlist:item=342514437&perks=1523832109,365154968
     Acasia's Dejection
 dimwishlist:item=1471212226&perks=1523832109,4293542123
+    Acasia's Dejection (Adept)
+dimwishlist:item=3493494807&perks=1523832109,4293542123
     Nessa's Oblation
 dimwishlist:item=135029084&perks=1523832109,1546637391
+    Nessa's Oblation (Adept)
+dimwishlist:item=522366885&perks=1523832109,1546637391
     Koraxis's Distress
 dimwishlist:item=2972949637&perks=1523832109,4104185692
 dimwishlist:item=2972949637&perks=461595545,3007133316
-    Briar's Contempt
-dimwishlist:item=1491665733&perks=1523832109,4104185692
-    Mykel's Reverence (Adept)
-dimwishlist:item=1986287028&perks=3418782618,4104185692
-    Rufus's Fury (Adept)
-dimwishlist:item=342514437&perks=1523832109,365154968
-    Acasia's Dejection (Adept)
-dimwishlist:item=3493494807&perks=1523832109,4293542123
-    Nessa's Oblation (Adept)
-dimwishlist:item=522366885&perks=1523832109,1546637391
     Koraxis's Distress (Adept)
 dimwishlist:item=495442100&perks=1523832109,4104185692
 dimwishlist:item=495442100&perks=1523832109,3708227201
+    Briar's Contempt
+dimwishlist:item=1491665733&perks=1523832109,4104185692
     Briar's Contempt (Adept)
 dimwishlist:item=2890082420&perks=1523832109,4104185692
-+ + + + + King's Fall + + + + +
+-+- -+- -+- -+- -+- King's Fall -+- -+- -+- -+- -+-
     Smite of Merain
 dimwishlist:item=2221264583&perks=3523296417,3824105627
+    Smite of Merain (Harrowed)
+dimwishlist:item=3407395594&perks=3523296417,3824105627
     Defiance of Yasmin
 dimwishlist:item=3228096719&perks=3824105627,1546637391
+    Defiance of Yasmin (Harrowed)
+dimwishlist:item=3503019618&perks=3824105627,1546637391
     Zaouli's Bane
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=3038247973,3824105627
+    Zaouli's Bane (Harrowed)
+dimwishlist:item=291092617&perks=3038247973,4293542123
+dimwishlist:item=291092617&perks=3038247973,3824105627
     Doom of Chelchis
 dimwishlist:item=1937552980&perks=3038247973,2848615171
 dimwishlist:item=1937552980&perks=3824105627,2848615171
+    Doom of Chelchis (Harrowed)
+dimwishlist:item=1184692845&perks=3038247973,2848615171
+dimwishlist:item=1184692845&perks=3824105627,2848615171
     Midha's Reckoning
 dimwishlist:item=3969066556&perks=1799762209,3708227201
+    Midha's Reckoning (Harrowed)
+dimwishlist:item=3904516037&perks=1799762209,3708227201
     Qullim's Terminus
 dimwishlist:item=1321506184&perks=1359896290,3824105627
 dimwishlist:item=1321506184&perks=1359896290,557221067
 dimwishlist:item=1321506184&perks=3108830275,124408337#notes:Stats for Stasis Build
-    Smite of Merain (Harrowed)
-dimwishlist:item=3407395594&perks=3523296417,3824105627
-    Defiance of Yasmin (Harrowed)
-dimwishlist:item=3503019618&perks=3824105627,1546637391
-    Zaouli's Bane (Harrowed)
-dimwishlist:item=291092617&perks=3038247973,4293542123
-dimwishlist:item=291092617&perks=3038247973,3824105627
-    Doom of Chelchis (Harrowed)
-dimwishlist:item=1184692845&perks=3038247973,2848615171
-dimwishlist:item=1184692845&perks=3824105627,2848615171
-    Midha's Reckoning (Harrowed)
-dimwishlist:item=3904516037&perks=1799762209,3708227201
     Qullim's Terminus (Harrowed)
 dimwishlist:item=3248429089&perks=1359896290,3824105627
 dimwishlist:item=3248429089&perks=1359896290,557221067
 dimwishlist:item=3248429089&perks=3108830275,124408337#notes:Stats for Stasis Build
-+ + + + + Vow of the Disciple + + + + +
+-+- -+- -+- -+- -+- Vow of the Disciple -+- -+- -+- -+- -+-
     Submission
 dimwishlist:item=3886416794&perks=1820235745,4082225868
-    Deliverance
-dimwishlist:item=768621510&perks=3523296417,2978966579
-    Insidious
-dimwishlist:item=3428521585&perks=2848615171,4049631843
-    Lubrae's Ruin
-dimwishlist:item=2534546147&perks=1631667848,4082225868
-    Forbearance
-dimwishlist:item=613334176&perks=2010801679,2396489472
-    Cataclysmic
-dimwishlist:item=999767358&perks=1354429876,3078487919
     Submission (Adept)
 dimwishlist:item=1941816543&perks=1820235745,4082225868
+    Deliverance
+dimwishlist:item=768621510&perks=3523296417,2978966579
     Deliverance (Adept)
 dimwishlist:item=2943293195&perks=3523296417,2978966579
+    Insidious
+dimwishlist:item=3428521585&perks=2848615171,4049631843
     Insidious (Adept)
 dimwishlist:item=786352912&perks=2848615171,4049631843
+    Lubrae's Ruin
+dimwishlist:item=2534546147&perks=1631667848,4082225868
     Lubrae's Ruin (Adept)
 dimwishlist:item=1466006054&perks=1631667848,4082225868
+    Forbearance
+dimwishlist:item=613334176&perks=2010801679,2396489472
     Forbearance (Adept)
 dimwishlist:item=4038592169&perks=2010801679,2396489472
+    Cataclysmic
+dimwishlist:item=999767358&perks=1354429876,3078487919
     Cataclysmic (Adept)
 dimwishlist:item=2886339027&perks=1354429876,3078487919
-+ + + + + Vault of Glass + + + + +
+-+- -+- -+- -+- -+- Vault of Glass -+- -+- -+- -+- -+-
     Fatebringer
 dimwishlist:item=2171478765&perks=3038247973,3824105627
-    Praedyth's Revenge
-dimwishlist:item=3653573172&perks=3418782618,2213355989
-    Vision of Confluence
-dimwishlist:item=3186018373&perks=2387244414,3824105627
-    Found Verdict
-dimwishlist:item=3197270240&perks=3300816228,2679249093
-    Corrective Measure
-dimwishlist:item=471518543&perks=1820235745,4049631843
-    Hezen Vengeance
-dimwishlist:item=4050645223&perks=3300816228,1275731761
     Fatebringer (Timelost)
 dimwishlist:item=1216319404&perks=3038247973,3824105627
+    Praedyth's Revenge
+dimwishlist:item=3653573172&perks=3418782618,2213355989
     Praedyth's Revenge (Timelost)
 dimwishlist:item=1987769101&perks=3418782618,2213355989
+    Vision of Confluence
+dimwishlist:item=3186018373&perks=2387244414,3824105627
     Vision of Confluence (Timelost)
 dimwishlist:item=690668916&perks=2387244414,3824105627
+    Found Verdict
+dimwishlist:item=3197270240&perks=3300816228,2679249093
     Found Verdict (Timelost)
 dimwishlist:item=631439337&perks=3300816228,2679249093
+    Corrective Measure
+dimwishlist:item=471518543&perks=1820235745,4049631843
     Corrective Measure (Timelost)
 dimwishlist:item=3796510434&perks=1820235745,4049631843
+    Hezen Vengeance
+dimwishlist:item=4050645223&perks=3300816228,1275731761
     Hezen Vengeance (Timelost)
 dimwishlist:item=1921159786&perks=3300816228,1275731761
-+ + + + + Deep Stone Crypt + + + + +
+-+- -+- -+- -+- -+- Deep Stone Crypt -+- -+- -+- -+- -+-
     Bequest
 dimwishlist:item=3366545721&perks=1749209109,3708227201
     Trustee
@@ -200,7 +200,7 @@ dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=461595545,3418165135
     Heritage
 dimwishlist:item=4248569242&perks=1523832109,469285294
-+ + + + + Garden of Salvation + + + + +
+-+- -+- -+- -+- -+- Garden of Salvation -+- -+- -+- -+- -+-
     Sacred Provenance
 dimwishlist:item=2241507890&perks=3523296417,3891536761
     Accrued Redemption
@@ -220,7 +220,7 @@ dimwishlist:item=1992309064&perks=1820235745,4049631843
 dimwishlist:item=1992309064&perks=2048641572,776531651
     Zealot's Reward
 dimwishlist:item=2720651699&perks=3300816228,1427256713
-+ + + + + Last Wish + + + + +
+-+- -+- -+- -+- -+- Last Wish -+- -+- -+- -+- -+-
     The Supremacy
 dimwishlist:item=2884596447&perks=3418782618,1546637391
 dimwishlist:item=2884596447&perks=1563455254,3418165135
@@ -244,9 +244,16 @@ dimwishlist:item=1851777734&perks=1523832109,3078487919
 // DUNGEONS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Vesper's Host + + + + +
-
-+ + + + + Warlord's Ruin + + + + +
+-+- -+- -+- -+- -+- Vesper's Host -+- -+- -+- -+- -+-
+    VS Pyroelectric Propellant
+dimwishlist:item=[TBD]
+    VS Gravitic Arrest
+dimwishlist:item=[TBD]
+    VS Velocity Baton
+dimwishlist:item=[TBD]
+    VS Chill Inhibitor
+dimwishlist:item=[TBD]
+-+- -+- -+- -+- -+- Warlord's Ruin -+- -+- -+- -+- -+-
     Naeem's Lance
 dimwishlist:item=2806569825&perks=1523832109,555281244
     Vengeful Whisper
@@ -256,7 +263,7 @@ dimwishlist:item=3381450498&perks=2859149211,2173046394
 dimwishlist:item=3381450498&perks=1556840489,2173046394
     Dragoncult Sickle
 dimwishlist:item=3668817296&perks=3523296417,2396489472
-+ + + + + Ghost of the Deep + + + + +
+-+- -+- -+- -+- -+- Ghost of the Deep -+- -+- -+- -+- -+-
     New Pacific Epitaph
 dimwishlist:item=1125217994&perks=3523296417,11612903
 dimwishlist:item=1125217994&perks=3523296417,1015611457
@@ -266,7 +273,7 @@ dimwishlist:item=1757202961&perks=951095735,4293542123
 dimwishlist:item=3262192268&perks=3523296417,4293542123
     Cold Comfort
 dimwishlist:item=839786290&perks=968510818,1439600632
-+ + + + + Duality + + + + +
+-+- -+- -+- -+- -+- Duality -+- -+- -+- -+- -+-
     Lingering Dread
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
 dimwishlist:item=2026087437&perks=3301904089,3300816228,1546637391
@@ -282,7 +289,7 @@ dimwishlist:item=2194955522&perks=2779035018,4293542123
     Stormchaser
 dimwishlist:item=3652506829&perks=3300816228,1771339417
 dimwishlist:item=3652506829&perks=2284787283,1771339417
-+ + + + + Prophecy + + + + +
+-+- -+- -+- -+- -+- Prophecy -+- -+- -+- -+- -+-
     Judgment
 dimwishlist:item=2969415423&perks=3523296417,11612903
 dimwishlist:item=2969415423&perks=3523296417,2458213969
@@ -309,7 +316,7 @@ dimwishlist:item=3326850591&perks=2284787283,1771339417
     Prosecutor
 dimwishlist:item=3483591058&perks=2848615171,2173046394
 dimwishlist:item=3483591058&perks=3418782618,4104185692
-+ + + + + Spire of the Watcher + + + + +
+-+- -+- -+- -+- -+- Spire of the Watcher -+- -+- -+- -+- -+-
     Liminal Vigil
 dimwishlist:item=3138208275&perks=124408337,1015611457
     Wilderflight
@@ -324,7 +331,7 @@ dimwishlist:item=487205709&perks=3400784728,365154968
 dimwishlist:item=4070357005&perks=1523832109,365154968
     Seventh Seraph Officer Revolver
 dimwishlist:item=1555959830&perks=1523832109,2213355989
-+ + + + + Grasp of Avarice + + + + +
+-+- -+- -+- -+- -+- Grasp of Avarice -+- -+- -+- -+- -+-
     Eyasluna
 dimwishlist:item=235827225&perks=1168162263,1015611457
     Matador 64
@@ -333,7 +340,7 @@ dimwishlist:item=2563012876&perks=972757866,4082225868
 dimwishlist:item=4164201232&perks=1570042021,2848615171
     Hero of Ages
 dimwishlist:item=2139640995&perks=3108830275,2396489472
-+ + + + + Pit of Heresy + + + + +
+-+- -+- -+- -+- -+- Pit of Heresy -+- -+- -+- -+- -+-
     Every Waking Moment
 dimwishlist:item=4277547616&perks=2010801679,2458213969
     Love and Death
@@ -362,7 +369,7 @@ dimwishlist:item=2164448701&perks=1168162263,1015611457
 dimwishlist:item=2782847179&perks=706527188,47981717
     Heretic
 dimwishlist:item=3067821200&perks=951095735,1275731761
-+ + + + + Shattered Throne + + + + +
+-+- -+- -+- -+- -+- Shattered Throne -+- -+- -+- -+- -+-
     Tigerspite
 dimwishlist:item=2465372924&perks=1820235745,3891536761
     Vouchsafe
@@ -387,7 +394,7 @@ dimwishlist:item=250721843&perks=1749209109,1685431615
 // EXOTIC MISSIONS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Presage + + + + +
+-+- -+- -+- -+- -+- Presage -+- -+- -+- -+- -+-
     Firefright
 dimwishlist:item=2778013407&perks=1354429876,2896038713
     Tears of Contrition
@@ -411,7 +418,7 @@ dimwishlist:item=502356570&perks=588594999,4293542123
     Bump in the Night
 dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2978966579
-+ + + + + Vox Obscura + + + + +
+-+- -+- -+- -+- -+- Vox Obscura -+- -+- -+- -+- -+-
     Piece of Mind
 dimwishlist:item=2097055732&perks=1428297954,588594999
     Thoughtless
@@ -426,7 +433,7 @@ dimwishlist:item=232928045&perks=201365942,3365897133
 dimwishlist:item=1248372789&perks=1583705720,4049631843
     Recurrent Impact
 dimwishlist:item=1572896086&perks=1820235745,4049631843
-+ + + + + Seraph Shield + + + + +
+-+- -+- -+- -+- -+- Seraph Shield -+- -+- -+- -+- -+-
     Disparity
 dimwishlist:item=1751893422&perks=247725512,1015611457
 dimwishlist:item=1751893422&perks=247725512,3047969693
@@ -455,7 +462,7 @@ dimwishlist:item=2827764482&perks=3700496672,2173046394
 // SEASONS
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Eposide: Revenant + + + + +
+-+- -+- -+- -+- -+- Eposide: Revenant -+- -+- -+- -+- -+-
     Liturgy
 dimwishlist:item=2599338624&perks=3987942396,2978966579
     Exuviae
@@ -479,7 +486,7 @@ dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=2599338625&perks=3987942396,3078487919
     Heretic's Fervor
 dimwishlist:item=4224667951&perks=3300816228,3194351027
-+ + + + + Season of the Splicer (Reprised) + + + + +
+-+- -+- -+- -+- -+- Season of the Splicer (Reprised) -+- -+- -+- -+- -+-
     Chroma Rush
 dimwishlist:item=2598420927&perks=1820235745,3891536761
     Ignition Code
@@ -488,7 +495,7 @@ dimwishlist:item=2761869150&perks=3161816588,1546637391
 dimwishlist:item=3433930495&perks=3523296417,2109543898
     Sojourner's Tale
 dimwishlist:item=2130875369&perks=3017780555,4293542123
-+ + + + + Eposide: Echoes + + + + +
+-+- -+- -+- -+- -+- Eposide: Echoes -+- -+- -+- -+- -+-
     Lost Signal
 dimwishlist:item=1197771438&perks=3300816228,4049631843
     Veiled Threat
@@ -515,7 +522,7 @@ dimwishlist:item=412251536&perks=968510818,4293542123
 dimwishlist:item=4195186942&perks=2284787283,1439600632
     Ill Omen
 dimwishlist:item=3794274730&perks=1749209109,3650930298
-+ + + + + Into the Light + + + + +
+-+- -+- -+- -+- -+- Into the Light -+- -+- -+- -+- -+-
     The Recluse
 dimwishlist:item=1050806815&perks=1820235745,4104185692
 dimwishlist:item=1050806815&perks=776531651,4104185692
@@ -595,7 +602,7 @@ dimwishlist:item=2533990645&perks=3891536761,4049631843
 dimwishlist:item=2763843899&perks=3017780555,4293542123
     Luna's Howl (Guilded)
 dimwishlist:item=3757612024&perks=3017780555,4293542123
-+ + + + + Season of the Wish + + + + +
+-+- -+- -+- -+- -+- Season of the Wish -+- -+- -+- -+- -+-
     Lethophobia
 dimwishlist:item=3710082365&perks=776531651,3365897133
 dimwishlist:item=3710082365&perks=776531651,2610012052#notes:Specs for Ass-Falcon
@@ -618,7 +625,7 @@ dimwishlist:item=2045811635&perks=1820235745,3038247973
 dimwishlist:item=2045811635&perks=1820235745,3891536761
     Subjunctive
 dimwishlist:item=1447836603&perks=1820235745,2173046394
-+ + + + + Season of the Witch + + + + +
+-+- -+- -+- -+- -+- Season of the Witch -+- -+- -+- -+- -+-
     Kept Confidence
 dimwishlist:item=1875512595&perks=706527188,691659142
     Brya's Love
@@ -639,7 +646,7 @@ dimwishlist:item=1974641289&perks=1168162263,1015611457
 dimwishlist:item=781498181&perks=247725512,555281244
     Deadpan Delivery
 dimwishlist:item=1296429091&perks=3643424744,2679249093
-+ + + + + Season of the Deep + + + + +
+-+- -+- -+- -+- -+- Season of the Deep -+- -+- -+- -+- -+-
     Targeted Redaction
 dimwishlist:item=3890055324&perks=1168162263,3038247973
     Different Times
@@ -665,7 +672,7 @@ dimwishlist:item=1150492185&perks=1168162263,2173046394
 dimwishlist:item=2832639510&perks=1820235745,4293542123
     Just in Case
 dimwishlist:item=1139727256&perks=1749209109,4293542123
-+ + + + + Season of Defiance + + + + +
+-+- -+- -+- -+- -+- Season of Defiance -+- -+- -+- -+- -+-
     Perpetualis
 dimwishlist:item=392008588&perks=968510818,831391274
     Prodigal Return
@@ -683,7 +690,7 @@ dimwishlist:item=1720503118&perks=968510818,4293542123
 // ANNUAL EVENTS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + The Dawning + + + + +
+-+- -+- -+- -+- -+- The Dawning -+- -+- -+- -+- -+-
     Breachlight
 dimwishlist:item=2328923181&perks=691659142,4082225868
     Patron of Lost Causes
@@ -696,7 +703,7 @@ dimwishlist:item=2584830733&perks=3017780555,4293542123#notes:Specs for Sustain
     Line in the Sand
 dimwishlist:item=2450049485&perks=2284787283,3078487919
 dimwishlist:item=2450049485&perks=2284787283,1427256713
-+ + + + + Festival of the Lost + + + + +
+-+- -+- -+- -+- -+- Festival of the Lost -+- -+- -+- -+- -+-
     Arcane Embrace
 dimwishlist:item=3649985571&perks=1631667848,2173046394
 dimwishlist:item=3649985571&perks=3161816588,2173046394
@@ -716,12 +723,12 @@ dimwishlist:item=413901114&perks=951095735,3194351027
 // RITUAL PLAYLIST ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Ritual Weapons + + + + +
+-+- -+- -+- -+- -+- Ritual Weapons -+- -+- -+- -+- -+-
     Fair Judgement
 dimwishlist:item=4176873718&perks=1955165503,124408337
     Perfect Pitch
 dimwishlist:item=3276304504&perks=1820235745,4293542123
-+ + + + + Vangaurd + + + + +
+-+- -+- -+- -+- -+- Vangaurd -+- -+- -+- -+- -+-
     Wicked Sister
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=968510818,3078487919
@@ -740,7 +747,7 @@ dimwishlist:item=491078457&perks=1359896290,2848615171
     Nameless Midnight
 dimwishlist:item=996109059&perks=3400784728,3891536761
 dimwishlist:item=996109059&perks=3400784728,3038247973
-+ + + + + Vanguard (Legacy) + + + + +
+-+- -+- -+- -+- -+- Vanguard (Legacy) -+- -+- -+- -+- -+-
     Prolonged Engagement
 dimwishlist:item=2349907931&perks=1820235745,4049631843
 dimwishlist:item=2349907931&perks=1820235745,4104185692
@@ -767,49 +774,12 @@ dimwishlist:item=2448907086&perks=3300816228,2284787283
     Xenoclast IV
 dimwishlist:item=2891672170&perks=1631667848,2679249093
     The Last Dance
-dimwishlist:item=
+dimwishlist:item=dimwishlist:item=2009277538&perks=1168162263,2848615171
     Outrageous Fortune
-dimwishlist:item=
+dimwishlist:item=dimwishlist:item=4146702548&perks=3300816228,3425386926
     Main Ingredient
-dimwishlist:item=
-+ + + + + Gambit + + + + +
-    Bygones
-dimwishlist:item=2199554524&perks=1820235745,3824105627
-    Hush
-dimwishlist:item=3962575203&perks=201365942,4293542123
-dimwishlist:item=3962575203&perks=951095735,4293542123
-    Borrowed Time
-dimwishlist:item=875848769&perks=2779035018,3425386926
-    Servant Leader
-dimwishlist:item=1107446438&perks=1168162263,2458213969
-dimwishlist:item=1107446438&perks=247725512,1015611457
-    Herod-C
-dimwishlist:item=1788603939&perks=1820235745,124408337
-dimwishlist:item=1788603939&perks=1820235745,4104185692
-    Dead Weight
-dimwishlist:item=3738678140&perks=3300816228,2679249093
-dimwishlist:item=3738678140&perks=3300816228,1546637391#note:Specs for DPS Swap Weapon
-    Yesteryear
-dimwishlist:item=1141927949&perks=1168162263,3047969693
-dimwishlist:item=1141927949&perks=1820235745,3425386926
-    Albruna-D
-dimwishlist:item=676270382&perks=3400784728,1771339417
-dimwishlist:item=676270382&perks=3038247973,4104185692
-    Trust
-dimwishlist:item=2850664015&perks=1168162263,3038247973
-dimwishlist:item=2850664015&perks=1168162263,2848615171
-dimwishlist:item=2850664015&perks=1168162263,4293542123
-    Laser Painter
-dimwishlist:item=3221722018&perks=2284787283,1546637391
-dimwishlist:item=3221722018&perks=3300816228,1546637391
-dimwishlist:item=3221722018&perks=247725512,1546637391
-    Qua Xaphan V
-dimwishlist:item=1975125963&perks=3400784728,365154968
-dimwishlist:item=1975125963&perks=3400784728,2048641572
-    Breakneck
-dimwishlist:item=2026755633&perks=1820235745,95528736
-dimwishlist:item=2026755633&perks=1820235745,3891536761
-+ + + + + Crucible + + + + +
+dimwishlist:item=dimwishlist:item=253196586&perks=3300816228,3425386926
+-+- -+- -+- -+- -+- Crucible -+- -+- -+- -+- -+-
     Better Devils
 dimwishlist:item=4152016199&perks=1523832109,4049631843
 dimwishlist:item=4152016199&perks=1523832109,3038247973
@@ -846,11 +816,56 @@ dimwishlist:item=2510526114&perks=1359896290,365154968
 dimwishlist:item=1612781792&perks=3300816228,2360754333
     Retrofuturist
 dimwishlist:item=1612781792&perks=706527188,957782887#notes:Specs for PVP
+-+- -+- -+- -+- -+- Gambit -+- -+- -+- -+- -+-
+    Bygones
+dimwishlist:item=2199554524&perks=1820235745,3824105627
+    Hush
+dimwishlist:item=3962575203&perks=201365942,4293542123
+dimwishlist:item=3962575203&perks=951095735,4293542123
+    Borrowed Time
+dimwishlist:item=875848769&perks=2779035018,3425386926
+    Servant Leader
+dimwishlist:item=1107446438&perks=1168162263,2458213969
+dimwishlist:item=1107446438&perks=247725512,1015611457
+    Herod-C
+dimwishlist:item=1788603939&perks=1820235745,124408337
+dimwishlist:item=1788603939&perks=1820235745,4104185692
+    Dead Weight
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+dimwishlist:item=3738678140&perks=3300816228,1546637391#note:Specs for DPS Swap Weapon
+    Yesteryear
+dimwishlist:item=1141927949&perks=1168162263,3047969693
+dimwishlist:item=1141927949&perks=1820235745,3425386926
+    Albruna-D
+dimwishlist:item=676270382&perks=3400784728,1771339417
+dimwishlist:item=676270382&perks=3038247973,4104185692
+    Trust
+dimwishlist:item=2850664015&perks=1168162263,3038247973
+dimwishlist:item=2850664015&perks=1168162263,2848615171
+dimwishlist:item=2850664015&perks=1168162263,4293542123
+    Laser Painter
+dimwishlist:item=3221722018&perks=2284787283,1546637391
+dimwishlist:item=3221722018&perks=3300816228,1546637391
+dimwishlist:item=3221722018&perks=247725512,1546637391
+    Qua Xaphan V
+dimwishlist:item=1975125963&perks=3400784728,365154968
+dimwishlist:item=1975125963&perks=3400784728,2048641572
+    Breakneck
+dimwishlist:item=2026755633&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=1820235745,3891536761
 ----------------------------------------------------------------------------------------------------
 // ENDGAME RITUAL PLAYLIST ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Nightfall + + + + +
+-+- -+- -+- -+- -+- Nightfall -+- -+- -+- -+- -+-
+    Rake Angle
+
+    Rake Angle (Adept)
+
+    PLUG ONE.1
+dimwishlist:item=1289000550&perks=671806388,1427256713
+    PLUG ONE.1 (Adept)
+dimwishlist:item=534775659&perks=671806388,1427256713
     Shadow Price
 dimwishlist:item=2322926844&perks=1583705720,2173046394
 dimwishlist:item=2322926844&perks=880644845,3523296417#notes:Specs for Bakris Blitz
@@ -863,107 +878,99 @@ dimwishlist:item=2591257541&perks=968510818,1427256713
     Scintillation (Adept)
 dimwishlist:item=1492522228&perks=968510818,3078487919
 dimwishlist:item=1492522228&perks=968510818,1427256713
-    Loaded Question
-dimwishlist:item=3125454907&perks=3643424744,1427256713
-dimwishlist:item=3125454907&perks=968510818,1427256713
-    Loaded Question (Adept)
-dimwishlist:item=2914913838&perks=3643424744,1427256713
-dimwishlist:item=2914913838&perks=968510818,1427256713
-    Braytech Osprey
-dimwishlist:item=3667553455&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
-dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Specs for Ad Clear
-    Braytech Osprey (Adept)
-dimwishlist:item=1064132738&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
-dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Specs for Ad Clear
-    Warden's Law
-dimwishlist:item=1821529912&perks=1354429876,1546637391
-    Warden's Law (Adept)
-dimwishlist:item=267089201&perks=1354429876,1546637391
-    Pre Astyanax IV
-dimwishlist:item=2932922810&perks=201365942,4293542123
-    Pre Astyanax IV (Adept)
-dimwishlist:item=496556698&perks=201365942,4293542123
-dimwishlist:item=2063217087&perks=201365942,4293542123
-    Undercurrent
-dimwishlist:item=1151688091&perks=3523296417,2173046394
-    Undercurrent (Adept)
-dimwishlist:item=672957262&perks=3523296417,2173046394
+    Wild Style
+dimwishlist:item=1332123064&perks=968510818,4293542123
+    Wild Style (Adept)
+dimwishlist:item=959037361&perks=968510818,4293542123
+    The Slammer
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+    The Slammer (Adept)
+dimwishlist:item=1354727549&perks=2077819806,3650930298
     Uzume RR4
 dimwishlist:item=2450917538&perks=1556840489,3038247973
 dimwishlist:item=2450917538&perks=1354429876,1546637391#notes:Specs for DPS
     Uzume RR4 (Adept)
 dimwishlist:item=1891996599&perks=1556840489,3038247973
 dimwishlist:item=1891996599&perks=1354429876,1546637391#notes:Specs for DPS
-    The Slammer
-dimwishlist:item=2889501828&perks=2077819806,3650930298
-    The Slammer (Adept)
-dimwishlist:item=1354727549&perks=2077819806,3650930298
-    Wild Style
-dimwishlist:item=1332123064&perks=968510818,4293542123
-    Wild Style (Adept)
-dimwishlist:item=959037361&perks=968510818,4293542123
-+ + + + + Legacy + + + + +
-    PLUG ONE.1
-dimwishlist:item=1289000550&perks=671806388,1427256713
-    PLUG ONE.1 (Adept)
-dimwishlist:item=534775659&perks=671806388,1427256713
-    The Comedian
-dimwishlist:item=1028582252&perks=1556840489,2360754333
-    The Comedian (Adept)
-dimwishlist:item=1028582252&perks=1556840489,2360754333
-    The Hothead
-dimwishlist:item=4255171531&perks=3300816228,2284787283
-dimwishlist:item=4255171531&perks=3300816228,3194351027
-    The Hothead (Adept)
-dimwishlist:item=1866778462&perks=3300816228,2284787283
-dimwishlist:item=1866778462&perks=3300816228,3194351027
+    Undercurrent
+dimwishlist:item=1151688091&perks=3523296417,2173046394
+    Undercurrent (Adept)
+dimwishlist:item=672957262&perks=3523296417,2173046394
+-+- -+- -+- -+- -+- Nightfall (Legacy) -+- -+- -+- -+- -+-
+    Pre Astyanax IV
+dimwishlist:item=2932922810&perks=201365942,4293542123
+    Pre Astyanax IV (Adept)
+dimwishlist:item=496556698&perks=201365942,4293542123
+dimwishlist:item=2063217087&perks=201365942,4293542123
+    Warden's Law
+dimwishlist:item=1821529912&perks=1354429876,1546637391
+    Warden's Law (Adept)
+dimwishlist:item=267089201&perks=1354429876,1546637391
+    Braytech Osprey
+dimwishlist:item=3667553455&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
+dimwishlist:item=3667553455&perks=1275731761,2048641572#notes:Specs for Ad Clear
+    Braytech Osprey (Adept)
+dimwishlist:item=1064132738&perks=968510818,1439600632#notes:Specs for DPS Swap Weapon
+dimwishlist:item=1064132738&perks=1275731761,2048641572#notes:Specs for Ad Clear
+    Loaded Question
+dimwishlist:item=3125454907&perks=3643424744,1427256713
+dimwishlist:item=3125454907&perks=968510818,1427256713
+    Loaded Question (Adept)
+dimwishlist:item=2914913838&perks=3643424744,1427256713
+dimwishlist:item=2914913838&perks=968510818,1427256713
+    The Swarm
+dimwishlist:item=2759590322&perks=2779035018,2848615171
+    The Swarm (Adept)
+dimwishlist:item=566740455&perks=2779035018,2848615171
+    Buzzard
+dimwishlist:item=213264394&perks=671806388,2458213969
+    Buzzard (Adept)
+dimwishlist:item=927835311&perks=671806388,2458213969
+    Wendigo GL3
+dimwishlist:item=1854753404&perks=2284787283,3751912585
+    Wendigo GL3 (Adept)
+dimwishlist:item=3915197957&perks=2284787283,3751912585
+    Hung Jury SR4
+dimwishlist:item=3832743906&perks=1820235745,3824105627
+    Hung Jury SR4 (Adept)
+dimwishlist:item=2883684343&perks=1820235745,3824105627
+    Mindbender's Ambition
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+    Mindbender's Ambition (Adept)
+dimwishlist:item=2074041946&perks=691659142,4082225868
+    The Militia's Birthright
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+    The Militia's Birthright (Adept)
+dimwishlist:item=1854753405&perks=2010801679,4049631843
+    Horror's Least
+dimwishlist:item=216983039&perks=2387244414,4104185692
+    Horror's Least (Adept)
+dimwishlist:item=1924276978&perks=2387244414,4104185692
+    D.F.A.
+dimwishlist:item=575830664&perks=1168162263,3425386926
+    D.F.A. (Adept)
+dimwishlist:item=2006308129&perks=1168162263,3425386926
+    Silicon Neuroma
+dimwishlist:item=3355385170&perks=957782887,47981717#notes:Specs for PVP
+    Silicon Neuroma (Adept)
+dimwishlist:item=1387987271&perks=957782887,47981717
     Duty Bound
 dimwishlist:item=435216110&perks=2387244414,4104185692
 dimwishlist:item=435216110&perks=2387244414,4049631843
     Duty Bound (Adept)
 dimwishlist:item=1135050595&perks=2387244414,4104185692
 dimwishlist:item=1135050595&perks=2387244414,4049631843
-    Silicon Neuroma
-dimwishlist:item=3355385170&perks=957782887,47981717#notes:Specs for PVP
-    Silicon Neuroma (Adept)
-dimwishlist:item=1387987271&perks=957782887,47981717
-    D.F.A.
-dimwishlist:item=575830664&perks=1168162263,3425386926
-    D.F.A. (Adept)
-dimwishlist:item=2006308129&perks=1168162263,3425386926
-    Horror's Least
-dimwishlist:item=216983039&perks=2387244414,4104185692
-    Horror's Least (Adept)
-dimwishlist:item=1924276978&perks=2387244414,4104185692
-    The Militia's Birthright
-dimwishlist:item=1854753405&perks=2010801679,4049631843
-    The Militia's Birthright (Adept)
-dimwishlist:item=1854753405&perks=2010801679,4049631843
-    Mindbender's Ambition
-dimwishlist:item=1854753405&perks=2010801679,4049631843
-    Mindbender's Ambition (Adept)
-dimwishlist:item=2074041946&perks=691659142,4082225868
-    Hung Jury SR4
-dimwishlist:item=3832743906&perks=1820235745,3824105627
-    Hung Jury SR4 (Adept)
-dimwishlist:item=2883684343&perks=1820235745,3824105627
-    Wendigo GL3
-dimwishlist:item=1854753404&perks=2284787283,3751912585
-    Wendigo GL3 (Adept)
-dimwishlist:item=3915197957&perks=2284787283,3751912585
-    Buzzard
-dimwishlist:item=213264394&perks=671806388,2458213969
-    Buzzard (Adept)
-dimwishlist:item=927835311&perks=671806388,2458213969
-    The Swarm
-dimwishlist:item=2759590322&perks=2779035018,2848615171
-    The Swarm (Adept)
-dimwishlist:item=566740455&perks=2779035018,2848615171
-    The Palindrome
-dimwishlist:item=432476743&perks=706527188,2846385770#notes:Specs for PVP
-    The Palindrome (Adept)
-dimwishlist:item=1481892490&perks=706527188,2846385770#notes:Specs for PVP
-+ + + + + Iron Banner + + + + +
+    The Hothead
+dimwishlist:item=4255171531&perks=3300816228,2284787283
+dimwishlist:item=4255171531&perks=3300816228,3194351027
+    The Hothead (Adept)
+dimwishlist:item=1866778462&perks=3300816228,2284787283
+dimwishlist:item=1866778462&perks=3300816228,3194351027
+    The Comedian
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+    The Comedian (Adept)
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+-+- -+- -+- -+- -+- Iron Banner -+- -+- -+- -+- -+-
     Claws of the Wolf
 dimwishlist:item=1505862304&perks=776531651,2048641572#notes:Specs for Void Build
 dimwishlist:item=1505862304&perks=776531651,3425386926
@@ -992,7 +999,7 @@ dimwishlist:item=1764868900&perks=3161816588,591790007
 dimwishlist:item=433905699&perks=951095735,2048641572
 dimwishlist:item=433905699&perks=2284787283,2048641572
 dimwishlist:item=433905699&perks=3300816228,2048641572
-+ + + + + Trials of Osiris + + + + +
+-+- -+- -+- -+- -+- Trials of Osiris -+- -+- -+- -+- -+-
     Aisha's Care
 dimwishlist:item=3969379530&perks=2387244414,3047969693
     The Messenger
@@ -1037,7 +1044,7 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 // DESTINATIONS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Pale Heart Weapons + + + + +
+-+- -+- -+- -+- -+- Pale Heart Weapons -+- -+- -+- -+- -+-
     Someday
 dimwishlist:item=3232203524&perks=1556840489,469285294
     The Call
@@ -1061,7 +1068,7 @@ dimwishlist:item=3605603507&perks=1523832109,4104185692
 dimwishlist:item=4207120603&perks=4293542123,3708227201
 dimwishlist:item=4207120603&perks=4293542123,2396489472#notes:Specs for Ad Clear
 dimwishlist:item=4207120603&perks=1749209109,3078487919#notes:Specs for DPS
-+ + + + + Neomuna + + + + +
+-+- -+- -+- -+- -+- Neomuna -+- -+- -+- -+- -+-
     Round Robin
 dimwishlist:item=2034215657&perks=1820235745,831391274
     Volta Bracket
@@ -1072,7 +1079,7 @@ dimwishlist:item=1289796511&perks=671806388,2173046394
 dimwishlist:item=3635821806&perks=671806388,2173046394
     Dimensional Hypotrochoid
 dimwishlist:item=1311684613&perks=968510818,2396489472
-+ + + + + Savathun's Throne World + + + + +
+-+- -+- -+- -+- -+- Savathun's Throne World -+- -+- -+- -+- -+-
     Come to Pass
 dimwishlist:item=927567426&perks=3096702027,2848615171
     Pointed Inquiry
@@ -1091,7 +1098,7 @@ dimwishlist:item=3865728990&perks=3400784728,2896038713
 dimwishlist:item=2721157927&perks=2284787283,2396489472
     Red Herring
 dimwishlist:item=3175851496&perks=3977735242,3927722942
-+ + + + + Europa + + + + +
+-+- -+- -+- -+- -+- Europa -+- -+- -+- -+- -+-
     Arctic Haze
 dimwishlist:item=20935540&perks=1168162263,2848615171
 dimwishlist:item=20935540&perks=1820235745,2848615171
@@ -1116,7 +1123,7 @@ dimwishlist:item=3512349612&perks=2779035018,2726471870
 // GUNSMITH FOUNDRIES ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Suros + + + + +
+-+- -+- -+- -+- -+- Suros -+- -+- -+- -+- -+-
     Cantata-57
 dimwishlist:item=372697604&perks=247725512,1954620775
     Syncopation-53
@@ -1130,7 +1137,7 @@ dimwishlist:item=4019668921&perks=1168162263,4293542123
 dimwishlist:item=4100775158&perks=1428297954,2458213969
     Fioriture-59
 dimwishlist:item=2566006935&perks=4071163871,1015611457
-+ + + + + Hakke + + + + +
+-+- -+- -+- -+- -+- Hakke -+- -+- -+- -+- -+-
     Palmyra-B
 dimwishlist:item=3489657138&perks=3300816228,3194351027
     Perses-D
@@ -1145,7 +1152,7 @@ dimwishlist:item=1916287826&perks=4071163871,2458213969
     Lodbrok-C
 dimwishlist:item=2328531378&perks=1354429876,365154968
 dimwishlist:item=2328531378&perks=1359896290,365154968
-+ + + + + Veist + + + + +
+-+- -+- -+- -+- -+- Veist -+- -+- -+- -+- -+-
 Krait
 dimwishlist:item=2852052802&perks=1820235745,3673922083
 Redback-5si
@@ -1158,7 +1165,7 @@ Taipan-4FR
 dimwishlist:item=1911060537&perks=3400784728,1771339417
 Jararaca-3SR
 dimwishlist:item=1851521408&perks=247725512,1015611457
-+ + + + + Omolon + + + + +
+-+- -+- -+- -+- -+- Omolon -+- -+- -+- -+- -+-
     Snorri FR5
 dimwishlist:item=4114929480&perks=1570042021,2652708987
     Typhon GL5
@@ -1176,7 +1183,7 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 // WORLD LOOT POOL ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
-+ + + + + Auto Rifles + + + + +
+-+- -+- -+- -+- -+- Auto Rifles -+- -+- -+- -+- -+-
     Braytech Warewolf
 dimwishlist:item=2869466318&perks=1359896290,1015611457
     Eidolon Ally
@@ -1199,14 +1206,14 @@ dimwishlist:item=3583275737&perks=1820235745,95528736
 dimwishlist:item=3583275737&perks=776531651,2610012052
     The Number
 dimwishlist:item=2492081469&perks=4071163871,2458213969
-+ + + + + Bows + + + + +
+-+- -+- -+- -+- -+- Bows -+- -+- -+- -+- -+-
     Imperial Needle
 dimwishlist:item=3460122497&perks=201365942,4104185692
     Wolftone Draw
 dimwishlist:item=3472875143&perks=201365942,2848615171
     Neoptolemus II
 dimwishlist:item=2848549302&perks=691659142,1546637391
-+ + + + + Fusion Rifles + + + + +
+-+- -+- -+- -+- -+- Fusion Rifles -+- -+- -+- -+- -+-
     Nox Perennial V
 dimwishlist:item=2767393525&perks=968510818,2594592626
     Cartesian Coordinate
@@ -1222,7 +1229,7 @@ dimwishlist:item=2290416&perks=1645158859,2213355989
     Trinary System
 dimwishlist:item=3258665412&perks=2779035018,1015611457
 dimwishlist:item=3258665412&perks=2779035018,2458213969
-+ + + + + Breech GLs + + + + +
+-+- -+- -+- -+- -+- Breech GLs -+- -+- -+- -+- -+-
     Pardon Our Dust
 dimwishlist:item=3849810018&perks=3300816228,1546637391
     Deafening Whisper
@@ -1234,7 +1241,7 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
-+ + + + + Heavy GLs + + + + +
+-+- -+- -+- -+- -+- Heavy GLs -+- -+- -+- -+- -+-
     Blast Battue
 dimwishlist:item=2453357042&perks=2284787283,2396489472
     Canis Major
@@ -1249,7 +1256,7 @@ dimwishlist:item=867154247&perks=968510818,3751912585
 dimwishlist:item=867154247&perks=968510818,1546637391
     Memory Interdict
 dimwishlist:item=3165547384&perks=2284787283,2396489472
-+ + + + + Hand Cannons + + + + +
+-+- -+- -+- -+- -+- Hand Cannons -+- -+- -+- -+- -+-
     Maahes HC4
 dimwishlist:item=1246793994&perks=776531651,4104185692
 dimwishlist:item=1246793994&perks=776531651,2048641572
@@ -1285,7 +1292,7 @@ dimwishlist:item=3813153080&perks=671806388,2458213969
 dimwishlist:item=3813153080&perks=2450788523,4049631843
     Frontier's Cry
 dimwishlist:item=1141547457&perks=247725512,1015611457
-+ + + + + Linear Fusion Rifles + + + + +
+-+- -+- -+- -+- -+- Linear Fusion Rifles -+- -+- -+- -+- -+-
     Suspectum-4fr
 dimwishlist:item=3615421669&perks=968510818,2978966579
 dimwishlist:item=3615421669&perks=968510818,555281244#notes:Specs for DPS Mag Dump
@@ -1298,7 +1305,7 @@ dimwishlist:item=3335343363&perks=2779035018,2848615171
 dimwishlist:item=3335343363&perks=2779035018,1015611457
     Threaded Needle
 dimwishlist:item=3075224551&perks=2284787283,1546637391
-+ + + + + Machine Guns + + + + +
+-+- -+- -+- -+- -+- Machine Guns -+- -+- -+- -+- -+-
     Archon's Thunder
 dimwishlist:item=1967303408&perks=2846385770,3425386926
     Chain of Command
@@ -1313,7 +1320,7 @@ dimwishlist:item=4233375372&perks=923806249,831391274#notes:Specs for Strand-Bas
 dimwishlist:item=820890091&perks=1428297954,4049631843
     Shattered Cipher
 dimwishlist:item=2434225986&perks=1570042021,3425386926
-+ + + + + Pulse Rifles + + + + +
+-+- -+- -+- -+- -+- Pulse Rifles -+- -+- -+- -+- -+-
     Battle Scar
 dimwishlist:item=2099894368&perks=1428297954,3891536761
     Belisarius-D
@@ -1335,7 +1342,7 @@ dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052
 dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,1015611457
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,2610012052
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
-+ + + + + Rocket Launchers + + + + +
+-+- -+- -+- -+- -+- Rocket Launchers -+- -+- -+- -+- -+-
     Ascendancy
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
@@ -1350,7 +1357,7 @@ dimwishlist:item=1719687748&perks=3161816588,3708227201#notes:Aegis DPS Roll
 dimwishlist:item=2231910050&perks=2010801679,4293542123
 dimwishlist:item=2231910050&perks=951095735,4293542123
 dimwishlist:item=2231910050&perks=3523296417,2396489472
-+ + + + + Scout Rifles + + + + +
+-+- -+- -+- -+- -+- Scout Rifles -+- -+- -+- -+- -+-
     Live Fire
 dimwishlist:item=3612142623&perks=247725512,124408337
     Adverse Possession IX
@@ -1373,7 +1380,7 @@ dimwishlist:item=2218569744&perks=247725512,2173046394
 dimwishlist:item=2218569744&perks=3523296417,2173046394
 dimwishlist:item=2218569744&perks=247725512,3038247973
 dimwishlist:item=2218569744&perks=247725512,2848615171
-+ + + + + Shotguns + + + + +
+-+- -+- -+- -+- -+- Shotguns -+- -+- -+- -+- -+-
     Legato-11
 dimwishlist:item=3753063346&perks=3017780555,4293542123
     Deadlock
@@ -1400,7 +1407,7 @@ dimwishlist:item=411397829&perks=1821614984,957782887#notes:Specs for PVP
 dimwishlist:item=664109750&perks=3161816588,2679249093
     The Deicide
 dimwishlist:item=217140611&perks=1556840489,2679249093
-+ + + + + Sidearms + + + + +
+-+- -+- -+- -+- -+- Sidearms -+- -+- -+- -+- -+-
     Controlling Vision
 dimwishlist:item=423343404&perks=2039302152,1774574192
     Allied Demand 
@@ -1425,7 +1432,7 @@ dimwishlist:item=3998080529&perks=3017780555,4293542123
 dimwishlist:item=409551876&perks=247725512,2458213969
     The Vision
 dimwishlist:item=2414141462&perks=2450788523,1015611457
-+ + + + + Sniper Rifles + + + + +
+-+- -+- -+- -+- -+- Sniper Rifles -+- -+- -+- -+- -+-
     Veleda-F
 dimwishlist:item=4200122994&perks=776531651,1134488199
     The Domino
@@ -1451,7 +1458,7 @@ dimwishlist:item=2073794990&perks=957782887,47981717#notes:Specs for PVP
 dimwishlist:item=852551895&perks=957782887,47981717
     Long Shadow
 dimwishlist:item=3745990145&perks=957782887,3038247973
-+ + + + + Submachine Guns + + + + +
+-+- -+- -+- -+- -+- Submachine Guns -+- -+- -+- -+- -+-
     Yarovit MG4
 dimwishlist:item=3959549446&perks=3418782618,2109543898
 dimwishlist:item=3959549446&perks=880644845,124408337#notes:Stats for Stasis Build
@@ -1467,7 +1474,7 @@ dimwishlist:item=3926811686&perks=3017780555,4104185692
 dimwishlist:item=2272470786&perks=2779035018,2458213969
     The Hero's Burden
 dimwishlist:item=1028124540&perks=2779035018,1015611457
-+ + + + + Swords + + + + +
+-+- -+- -+- -+- -+- Swords -+- -+- -+- -+- -+-
     Goldtusk
 dimwishlist:item=3371413057&perks=1749209109,3913600130
     Quickfang
@@ -1484,6 +1491,6 @@ dimwishlist:item=1456017061&perks=1749209109,3913600130
 dimwishlist:item=1796949035&perks=1749209109,2396489472
     The Other Half
 dimwishlist:item=3257091167&perks=2077819806,1546637391
-+ + + + + Trace Rifles + + + + +
+-+- -+- -+- -+- -+- Trace Rifles -+- -+- -+- -+- -+-
     Retraced Path
 dimwishlist:item=548958835&perks=1820235745,4293542123
