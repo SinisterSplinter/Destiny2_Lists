@@ -795,7 +795,7 @@ dimwishlist:item=4146702548&perks=3300816228,3425386926
 dimwishlist:item=253196586&perks=3300816228,3425386926
 -+- -+- -+- -+- -+- Crucible -+- -+- -+- -+- -+-
 	Anonymous Autumn
-
+dimwishlist:item=1051949956&perks=684456054,2173046394
     Better Devils
 dimwishlist:item=4152016199&perks=1523832109,4049631843
 dimwishlist:item=4152016199&perks=1523832109,3038247973
@@ -837,23 +837,26 @@ dimwishlist:item=310708513&perks=706527188,957782887#notes:Specs for PVP
 dimwishlist:item=3473290087&perks=3300816228,1546637391
 		The Keening
 dimwishlist:item=409551876&perks=1820235745,3108830275
-		Stars in Shadow
-
-		Last Perdition
-
-		Wishbringer
-
-		Steel Sybil Z-14
-
+	Stars in Shadow
+dimwishlist:item=2050789284&perks=1168162263,2848615171
+	Last Perdition
+dimwishlist:item=188882152&perks=1631667848,3425386926
+	Wishbringer
+dimwishlist:item=3356526253&perks=4071163871,3300816228
+	Steel Sybil Z-14
+dimwishlist:item=4230993599&perks=1749209109,3913600130
 -+- -+- -+- -+- -+- Arcite's Keepsakes -+- -+- -+- -+- -+-
-		The Riposte
-
-		Belisarius-D
-
-		Murcurial Overreach
-
-		Rose
-
+	The Riposte
+dimwishlist:item=3754408118&perks=776531651,2048641572
+dimwishlist:item=3754408118&perks=3828510309,2109543898
+	Belisarius-D
+dimwishlist:item=2313726158&perks=923806249,831391274
+dimwishlist:item=2313726158&perks=247725512,831391274
+	Mercurial Overreach
+dimwishlist:item=2073794990&perks=957782887,47981717#notes:Stats for PVP
+	Rose
+dimwishlist:item=882778888&perks=1428297954,3038247973#notes:Stats for PVP
+dimwishlist:item=882778888&perks=706527188,3038247973#notes:Stats for PVP
 -+- -+- -+- -+- -+- Gambit -+- -+- -+- -+- -+-
     Bygones
 dimwishlist:item=2199554524&perks=1820235745,3824105627
