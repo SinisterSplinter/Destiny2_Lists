@@ -101,25 +101,19 @@ dimwishlist:item=3503019618&perks=3824105627,1546637391
 dimwishlist:item=3503019618&perks=1774574192,1546637391#notes:Boss Damage
     Zaouli's Bane
 dimwishlist:item=431721920&perks=3038247973,4293542123
-dimwishlist:item=431721920&perks=3038247973,3824105627
     Zaouli's Bane (Harrowed)
 dimwishlist:item=291092617&perks=3038247973,4293542123
-dimwishlist:item=431721920&perks=3038247973,3824105627
     Doom of Chelchis
 dimwishlist:item=1937552980&perks=3038247973,2848615171
-dimwishlist:item=1937552980&perks=3824105627,2848615171
     Doom of Chelchis (Harrowed)
 dimwishlist:item=1184692845&perks=3038247973,2848615171
-dimwishlist:item=1184692845&perks=3824105627,2848615171
     Midha's Reckoning
 dimwishlist:item=3969066556&perks=1799762209,3708227201
     Midha's Reckoning (Harrowed)
 dimwishlist:item=3904516037&perks=1799762209,3708227201
     Qullim's Terminus
-dimwishlist:item=1321506184&perks=1359896290,557221067
 dimwishlist:item=1321506184&perks=1359896290,124408337
     Qullim's Terminus (Harrowed)
-dimwishlist:item=3248429089&perks=1359896290,557221067
 dimwishlist:item=3248429089&perks=1359896290,124408337
 -+- -+- -+- -+- -+- Vow of the Disciple -+- -+- -+- -+- -+-
     Submission
@@ -149,10 +143,8 @@ dimwishlist:item=2886339027&perks=1354429876,3078487919
 -+- -+- -+- -+- -+- Vault of Glass -+- -+- -+- -+- -+-
     Fatebringer
 dimwishlist:item=2171478765&perks=3038247973,3824105627
-dimwishlist:item=2171478765&perks=3038247973,4104185692
     Fatebringer (Timelost)
 dimwishlist:item=1216319404&perks=3038247973,3824105627
-dimwishlist:item=1216319404&perks=3038247973,4104185692
     Praedyth's Revenge
 dimwishlist:item=3653573172&perks=3418782618,3824105627
     Praedyth's Revenge (Timelost)
@@ -178,50 +170,41 @@ dimwishlist:item=1921159786&perks=3300816228,1275731761
 dimwishlist:item=3366545721&perks=1749209109,3708227201
     Trustee
 dimwishlist:item=1392919471&perks=1523832109,4293542123
-dimwishlist:item=1392919471&perks=461595545,2675184851
     Posterity
 dimwishlist:item=3281285075&perks=1523832109,3425386926
     Commemoration
 dimwishlist:item=4230965989&perks=1523832109,557221067
     Succession
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-dimwishlist:item=2990047042&perks=461595545,3418165135
+dimwishlist:item=2990047042&perks=1523832109,469285294
     Heritage
 dimwishlist:item=4248569242&perks=1523832109,469285294
 -+- -+- -+- -+- -+- Garden of Salvation -+- -+- -+- -+- -+-
     Sacred Provenance
 dimwishlist:item=2241507890&perks=3523296417,3891536761
     Accrued Redemption
-dimwishlist:item=3621336854&perks=2652708987,3891536761
-dimwishlist:item=3621336854&perks=201365942,3891536761
+dimwishlist:item=3621336854&perks=2652708987,3824105627
     Omniscient Eye
-dimwishlist:item=147444292&perks=3987942396,1546637391
-dimwishlist:item=147444292&perks=1354429876,555281244
+dimwishlist:item=147444292&perks=1354429876,555281244#notes:Boss Damage
     Prophet of Doom
-dimwishlist:item=2145441168&perks=4071163871,2173046394
-dimwishlist:item=2145441168&perks=2039302152,2173046394
+dimwishlist:item=2145441168&perks=1523832109,2679249093
     Ancient Gospel
-dimwishlist:item=963574173&perks=3425386926,1015611457
-dimwishlist:item=963574173&perks=2048641572,3038247973
+dimwishlist:item=963574173&perks=3425386926,3038247973
     Reckless Oracle
-dimwishlist:item=1992309064&perks=1820235745,4049631843
-dimwishlist:item=1992309064&perks=2048641572,776531651
+dimwishlist:item=1992309064&perks=2048641572,4049631843
     Zealot's Reward
-dimwishlist:item=2720651699&perks=3300816228,1427256713
+dimwishlist:item=2720651699&perks=3300816228,2594592626
 -+- -+- -+- -+- -+- Last Wish -+- -+- -+- -+- -+-
     The Supremacy
-dimwishlist:item=2884596447&perks=3418782618,1546637391
-dimwishlist:item=2884596447&perks=1563455254,3418165135
+dimwishlist:item=2884596447&perks=3418782618,3078487919#notes:Boss Damage
+dimwishlist:item=2884596447&perks=3418782618,1354429876#notes:Ammo Economy
     Transfiguration
 dimwishlist:item=3885259140&perks=3425386926,3891536761
     Chattering Bone
 dimwishlist:item=501329015&perks=247725512,3891536761
     Nation of Beasts
 dimwishlist:item=70083888&perks=2848615171,3038247973
-dimwishlist:item=70083888&perks=2848615171,2173046394
     Age-Old Bond
 dimwishlist:item=424291879&perks=2848615171,2048641572
-dimwishlist:item=424291879&perks=776531651,2048641572#notes:Void Build
     Tyranny of Heaven
 dimwishlist:item=3388655311&perks=2848615171,4293542123
     Techeun Force
@@ -238,25 +221,21 @@ dimwishlist:item=4232480042&perks=684456054,3966416502
     VS Gravitic Arrest
 dimwishlist:item=93061497&perks=776531651,1134488199
     VS Velocity Baton
-dimwishlist:item=1762785663&perks=3108830275,243981275
 dimwishlist:item=1762785663&perks=3523296417,3078487919
     VS Chill Inhibitor
-dimwishlist:item=1762785662&perks=3987942396,3078487919#notes:**IDEAL**
-dimwishlist:item=1762785662&perks=1955165503,2978966579
+dimwishlist:item=1762785662&perks=3987942396,3078487919
 -+- -+- -+- -+- -+- Warlord's Ruin -+- -+- -+- -+- -+-
     Naeem's Lance
 dimwishlist:item=2806569825&perks=1523832109,555281244
     Vengeful Whisper
 dimwishlist:item=839344841&perks=3365897133,831391274
     Indebted Kindness
-dimwishlist:item=3381450498&perks=2859149211,2173046394
-dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=1119449540,2173046394
     Dragoncult Sickle
 dimwishlist:item=3668817296&perks=3523296417,2396489472
 -+- -+- -+- -+- -+- Ghost of the Deep -+- -+- -+- -+- -+-
     New Pacific Epitaph
-dimwishlist:item=1125217994&perks=3523296417,11612903
-dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=1428297954,1015611457
     Greasy Luck
 dimwishlist:item=1757202961&perks=951095735,4293542123
     No Survivors
@@ -265,11 +244,9 @@ dimwishlist:item=3262192268&perks=3523296417,4293542123
 dimwishlist:item=839786290&perks=968510818,1439600632
 -+- -+- -+- -+- -+- Duality -+- -+- -+- -+- -+-
     Lingering Dread
-dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
-dimwishlist:item=2026087437&perks=3301904089,3300816228,1546637391
+dimwishlist:item=2026087437&perks=3300816228,2978966579
     New Purpose
 dimwishlist:item=1780464822&perks=2779035018,124408337
-dimwishlist:item=1780464822&perks=2779035018,3047969693
     The Epicurean
 dimwishlist:item=2263839058&perks=2779035018,1600092898
     Unforgiven
@@ -277,35 +254,26 @@ dimwishlist:item=3000847393&perks=2779035018,3425386926
     Fixed Odds
 dimwishlist:item=2194955522&perks=2779035018,4293542123
     Stormchaser
-dimwishlist:item=3652506829&perks=3300816228,1771339417
-dimwishlist:item=3652506829&perks=2284787283,1771339417
+dimwishlist:item=3652506829&perks=3300816228,4104185692
 -+- -+- -+- -+- -+- Prophecy -+- -+- -+- -+- -+-
     Judgment
-dimwishlist:item=2969415423&perks=3523296417,11612903
-dimwishlist:item=2969415423&perks=3523296417,2458213969
+dimwishlist:item=2969415423&perks=124408337,1954620775
     The Last Breath
 dimwishlist:item=507038823&perks=1820235745,4049631843
-dimwishlist:item=507038823&perks=3523296417,4104185692
     Relentless
-dimwishlist:item=435821041&perks=1168162263,3047969693
-dimwishlist:item=435821041&perks=1168162263,4104185692
+dimwishlist:item=435821041&perks=923806249,4104185692
     Adjudicator
-dimwishlist:item=1013434963&perks=1820235745,3425386926
-dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=1820235745,4104185692
     A Sudden Death
-dimwishlist:item=2855157553&perks=1631667848,3592538738
-dimwishlist:item=2855157553&perks=3161816588,2679249093
+dimwishlist:item=4097972038&perks=968510818,2679249093
     A Swift Verdict
 dimwishlist:item=1626503676&perks=2450788523,1015611457
     Darkest Before
-dimwishlist:item=435821040&perks=1820235745,4293542123
 dimwishlist:item=435821040&perks=3017780555,4293542123
     The Long Walk
 dimwishlist:item=3326850591&perks=1168162263,4104185692
-dimwishlist:item=3326850591&perks=2284787283,1771339417
     Prosecutor
-dimwishlist:item=3483591058&perks=2848615171,2173046394
-dimwishlist:item=3483591058&perks=3418782618,4104185692
+dimwishlist:item=3483591058&perks=2848615171,4104185692
 -+- -+- -+- -+- -+- Spire of the Watcher -+- -+- -+- -+- -+-
     Liminal Vigil
 dimwishlist:item=3138208275&perks=124408337,1015611457
@@ -313,10 +281,8 @@ dimwishlist:item=3138208275&perks=124408337,1015611457
 dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
     Long Arm
 dimwishlist:item=8293111&perks=1820235745,3038247973
-dimwishlist:item=8293111&perks=247725512,2848615171
     Terminus Horizon
-dimwishlist:item=487205709&perks=247725512,2173046394
-dimwishlist:item=487205709&perks=3400784728,365154968
+dimwishlist:item=487205709&perks=2848615171,11612903
     Seventh Seraph Carbine
 dimwishlist:item=4070357005&perks=1523832109,365154968
     Seventh Seraph Officer Revolver
@@ -339,7 +305,6 @@ dimwishlist:item=3690523502&perks=3300816228,4049631843
 dimwishlist:item=3325778512&perks=1820235745,4049631843
     One Small Step
 dimwishlist:item=1016668089&perks=3300816228,2360754333
-dimwishlist:item=1016668089&perks=3300816228,2679249093
     Premonition
 dimwishlist:item=208088207&perks=2779035018,3425386926
     Loud Lullaby
@@ -363,23 +328,18 @@ dimwishlist:item=3067821200&perks=951095735,1275731761
     Tigerspite
 dimwishlist:item=2465372924&perks=1820235745,3891536761
     Vouchsafe
-dimwishlist:item=355922321&perks=1354429876,2848615171
-dimwishlist:item=355922321&perks=1354429876,3038247973
+dimwishlist:item=355922321&perks=1168162263,2848615171
     Waking Vigil
-dimwishlist:item=3723679465&perks=1168162263,2173046394
 dimwishlist:item=3723679465&perks=1168162263,2848615171
-dimwishlist:item=3723679465&perks=968510818,2173046394
-dimwishlist:item=3723679465&perks=968510818,2848615171
     Retold Tale
 dimwishlist:item=871900124&perks=3161816588,2679249093
     Twilight Oath
-dimwishlist:item=1874424704&perks=968510818,555281244
-dimwishlist:item=1874424704&perks=968510818,1546637391
+dimwishlist:item=1874424704&perks=3017780555,4293542123
+dimwishlist:item=1874424704&perks=968510818,555281244#notes:Boss Damage
     Sleepless
 dimwishlist:item=2140635451&perks=3300816228,1439600632
     Abide the Return
 dimwishlist:item=250721843&perks=1749209109,4293542123
-dimwishlist:item=250721843&perks=1749209109,1685431615
 ----------------------------------------------------------------------------------------------------
 // EXOTIC MISSIONS ()
 //notes:Best All-Around Perks
