@@ -215,6 +215,22 @@ dimwishlist:item=1851777734&perks=1523832109,3078487919
 // DUNGEONS ()
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
+-+- -+- -+- -+- -+- Sundered Doctrine -+- -+- -+- -+- -+-
+
+    Unloved
+dimwishlist:item=2485881870&perks=831391274,960997401
+dimwishlist:item=2485881870&perks=2848615171,960997401
+
+    Unsworn
+dimwishlist:item=1303313141&perks=1820235745,4198902903
+dimwishlist:item=1303313141&perks=1820235745,557221067
+
+    Unworthy
+dimwishlist:item=2226158470&perks=3824105627,2173046394
+
+    Unvoiced
+dimwishlist:item=3360937899&perks=2048641572,1464081238
+
 -+- -+- -+- -+- -+- Vesper's Host -+- -+- -+- -+- -+-
     VS Pyroelectric Propellant
 dimwishlist:item=4232480042&perks=684456054,3966416502
