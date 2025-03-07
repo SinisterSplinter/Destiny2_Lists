@@ -216,21 +216,16 @@ dimwishlist:item=1851777734&perks=1523832109,3078487919
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Sundered Doctrine -+- -+- -+- -+- -+-
-
     Unloved
 dimwishlist:item=2485881870&perks=831391274,960997401
 dimwishlist:item=2485881870&perks=2848615171,960997401
-
     Unsworn
 dimwishlist:item=1303313141&perks=1820235745,4198902903
 dimwishlist:item=1303313141&perks=1820235745,557221067
-
     Unworthy
 dimwishlist:item=2226158470&perks=3824105627,2173046394
-
     Unvoiced
 dimwishlist:item=3360937899&perks=2048641572,1464081238
-
 -+- -+- -+- -+- -+- Vesper's Host -+- -+- -+- -+- -+-
     VS Pyroelectric Propellant
 dimwishlist:item=4232480042&perks=684456054,3966416502
@@ -245,7 +240,6 @@ dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3751912585,3078487919
 dimwishlist:item=1762785662&perks=3751912585,3194351027
 dimwishlist:item=1762785662&perks=3987942396,3708227201
-
 -+- -+- -+- -+- -+- Warlord's Ruin -+- -+- -+- -+- -+-
     Naeem's Lance
 dimwishlist:item=2806569825&perks=1523832109,555281244
@@ -435,21 +429,78 @@ dimwishlist:item=2827764482&perks=3700496672,2173046394
 //notes:Best All-Around Perks
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Eposide: Heresy -+- -+- -+- -+- -+-
-    Psychopomp
+    Adamantite - 1
+dimwishlist:item=2987244302&perks=692399809,2298656195
+    Adamantite - 2
+dimwishlist:item=3229982889&perks=692399809,2298656195
+    Adamantite (Adept) - 1
+dimwishlist:item=601574723&perks=692399809,2298656195
+    Adamantite (Adept) - 2
+dimwishlist:item=3485029080&perks=692399809,2298656195
+    Mirror Imago
+dimwishlist:item=3877448149&perks=1820235745,4082225868
+    Mirror Imago (Adept) - 1
+dimwishlist:item=302039451&perks=1820235745,4082225868
+    Mirror Imago (Adept) - 2
+dimwishlist:item=4116546788&perks=1820235745,4082225868
+    Anamnesis
+dimwishlist:item=3417731926&perks=776531651,1464081238
+    Anamnesis (Adept) - 1
+dimwishlist:item=1536325168&perks=776531651,1464081238
+    Anamnesis (Adept) - 2
+dimwishlist:item=3949253499&perks=776531651,1464081238
+    Afterlight
+dimwishlist:item=1834313033&perks=1556840489,1427256713
+    Afterlight (Adept) - 1
+dimwishlist:item=861521336&perks=1556840489,1427256713
+    Afterlight (Adept) - 2
+dimwishlist:item=3953163559&perks=1556840489,1427256713
+    Psychopomp - 1
+dimwishlist:item=3840794631&perks=684456054,3218042543
 dimwishlist:item=3840794631&perks=3987942396,3218042543
+    Psychopomp - 2
+dimwishlist:item=4028298892&perks=684456054,3218042543
 dimwishlist:item=4028298892&perks=3987942396,3218042543
-    (Adept)
+    Psychopomp (Adept) - 1
+dimwishlist:item=704410186&perks=684456054,3218042543
 dimwishlist:item=704410186&perks=3987942396,3218042543
+    Psychopomp (Adept) - 2
+dimwishlist:item=2553380021&perks=684456054,3218042543
 dimwishlist:item=2553380021&perks=3987942396,3218042543
-
-    Eyes Unveiled
-dimwishlist:item=615373993&perks=3643424744,1427256713
-dimwishlist:item=727781522&perks=3643424744,1427256713
-    (Adept)
-dimwishlist:item=282549639&perks=3643424744,1427256713
-dimwishlist:item=4173311704&perks=3643424744,1427256713
-
-
+    Division
+dimwishlist:item=2992463569&perks=684456054,2173046394
+    Division (Adept) - 1
+dimwishlist:item=2501377328&perks=684456054,2173046394
+    Division (Adept) - 2
+dimwishlist:item=3734001727&perks=684456054,2173046394
+    Eyes Unveiled - 1
+dimwishlist:item=615373993&perks=3400784728,1427256713
+    Eyes Unveiled - 2
+dimwishlist:item=727781522&perks=3400784728,1427256713
+    Eyes Unveiled (Adept) - 1
+dimwishlist:item=282549639&perks=3400784728,1427256713
+    Eyes Unveiled (Adept) - 2
+dimwishlist:item=4173311704&perks=3400784728,1427256713
+    Watchful Eye - 1
+dimwishlist:item=768610585&perks=2869569095,3966416502
+dimwishlist:item=768610585&perks=2869569095,3218042543
+    Watchful Eye - 2
+dimwishlist:item=1757177186&perks=2869569095,3966416502
+dimwishlist:item=1757177186&perks=2869569095,3218042543
+    Watchful Eye (Adept) - 1
+dimwishlist:item=737409399&perks=2869569095,3966416502
+dimwishlist:item=737409399&perks=2869569095,3218042543
+    Watchful Eye (Adept) - 2
+dimwishlist:item=2856225832&perks=2869569095,3966416502
+dimwishlist:item=2856225832&perks=2869569095,3218042543
+    Abyssal Edge - 1
+ dimwishlist:item=547165496&perks=1749209109,3708227201
+    Abyssal Edge - 2
+dimwishlist:item=4221591387&perks=1749209109,3708227201
+    Abyssal Edge (Adept) - 1
+dimwishlist:item=2712683313&perks=1749209109,3708227201
+    Abyssal Edge (Adept) - 2
+dimwishlist:item=3054597646&perks=1749209109,3708227201
 -+- -+- -+- -+- -+- Eposide: Revenant -+- -+- -+- -+- -+-
     Liturgy
 dimwishlist:item=2599338624&perks=3987942396,2978966579
@@ -946,7 +997,7 @@ dimwishlist:item=3997086838&perks=1966281507,2978966579
     PLUG ONE.1
 dimwishlist:item=3293524502&perks=1523832109,1427256713
 dimwishlist:item=3293524502&perks=1523832109,2594592626
-    PLUG ONE.1 (Adept)
+    PLUG ONE.(Adept) - 1
 dimwishlist:item=3106557243&perks=1523832109,1427256713
 dimwishlist:item=3106557243&perks=1523832109,2594592626
     Shadow Price
