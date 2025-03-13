@@ -2,7 +2,7 @@ title:Primary Wishlist
 description:This DIM wishlist is created and curated by SinisterSplinter (Bungie: Splinter9147).
 ----------------------------------------------------------------------------------------------------
 // RAIDS ()
-//notes:Endgame Weapons List
+//notes:Raid Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Salvation's Edge -+- -+- -+- -+- -+-
     Critical Anomaly (2 Versions)
@@ -212,10 +212,9 @@ dimwishlist:item=3388655311&perks=2848615171,4293542123
 dimwishlist:item=3591141932&perks=1523832109,2594592626
     Apex Predator
 dimwishlist:item=1851777734&perks=1523832109,3078487919
-
 ----------------------------------------------------------------------------------------------------
 // DUNGEONS ()
-//notes:Endgame Weapons List
+//notes:Dungeon Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Sundered Doctrine -+- -+- -+- -+- -+-
     Unloved
@@ -359,10 +358,9 @@ dimwishlist:item=1874424704&perks=968510818,555281244#notes:Boss Damage
 dimwishlist:item=2140635451&perks=3300816228,1439600632
     Abide the Return
 dimwishlist:item=250721843&perks=1749209109,4293542123
-
 ----------------------------------------------------------------------------------------------------
-// SEASONS
-//notes:Seasonal Weapon God Rolls
+// SEASONS ()
+//notes:Seasonal Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Eposide: Heresy -+- -+- -+- -+- -+-
 Adamantite (4 Versions)
