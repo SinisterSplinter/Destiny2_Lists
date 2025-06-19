@@ -5,6 +5,7 @@ description:This DIM wishlist has been created and curated by SinisterSplinter (
 // EXOTIC MISSIONS ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Presage -+- -+- -+- -+- -+-
     Firefright
 dimwishlist:item=2778013407&perks=1354429876,2896038713
@@ -29,6 +30,7 @@ dimwishlist:item=502356570&perks=588594999,4293542123
     Bump in the Night
 dimwishlist:item=1959650777&perks=3300816228,1546637391
 dimwishlist:item=1959650777&perks=3300816228,2978966579
+
 -+- -+- -+- -+- -+- Vox Obscura -+- -+- -+- -+- -+-
     Piece of Mind
 dimwishlist:item=2097055732&perks=1428297954,588594999
@@ -44,6 +46,7 @@ dimwishlist:item=232928045&perks=201365942,3365897133
 dimwishlist:item=1248372789&perks=1583705720,4049631843
     Recurrent Impact
 dimwishlist:item=1572896086&perks=1820235745,4049631843
+
 -+- -+- -+- -+- -+- Seraph Shield -+- -+- -+- -+- -+-
     Disparity
 dimwishlist:item=1751893422&perks=247725512,1015611457
@@ -69,10 +72,12 @@ dimwishlist:item=2272041093&perks=1168162263,2978966579
 dimwishlist:item=3103325054&perks=1354429876,365154968
     Path of Least Resistance
 dimwishlist:item=2827764482&perks=3700496672,2173046394
+
 ----------------------------------------------------------------------------------------------------
 // SEASONS ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Season of the Wish -+- -+- -+- -+- -+-
     Lethophobia
 dimwishlist:item=3710082365&perks=776531651,3365897133
@@ -96,6 +101,7 @@ dimwishlist:item=2045811635&perks=1820235745,3038247973
 dimwishlist:item=2045811635&perks=1820235745,3891536761
     Subjunctive
 dimwishlist:item=1447836603&perks=1820235745,2173046394
+
 -+- -+- -+- -+- -+- Season of the Witch -+- -+- -+- -+- -+-
     Kept Confidence
 dimwishlist:item=1875512595&perks=706527188,691659142
@@ -117,6 +123,7 @@ dimwishlist:item=1974641289&perks=1168162263,1015611457
 dimwishlist:item=781498181&perks=247725512,555281244
     Deadpan Delivery
 dimwishlist:item=1296429091&perks=3643424744,2679249093
+
 -+- -+- -+- -+- -+- Season of the Deep -+- -+- -+- -+- -+-
     Targeted Redaction
 dimwishlist:item=3890055324&perks=1168162263,3038247973
@@ -143,6 +150,7 @@ dimwishlist:item=1150492185&perks=1168162263,2173046394
 dimwishlist:item=2832639510&perks=1820235745,4293542123
     Just in Case
 dimwishlist:item=1139727256&perks=1749209109,4293542123
+
 -+- -+- -+- -+- -+- Season of Defiance -+- -+- -+- -+- -+-
     Perpetualis
 dimwishlist:item=392008588&perks=968510818,831391274
@@ -157,10 +165,12 @@ dimwishlist:item=45643573&perks=201365942,3365897133
     Royal Executioner
 dimwishlist:item=1720503118&perks=968510818,1427256713
 dimwishlist:item=1720503118&perks=968510818,4293542123
+
 ----------------------------------------------------------------------------------------------------
 // ANNUAL EVENTS ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Solstice-+- -+- -+- -+- -+-
     Something New
 dimwishlist:item=586671776&perks=247725512,555281244
@@ -172,17 +182,25 @@ dimwishlist:item=4169225313&perks=1631667848,2679249093
     Crowning Duologue
 dimwishlist:item=4106757302&perks=1523832109,3078487919
 dimwishlist:item=4106757302&perks=3300816228,3078487919
+
 -+- -+- -+- -+- -+- Gaurdian Games -+- -+- -+- -+- -+-
-    Taraxippos
-dimwishlist:item=3007479950&perks=3828510309,3038247973
-    The Title
-dimwishlist:item=655712834&perks=1631667848,4082225868
+    Taraxippos (3 Versions)
+dimwishlist:item=1389546626&perks=2387244414,3038247973
+dimwishlist:item=3007479950&perks=2387244414,3038247973
+dimwishlist:item=2595813005&perks=2387244414,3038247973
+    The Title (4 Versions)
+dimwishlist:item=294129361&perks=1583705720,4049631843
+dimwishlist:item=3559361670&perks=1359896290,776531651
 dimwishlist:item=655712834&perks=776531651,2048641572
-dimwishlist:item=655712834&perks=4071163871,3708227201
-    Hullabaloo
+dimwishlist:item=55393445&perks=776531651,2048641572
+    Keraunios
+dimwishlist:item=2029899814&perks=684456054,3966416502
+    Hullabaloo (2 Versions)
+dimwishlist:item=657927352&perks=968510818,4049631843
 dimwishlist:item=657927352&perks=2173046394,2396489472
-dimwishlist:item=657927352&perks=3300816228,2396489472
-dimwishlist:item=657927352&perks=3300816228,4049631843
+dimwishlist:item=2666273249&perks=3987942396,4049631843
+dimwishlist:item=2666273249&perks=2173046394,2396489472
+
 -+- -+- -+- -+- -+- Festival of the Lost -+- -+- -+- -+- -+-
     Arcane Embrace
 dimwishlist:item=3649985571&perks=4071163871,2173046394
@@ -201,6 +219,7 @@ dimwishlist:item=2477980485&perks=3619207468,2173046394
     Acosmic
 dimwishlist:item=425681240&perks=2284787283,4104185692
 dimwishlist:item=425681240&perks=2284787283,3751912585
+
 -+- -+- -+- -+- -+- The Dawning -+- -+- -+- -+- -+-
     Stay Frosty
 dimwishlist:item=1123433952&perks=1955165503,124408337
@@ -230,11 +249,13 @@ dimwishlist:item=601948197&perks=1955165503,3650930298
 // RITUAL PLAYLIST ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Ritual Weapons -+- -+- -+- -+- -+-
     Fair Judgement
 dimwishlist:item=4176873718&perks=1955165503,124408337
     Perfect Pitch
 dimwishlist:item=3276304504&perks=1820235745,4293542123
+
 -+- -+- -+- -+- -+- Vangaurd -+- -+- -+- -+- -+-
     Wicked Sister
 dimwishlist:item=2039776723&perks=3987942396,3078487919
@@ -254,6 +275,7 @@ dimwishlist:item=491078457&perks=1359896290,2848615171
     Nameless Midnight
 dimwishlist:item=996109059&perks=3400784728,3891536761
 dimwishlist:item=996109059&perks=3400784728,3038247973
+
 -+- -+- -+- -+- -+- Vanguard (Legacy) -+- -+- -+- -+- -+-
     Prolonged Engagement
 dimwishlist:item=2349907931&perks=1820235745,4049631843
@@ -287,6 +309,7 @@ dimwishlist:item=2009277538&perks=1168162263,2848615171
 dimwishlist:item=4146702548&perks=3300816228,3425386926
     Main Ingredient
 dimwishlist:item=253196586&perks=3300816228,3425386926
+
 -+- -+- -+- -+- -+- Crucible -+- -+- -+- -+- -+-
     Anonymous Autumn
 dimwishlist:item=1051949956&perks=684456054,2173046394
@@ -308,6 +331,7 @@ dimwishlist:item=3292795429&perks=247725512,3891536761
     Autumn Wind
 dimwishlist:item=3110377595&perks=2846385770,460017080
 dimwishlist:item=3110377595&perks=3523296417,3425386926
+
 -+- -+- -+- -+- -+- Crucible (Legacy) -+- -+- -+- -+- -+-
     Blowout
 dimwishlist:item=1903182562&perks=3523296417,3194351027
@@ -338,6 +362,7 @@ dimwishlist:item=188882152&perks=1631667848,3425386926
 dimwishlist:item=3356526253&perks=4071163871,3300816228
     Steel Sybil Z-14
 dimwishlist:item=4230993599&perks=1749209109,3913600130
+
 -+- -+- -+- -+- -+- Arcite's Keepsakes -+- -+- -+- -+- -+-
     The Riposte
 dimwishlist:item=3754408118&perks=776531651,2048641572
@@ -350,6 +375,7 @@ dimwishlist:item=2073794990&perks=957782887,47981717#notes:PVP
     Rose
 dimwishlist:item=882778888&perks=1428297954,3038247973#notes:PVP
 dimwishlist:item=882778888&perks=706527188,3038247973#notes:PVP
+
 -+- -+- -+- -+- -+- Gambit -+- -+- -+- -+- -+-
     Bygones
 dimwishlist:item=2199554524&perks=1820235745,3824105627
@@ -370,6 +396,7 @@ dimwishlist:item=3221722018&perks=247725512,1546637391
 dimwishlist:item=2850664015&perks=1168162263,3038247973
 dimwishlist:item=2850664015&perks=1168162263,2848615171
 dimwishlist:item=2850664015&perks=1168162263,4293542123
+
 -+- -+- -+- -+- -+- Gambit (Legacy) -+- -+- -+- -+- -+-
     Albruna-D
 dimwishlist:item=676270382&perks=3400784728,1771339417
@@ -402,10 +429,12 @@ dimwishlist:item=3504336176&perks=1820235745,3038247973
 dimwishlist:item=821154603&perks=1820235745,3425386926
     Bad Omens
 dimwishlist:item=991314988&perks=3300816228,1275731761
+
 ----------------------------------------------------------------------------------------------------
 // ENDGAME RITUAL PLAYLIST ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Nightfall (Legacy) -+- -+- -+- -+- -+-
     Uzume RR4
 dimwishlist:item=42874240&perks=3978468247,4293542123
@@ -490,6 +519,7 @@ dimwishlist:item=1866778462&perks=3300816228,3194351027
 dimwishlist:item=1028582252&perks=1556840489,2360754333
     The Comedian (Adept)
 dimwishlist:item=1028582252&perks=1556840489,2360754333
+
 -+- -+- -+- -+- -+- Trials of Osiris -+- -+- -+- -+- -+-
     Tomorrow's Answer
 dimwishlist:item=3009199534&perks=3987942396,3078487919
@@ -521,6 +551,7 @@ dimwishlist:item=3019024381&perks=1168162263,3038247973
 dimwishlist:item=1820994983&perks=3017780555,4293542123
     The Summoner (Adept)
 dimwishlist:item=1292594730&perks=3017780555,4293542123
+
 -+- -+- -+- -+- -+- Trials of Osiris (Legacy) -+- -+- -+- -+- -+-
     Incisor
 dimwishlist:item=4248997900&perks=1820235745,557221067
@@ -603,6 +634,7 @@ dimwishlist:item=2475355656&perks=3300816228,124408337
 // DESTINATIONS ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Pale Heart Weapons -+- -+- -+- -+- -+-
     Someday
 dimwishlist:item=3232203524&perks=1556840489,469285294
@@ -627,6 +659,7 @@ dimwishlist:item=3605603507&perks=1523832109,4104185692
 dimwishlist:item=4207120603&perks=4293542123,3708227201
 dimwishlist:item=4207120603&perks=4293542123,2396489472#notes:Ad-Clear
 dimwishlist:item=4207120603&perks=1749209109,3078487919#notes:Boss Damage
+
 -+- -+- -+- -+- -+- Neomuna -+- -+- -+- -+- -+-
     Round Robin
 dimwishlist:item=2034215657&perks=1820235745,831391274
@@ -638,6 +671,7 @@ dimwishlist:item=1289796511&perks=671806388,2173046394
 dimwishlist:item=3635821806&perks=671806388,2173046394
     Dimensional Hypotrochoid
 dimwishlist:item=1311684613&perks=968510818,2396489472
+
 -+- -+- -+- -+- -+- Savathun's Throne World -+- -+- -+- -+- -+-
     Come to Pass
 dimwishlist:item=927567426&perks=3096702027,2848615171
@@ -657,6 +691,7 @@ dimwishlist:item=3865728990&perks=3400784728,2896038713
 dimwishlist:item=2721157927&perks=2284787283,2396489472
     Red Herring
 dimwishlist:item=3175851496&perks=3977735242,3927722942
+
 -+- -+- -+- -+- -+- Europa -+- -+- -+- -+- -+-
     Arctic Haze
 dimwishlist:item=20935540&perks=1168162263,2848615171
@@ -678,10 +713,12 @@ dimwishlist:item=1766088024&perks=2387244414,2848615171
 dimwishlist:item=1621657423&perks=247725512,3365897133
     Coriolis Force
 dimwishlist:item=3512349612&perks=2779035018,2726471870
+
 ----------------------------------------------------------------------------------------------------
 // GUNSMITH FOUNDRIES ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Suros -+- -+- -+- -+- -+-
     Cantata-57
 dimwishlist:item=372697604&perks=247725512,1954620775
@@ -696,6 +733,7 @@ dimwishlist:item=4019668921&perks=1168162263,4293542123
 dimwishlist:item=4100775158&perks=1428297954,2458213969
     Fioriture-59
 dimwishlist:item=2566006935&perks=4071163871,1015611457
+
 -+- -+- -+- -+- -+- Hakke -+- -+- -+- -+- -+-
     Palmyra-B
 dimwishlist:item=3489657138&perks=3300816228,3194351027
@@ -711,6 +749,7 @@ dimwishlist:item=1916287826&perks=4071163871,2458213969
     Lodbrok-C
 dimwishlist:item=2328531378&perks=1354429876,365154968
 dimwishlist:item=2328531378&perks=1359896290,365154968
+
 -+- -+- -+- -+- -+- Veist -+- -+- -+- -+- -+-
 Krait
 dimwishlist:item=2852052802&perks=1820235745,3673922083
@@ -724,6 +763,7 @@ Taipan-4FR
 dimwishlist:item=1911060537&perks=3400784728,1771339417
 Jararaca-3SR
 dimwishlist:item=1851521408&perks=247725512,1015611457
+
 -+- -+- -+- -+- -+- Omolon -+- -+- -+- -+- -+-
     Snorri FR5
 dimwishlist:item=4114929480&perks=1570042021,2652708987
@@ -742,6 +782,7 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 // WORLD LOOT POOL ()
 //notes:from World Drops List
 ----------------------------------------------------------------------------------------------------
+
 -+- -+- -+- -+- -+- Auto Rifles -+- -+- -+- -+- -+-
     False Promises
 dimwishlist:item=1390080550&perks=1119449540,124408337
@@ -763,6 +804,7 @@ dimwishlist:item=3583275737&perks=1820235745,95528736
 dimwishlist:item=3583275737&perks=776531651,2610012052
     The Number
 dimwishlist:item=2492081469&perks=4071163871,2458213969
+
 -+- -+- -+- -+- -+- Bows -+- -+- -+- -+- -+-
     Imperial Needle
 dimwishlist:item=3460122497&perks=201365942,4104185692
@@ -770,6 +812,7 @@ dimwishlist:item=3460122497&perks=201365942,4104185692
 dimwishlist:item=3472875143&perks=201365942,2848615171
     Neoptolemus II
 dimwishlist:item=2848549302&perks=691659142,1546637391
+
 -+- -+- -+- -+- -+- Fusion Rifles -+- -+- -+- -+- -+-
     Hollow Words
 dimwishlist:item=342027677&perks=2010801679,3218042543
@@ -783,6 +826,7 @@ dimwishlist:item=3044460004&perks=2779035018,2213355989
     Null Composure
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989
+
 -+- -+- -+- -+- -+- Breech GLs -+- -+- -+- -+- -+-
     Pardon Our Dust
 dimwishlist:item=3849810018&perks=3300816228,1546637391
@@ -795,6 +839,7 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
 -+- -+- -+- -+- -+- Heavy GLs -+- -+- -+- -+- -+-
     Blast Battue
 dimwishlist:item=2453357042&perks=2284787283,2396489472
@@ -810,6 +855,7 @@ dimwishlist:item=867154247&perks=968510818,3751912585
 dimwishlist:item=867154247&perks=968510818,1546637391
     Memory Interdict
 dimwishlist:item=3165547384&perks=2284787283,2396489472
+
 -+- -+- -+- -+- -+- Hand Cannons -+- -+- -+- -+- -+-
     Maahes HC4
 dimwishlist:item=1246793994&perks=776531651,4104185692
@@ -841,6 +887,7 @@ dimwishlist:item=1123421440&perks=1482024992,1885400500,1583705720,4293542123
     Finite Impactor
 dimwishlist:item=3813153080&perks=671806388,2458213969
 dimwishlist:item=3813153080&perks=2450788523,4049631843
+
 -+- -+- -+- -+- -+- Linear Fusion Rifles -+- -+- -+- -+- -+-
     Suspectum-4fr
 dimwishlist:item=3615421669&perks=968510818,2978966579
@@ -854,6 +901,7 @@ dimwishlist:item=3335343363&perks=2779035018,2848615171
 dimwishlist:item=3335343363&perks=2779035018,1015611457
     Threaded Needle
 dimwishlist:item=3075224551&perks=2284787283,1546637391
+
 -+- -+- -+- -+- -+- Machine Guns -+- -+- -+- -+- -+-
     Qua Furor V
 dimwishlist:item=751880654&perks=2779035018,2848615171
@@ -869,6 +917,7 @@ dimwishlist:item=4233375372&perks=923806249,831391274#notes:Strand Build
 dimwishlist:item=820890091&perks=1428297954,4049631843
     Shattered Cipher
 dimwishlist:item=2434225986&perks=1570042021,3425386926
+
 -+- -+- -+- -+- -+- Pulse Rifles -+- -+- -+- -+- -+-
     Joxer's Longsword
 dimwishlist:item=157601190&perks=776531651,2048641572
@@ -894,6 +943,7 @@ dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052
 dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,1015611457
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,2610012052
 dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
+
 -+- -+- -+- -+- -+- Rocket Launchers -+- -+- -+- -+- -+-
     Ascendancy
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
@@ -909,6 +959,7 @@ dimwishlist:item=1719687748&perks=3161816588,3708227201#notes:Boss Damage (Aegis
 dimwishlist:item=2231910050&perks=2010801679,4293542123
 dimwishlist:item=2231910050&perks=951095735,4293542123
 dimwishlist:item=2231910050&perks=3523296417,2396489472
+
 -+- -+- -+- -+- -+- Scout Rifles -+- -+- -+- -+- -+-
     Live Fire
 dimwishlist:item=3612142623&perks=247725512,124408337
@@ -933,6 +984,7 @@ dimwishlist:item=2218569744&perks=247725512,2173046394
 dimwishlist:item=2218569744&perks=3523296417,2173046394
 dimwishlist:item=2218569744&perks=247725512,3038247973
 dimwishlist:item=2218569744&perks=247725512,2848615171
+
 -+- -+- -+- -+- -+- Shotguns -+- -+- -+- -+- -+-
     Legato-11
 dimwishlist:item=3753063346&perks=3017780555,4293542123
@@ -957,6 +1009,7 @@ dimwishlist:item=1679868061&perks=3161816588,2679249093
 dimwishlist:item=664109750&perks=3161816588,2679249093
     The Deicide
 dimwishlist:item=217140611&perks=1556840489,2679249093
+
 -+- -+- -+- -+- -+- Sidearms -+- -+- -+- -+- -+-
     Controlling Vision
 dimwishlist:item=423343404&perks=2039302152,1774574192
@@ -980,6 +1033,7 @@ dimwishlist:item=3998080529&perks=3017780555,4293542123
 dimwishlist:item=409551876&perks=247725512,2458213969
     The Vision
 dimwishlist:item=2414141462&perks=2450788523,1015611457
+
 -+- -+- -+- -+- -+- Sniper Rifles -+- -+- -+- -+- -+-
     Veleda-F
 dimwishlist:item=4200122994&perks=776531651,1134488199
@@ -1006,6 +1060,7 @@ dimwishlist:item=2073794990&perks=957782887,47981717#notes:PVP
 dimwishlist:item=852551895&perks=957782887,47981717
     Long Shadow
 dimwishlist:item=3745990145&perks=957782887,3038247973
+
 -+- -+- -+- -+- -+- Submachine Guns -+- -+- -+- -+- -+-
     Yarovit MG4
 dimwishlist:item=3959549446&perks=1359896290,2387244414
@@ -1020,6 +1075,7 @@ dimwishlist:item=1513993763&perks=1820235745,3425386926
 dimwishlist:item=3926811686&perks=3017780555,4104185692
     Stochastic Variable
 dimwishlist:item=2272470786&perks=2779035018,2458213969
+
 -+- -+- -+- -+- -+- Swords -+- -+- -+- -+- -+-
     Temptation's Hook
 dimwishlist:item=1587953057&perks=1749209109,3913600130
@@ -1037,6 +1093,7 @@ dimwishlist:item=3257091166&perks=2590710093,2077819806
 dimwishlist:item=1456017061&perks=1749209109,3913600130
     The Other Half
 dimwishlist:item=3257091167&perks=2077819806,1546637391
+
 -+- -+- -+- -+- -+- Trace Rifles -+- -+- -+- -+- -+-
     Retraced Path
 dimwishlist:item=548958835&perks=1820235745,4293542123
