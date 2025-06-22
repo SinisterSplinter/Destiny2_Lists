@@ -236,13 +236,13 @@ dimwishlist:item=3381450498&perks=1119449540,2173046394
 dimwishlist:item=3668817296&perks=3523296417,2396489472
 
 -+- -+- -+- -+- -+- Ghost of the Deep -+- -+- -+- -+- -+-
-    New Pacific Epitaph
+    New Pacific Epitaph (4 Versions)
 dimwishlist:item=1125217994&perks=1428297954,1015611457
-    Greasy Luck
+    Greasy Luck (4 Versions)
 dimwishlist:item=1757202961&perks=951095735,4293542123
-    No Survivors
+    No Survivors (4 Versions)
 dimwishlist:item=3262192268&perks=3523296417,4293542123
-    Cold Comfort
+    Cold Comfort (4 Versions)
 dimwishlist:item=839786290&perks=968510818,1439600632
 
 -+- -+- -+- -+- -+- Duality -+- -+- -+- -+- -+-
@@ -260,37 +260,54 @@ dimwishlist:item=2194955522&perks=2779035018,4293542123
 dimwishlist:item=3652506829&perks=3300816228,4104185692
 
 -+- -+- -+- -+- -+- Prophecy -+- -+- -+- -+- -+-
-    Judgment
-dimwishlist:item=2969415423&perks=124408337,1954620775
-    The Last Breath
-dimwishlist:item=507038823&perks=1820235745,4049631843
-    Relentless
-dimwishlist:item=435821041&perks=923806249,4104185692
+    Judgment (4 Versions)
+dimwishlist:item=1773934241&perks=124408337,1955165503
+dimwishlist:item=2226572694&perks=124408337,1955165503
+dimwishlist:item=1987644603&perks=124408337,1955165503
+dimwishlist:item=3329218848&perks=124408337,1955165503
+    Relentless (4 Versions)
+dimwishlist:item=3681280908&perks=3824105627,831391274
+dimwishlist:item=3733988413&perks=3824105627,831391274
+dimwishlist:item=1066598837&perks=3824105627,831391274
+dimwishlist:item=1827058652&perks=3824105627,831391274
+    A Sudden Death (4 Versions)
+dimwishlist:item=1904170910&perks=776531651,2048641572
+dimwishlist:item=1976481399&perks=776531651,2048641572
+dimwishlist:item=1626437786&perks=776531651,2048641572
+dimwishlist:item=2764074355&perks=776531651,2048641572
+dimwishlist:item=1904170910&perks=2679249093,2360754333
+dimwishlist:item=1976481399&perks=2679249093,2360754333
+dimwishlist:item=1626437786&perks=2679249093,2360754333
+dimwishlist:item=2764074355&perks=2679249093,2360754333
+    Prosecutor (4 Versions)
+dimwishlist:item=880829467&perks=2848615171,3218042543
+dimwishlist:item=2129814338&perks=2848615171,3218042543
+dimwishlist:item=749483159&perks=2848615171,3218042543
+dimwishlist:item=4025177550&perks=2848615171,3218042543
+
     Adjudicator
 dimwishlist:item=1013434963&perks=1820235745,4104185692
-    A Sudden Death
-dimwishlist:item=4097972038&perks=968510818,2679249093
+    The Last Breath
+dimwishlist:item=507038823&perks=1820235745,4049631843
     A Swift Verdict
 dimwishlist:item=1626503676&perks=2450788523,1015611457
     Darkest Before
 dimwishlist:item=435821040&perks=3017780555,4293542123
     The Long Walk
 dimwishlist:item=3326850591&perks=1168162263,4104185692
-    Prosecutor
-dimwishlist:item=3483591058&perks=2848615171,4104185692
 
 -+- -+- -+- -+- -+- Spire of the Watcher -+- -+- -+- -+- -+-
-    Liminal Vigil
+    Liminal Vigil (4 Versions)
 dimwishlist:item=3138208275&perks=124408337,1015611457
-    Wilderflight
+    Wilderflight (4 Versions)
 dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
-    Long Arm
+    Long Arm (4 Versions)
 dimwishlist:item=8293111&perks=1820235745,3038247973
-    Terminus Horizon
+    Terminus Horizon (4 Versions)
 dimwishlist:item=487205709&perks=2848615171,11612903
-    Seventh Seraph Carbine
+    Seventh Seraph Carbine (4 Versions)
 dimwishlist:item=4070357005&perks=1523832109,365154968
-    Seventh Seraph Officer Revolver
+    Seventh Seraph Officer Revolver (4 Versions)
 dimwishlist:item=1555959830&perks=1523832109,2213355989
 
 -+- -+- -+- -+- -+- Grasp of Avarice -+- -+- -+- -+- -+-
