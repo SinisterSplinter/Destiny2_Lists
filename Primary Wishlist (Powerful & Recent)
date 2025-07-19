@@ -451,6 +451,7 @@ dimwishlist:item=4146673635&perks=1017229899,113508675
     Outrageous Fortune
 dimwishlist:item=4146673634&perks=1771897777,3987942396,3078487919#notes:DPS
 dimwishlist:item=4146673634&perks=3301904089,3987942396,3078487919#notes:DPS
+
 ———> Campaign
     Jurisprudent
 dimwishlist:item=4090134063&perks=247725512,124408337
@@ -477,15 +478,6 @@ dimwishlist:item=3576134513&perks=1820235745,4198902903
 dimwishlist:item=407150810&perks=1820235745,4198902903
 dimwishlist:item=407150811&perks=1820235745,4198902903
     Synanceia (3 Versions)
-dimwishlist:item=1823308496&perks=4132187021
-dimwishlist:item=2765451290&perks=4132187021
-dimwishlist:item=2765451291&perks=4132187021
-dimwishlist:item=1823308496&perks=2077819806
-dimwishlist:item=2765451290&perks=2077819806
-dimwishlist:item=2765451291&perks=2077819806
-dimwishlist:item=1823308496&perks=2396489472
-dimwishlist:item=2765451290&perks=2396489472
-dimwishlist:item=2765451291&perks=2396489472
 dimwishlist:item=1823308496&perks=1749209109,2890807135
 dimwishlist:item=2765451290&perks=1749209109,2890807135
 dimwishlist:item=2765451291&perks=1749209109,2890807135
@@ -506,16 +498,11 @@ dimwishlist:item=2765451290&perks=354401740,3708227201#notes:DPS
 dimwishlist:item=2765451291&perks=354401740,3708227201#notes:DPS
 
 -+- -+- -+- -+- -+- Solstice (S27) -+- -+- -+- -+- -+-
-
     Festival Flight (2 Versions)
-dimwishlist:item=3977654524&perks=3987942396,243981275
-dimwishlist:item=4019651319&perks=3987942396,243981275
 dimwishlist:item=3977654524&perks=3987942396,4049631843
 dimwishlist:item=4019651319&perks=3987942396,4049631843
-dimwishlist:item=3977654524&perks=3523296417,4049631843
-dimwishlist:item=4019651319&perks=3523296417,4049631843
-dimwishlist:item=3977654524&perks=3523296417,243981275
-dimwishlist:item=4019651319&perks=3523296417,243981275
+dimwishlist:item=3977654524&perks=3987942396,1089671869#notes:DPS
+dimwishlist:item=4019651319&perks=3987942396,1089671869#notes:DPS
     Fortunate Star (2 Versions)
 dimwishlist:item=591672323&perks=2848615171,2048641572
 dimwishlist:item=2631466936&perks=2848615171,2048641572
