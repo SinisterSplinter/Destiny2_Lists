@@ -1,8 +1,8 @@
 title:Primary Wishlist (Powerful & Recent)
 description:This DIM wishlist is created and curated by SinisterSplinter (Bungie: Splinter9147).
-
 ----------------------------------------------------------------------------------------------------
 // RAIDS ()
+//notes:Best-in-Slot Perk Combiniations - Raid Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Desert Perpetual -+- -+- -+- -+- -+-
 
@@ -199,6 +199,7 @@ dimwishlist:item=1851777734&perks=1523832109,3078487919
 
 ----------------------------------------------------------------------------------------------------
 // DUNGEONS ()
+//notes:Best-in-Slot Perk Combiniations - Dungeon Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Sundered Doctrine -+- -+- -+- -+- -+-
     Unloved
@@ -412,6 +413,7 @@ dimwishlist:item=250721843&perks=1749209109,4293542123
 
 ----------------------------------------------------------------------------------------------------
 // SEASONS ()
+//notes:Best-in-Slot Perk Combiniations - Seasonal Weapons
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Edge of Fate -+- -+- -+- -+- -+-
 ———> Seasonal
@@ -431,7 +433,6 @@ dimwishlist:item=367772693&perks=2679249093,1546637391
     Ulterior Observation
 dimwishlist:item=1079872540&perks=124408337,557221067
 dimwishlist:item=1079872540&perks=124408337,1955165503#notes:Ex-Frozen Build
-
 ———> Pinnacle
     Lionfish-4FR
 dimwishlist:item=2423071981&perks=1523832109,1427256713
@@ -448,8 +449,6 @@ dimwishlist:item=4146673635&perks=3301904089,1523832109,1089671869#notes:DPS
     Outrageous Fortune
 dimwishlist:item=4146673634&perks=1771897777,3987942396,3078487919#notes:DPS
 dimwishlist:item=4146673634&perks=3301904089,3987942396,3078487919#notes:DPS
-
-
 ———> Campaign
     Jurisprudent
 dimwishlist:item=4090134063&perks=247725512,124408337
@@ -485,12 +484,12 @@ dimwishlist:item=2765451291&perks=1749209109,1089671869#notes:DPS #1
 dimwishlist:item=1823308496&perks=1749209109,3708227201#notes:DPS #2
 dimwishlist:item=2765451290&perks=1749209109,3708227201#notes:DPS #2
 dimwishlist:item=2765451291&perks=1749209109,3708227201#notes:DPS #2
-dimwishlist:item=1823308496&perks=354401740,1089671869#notes:Double DPS Perks #1
-dimwishlist:item=2765451290&perks=354401740,1089671869#notes:Double DPS Perks #1
-dimwishlist:item=2765451291&perks=354401740,1089671869#notes:Double DPS Perks #1
-dimwishlist:item=1823308496&perks=354401740,3708227201#notes:Double DPS Perks #2
-dimwishlist:item=2765451290&perks=354401740,3708227201#notes:Double DPS Perks #2
-dimwishlist:item=2765451291&perks=354401740,3708227201#notes:Double DPS Perks #2
+dimwishlist:item=1823308496&perks=354401740,1089671869#notes:Double DPS Perks
+dimwishlist:item=2765451290&perks=354401740,1089671869#notes:Double DPS Perks
+dimwishlist:item=2765451291&perks=354401740,1089671869#notes:Double DPS Perks
+dimwishlist:item=1823308496&perks=354401740,3708227201#notes:Double DPS Perks
+dimwishlist:item=2765451290&perks=354401740,3708227201#notes:Double DPS Perks
+dimwishlist:item=2765451291&perks=354401740,3708227201#notes:Double DPS Perks
 
 -+- -+- -+- -+- -+- Solstice (S27) -+- -+- -+- -+- -+-
     Festival Flight (2 Versions)
@@ -506,6 +505,7 @@ dimwishlist:item=2631466936&perks=201365942,3365897133#notes:Gyrfalcon Build
     Yeartide Apex (2 Versions)
 dimwishlist:item=2965080304&perks=3017780555,3640170453#notes:Dual-Healing
 dimwishlist:item=2965080304&perks=3017780555,3640170453#notes:Dual-Healing
+
 -+- -+- -+- -+- -+- Eposide: Heresy -+- -+- -+- -+- -+-
     Adamantite (4 Versions)
 dimwishlist:item=2987244302&perks=1820235745,243981275
@@ -719,6 +719,7 @@ dimwishlist:item=3757612024&perks=3017780555,4293542123
 
 ----------------------------------------------------------------------------------------------------
 // PLAYLIST ()
+//notes:Best-in-Slot Perk Combinations - Activity Playlist
 ----------------------------------------------------------------------------------------------------
 -+- -+- -+- -+- -+- Nightfall -+- -+- -+- -+- -+-
     Wild Style (2 Versions)
