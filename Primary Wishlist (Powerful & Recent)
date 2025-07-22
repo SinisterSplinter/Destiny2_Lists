@@ -8,8 +8,8 @@ description:This DIM wishlist is created and curated by SinisterSplinter (Bungie
 -+- -+- -+- -+- -+- Salvation's Edge -+- -+- -+- -+- -+-
     Critical Anomaly (2 Versions) ()
 dimwishlist:item=445197843&perks=2978966579,3640170453
-dimwishlist:item=445197843&perks=3418782618,3640170453#notes:Boss DPS
 dimwishlist:item=172461430&perks=2978966579,3640170453
+dimwishlist:item=445197843&perks=3418782618,3640170453#notes:Boss DPS
 dimwishlist:item=172461430&perks=3418782618,3640170453#notes:Boss DPS
     Forthcoming Deviance (2 Versions) ()
 dimwishlist:item=535198113&perks=1631667848,3640170453
@@ -27,8 +27,8 @@ dimwishlist:item=859869931&perks=3824105627,4293542123
 dimwishlist:item=892183998&perks=3824105627,4293542123
     Summum Bonum (2 Versions) ()
 dimwishlist:item=3569407878&perks=1164602481,3913600130#notes:Boss DPS
-dimwishlist:item=3569407878&perks=1749209109,3913600130#notes:Boss DPS
 dimwishlist:item=2001697739&perks=1164602481,3913600130#notes:Boss DPS
+dimwishlist:item=3569407878&perks=1749209109,3913600130#notes:Boss DPS
 dimwishlist:item=2001697739&perks=1749209109,3913600130#notes:Boss DPS
 -+- -+- -+- -+- -+- Crota's End -+- -+- -+- -+- -+-
     Fang of Ir Yût (2 Versions) ()
@@ -64,8 +64,8 @@ dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=522366885&perks=1523832109,1546637391
     Koraxis's Distress (2 Versions) ()
 dimwishlist:item=2972949637&perks=1523832109,4104185692
-dimwishlist:item=2972949637&perks=968510818,4104185692
 dimwishlist:item=495442100&perks=1523832109,4104185692
+dimwishlist:item=2972949637&perks=968510818,4104185692
 dimwishlist:item=495442100&perks=968510818,4104185692
     Briar's Contempt (2 Versions) ()
 dimwishlist:item=1491665733&perks=1523832109,4104185692
@@ -73,14 +73,14 @@ dimwishlist:item=2890082420&perks=1523832109,4104185692
 -+- -+- -+- -+- -+- King's Fall -+- -+- -+- -+- -+-
     Smite of Merain (2 Versions) ()
 dimwishlist:item=2221264583&perks=3523296417,3824105627
-dimwishlist:item=2221264583&perks=691659142,3824105627
 dimwishlist:item=3407395594&perks=3523296417,3824105627
+dimwishlist:item=2221264583&perks=691659142,3824105627
 dimwishlist:item=3407395594&perks=691659142,3824105627
     Defiance of Yasmin (2 Versions) ()
-dimwishlist:item=3228096719&perks=3824105627,1546637391
-dimwishlist:item=3228096719&perks=1774574192,1546637391#notes:Boss DPS
 dimwishlist:item=3503019618&perks=3824105627,1546637391
+dimwishlist:item=3228096719&perks=3824105627,1546637391
 dimwishlist:item=3503019618&perks=1774574192,1546637391#notes:Boss DPS
+dimwishlist:item=3228096719&perks=1774574192,1546637391#notes:Boss DPS
     Zaouli's Bane (2 Versions) ()
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=291092617&perks=3038247973,4293542123
@@ -115,24 +115,24 @@ dimwishlist:item=2886339027&perks=1354429876,3078487919
 -+- -+- -+- -+- -+- Vault of Glass -+- -+- -+- -+- -+-
     Fatebringer (2 Versions) ()
 dimwishlist:item=4184168210&perks=3038247973,3824105627
-dimwishlist:item=4184168210&perks=3891536761,4049631843
 dimwishlist:item=4219826183&perks=3038247973,3824105627
+dimwishlist:item=4184168210&perks=3891536761,4049631843
 dimwishlist:item=4219826183&perks=3891536761,4049631843
     Praedyth's Revenge (2 Versions) ()
 dimwishlist:item=3844610113&perks=3891536761,3078487919
 dimwishlist:item=2362652544&perks=3891536761,3078487919
     Vision of Confluence (2 Versions) ()
 dimwishlist:item=3444688218&perks=4293542123,3824105627
-dimwishlist:item=3444688218&perks=4293542123,3038247973
 dimwishlist:item=337578911&perks=4293542123,3824105627
+dimwishlist:item=3444688218&perks=4293542123,3038247973
 dimwishlist:item=337578911&perks=4293542123,3038247973
     Found Verdict (2 Versions) ()
 dimwishlist:item=694500607&perks=3978468247,2679249093
 dimwishlist:item=851296754&perks=3978468247,2679249093
     Corrective Measure (2 Versions) ()
 dimwishlist:item=3654744298&perks=2048641572,1464081238
-dimwishlist:item=3654744298&perks=1820235745,557221067
 dimwishlist:item=2334480463&perks=2048641572,1464081238
+dimwishlist:item=3654744298&perks=1820235745,557221067
 dimwishlist:item=2334480463&perks=1820235745,557221067
     Hezen Vengeance (2 Versions) ()
 dimwishlist:item=2265407516&perks=3987942396,3078487919
