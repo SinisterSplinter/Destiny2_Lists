@@ -1,7 +1,7 @@
 title:D2 Weapon Godrolls - DIM Wishlist
 description:A Wishlist created by SinisterSplinter based on TheAegisRelic's Endgame Analysis weapon ranking spreadsheets.
 
-// notes: Weapons in this section are personal Godrolls
+// notes:Personal Godroll
 // D.F.A ()
 dimwishlist:item=739029153&perks=3038247973,243981275,3454102905
 
@@ -9,7 +9,7 @@ dimwishlist:item=739029153&perks=3038247973,243981275,3454102905
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 
-// notes: Aegis' S-Tier Rankings
+// notes:Aegis' S-Tier Ranking
 // The Martlet ()
 dimwishlist:item=877384&perks=776531651,2048641572,65797256
 dimwishlist:item=877384&perks=776531651,2048641572,1939575288
@@ -9553,7 +9553,7 @@ dimwishlist:item=4248569242&perks=1545231802,331667533,766321425
 dimwishlist:item=4248569242&perks=1545231802,331667533,1501421141
 
 
-title:D2 Aegis A-Tier Rankings
+title:Aegis A-Tier Ranking
 
 // The Title ()
 dimwishlist:item=55393445&perks=776531651,2048641572,1702976605
