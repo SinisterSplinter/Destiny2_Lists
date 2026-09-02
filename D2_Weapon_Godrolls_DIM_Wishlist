@@ -2,12 +2,17 @@ title:D2 Weapon Godrolls - DIM Wishlist
 description:A Wishlist created by SinisterSplinter based on TheAegisRelic's Endgame Analysis weapon ranking spreadsheets.
 
 // D.F.A.
-//notes:Personal Godroll — 
+//notes:Personal Godroll
 dimwishlist:item=739029153&perks=3038247973,243981275,3454102905
 
 // Forbearance
-//notes:Personal Godroll — 
+//notes:Personal Godroll
 dimwishlist:item=3736001860&perks=1421772400,2173046394,2489430594
+
+// Modified B-7 Pistol
+//notes:Personal Godroll
+dimwishlist:item=3146657388&perks=1955165503,124408337
+dimwishlist:item=3146657388&perks=1955165503,2922950962
 
 // No Hesitation
 //notes:Aegis S-Tier, Rank #1 — Best survivability support auto, also insane with Elemental Supercharger due to origin trait.
